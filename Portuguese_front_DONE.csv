@@ -1,0 +1,1945 @@
+id,category,language,message,translation
+1,backend,pt_br,Total Sales,Vendas totais
+2,backend,pt_br,Total Merchant,Comerciante total
+3,backend,pt_br,Total Commission,Comissão total
+4,backend,pt_br,Total Subscriptions,Total de assinaturas
+5,backend,pt_br,Commission this week,Comissão esta semana
+6,backend,pt_br,Commission this month,Comissão este mês
+7,backend,pt_br,Subscriptions this month,Assinaturas este mês
+8,backend,pt_br,Order received,Pedido Recebido
+9,backend,pt_br,Today delivered,Hoje entregue
+10,backend,pt_br,New customer,Novo cliente
+11,backend,pt_br,Total refund,Reembolso total
+12,backend,pt_br,Last Orders,Últimos pedidos
+13,backend,pt_br,Quick management of the last {{limit}} orders,Gerenciamento rápido dos últimos {{limit}} pedidos
+14,backend,pt_br,Block Customer,Bloquear cliente
+15,backend,pt_br,"You are about to block this customer from ordering to your restaurant, click confirm to continue?","Você está prestes a impedir que este cliente faça pedidos em seu restaurante, clique em confirmar para continuar?"
+16,backend,pt_br,Cancel,Cancelar
+17,backend,pt_br,Confirm,confirme
+18,backend,pt_br,Sold,Vendido
+19,backend,pt_br,sales,vendas
+20,backend,pt_br,Sales overview,Visão geral de vendas
+21,backend,pt_br,Top Customers,Principais clientes
+22,backend,pt_br,Overview of Review,Visão geral da revisão
+23,backend,pt_br,Star,Estrela
+24,backend,pt_br,Checkout All Reviews,Confira todas as avaliações
+25,backend,pt_br,Recent payout,Pagamento recente
+26,backend,pt_br,Withdrawals Details,Detalhes de saques
+27,backend,pt_br,Close,Fechar
+28,backend,pt_br,Process this payout,Processar este pagamento
+29,backend,pt_br,Cancel this payout,Cancelar este pagamento
+30,backend,pt_br,Set status to paid,Definir status como pago
+31,backend,pt_br,All,Todo
+32,backend,pt_br,Processing,Em processamento
+33,backend,pt_br,Ready,Preparar
+34,backend,pt_br,Completed,Concluído
+35,backend,pt_br,Popular items,Itens populares
+36,backend,pt_br,latest popular items,últimos itens populares
+37,backend,pt_br,Last 30 days sales,Últimos 30 dias de vendas
+38,backend,pt_br,sales for last 30 days,vendas nos últimos 30 dias
+39,backend,pt_br,Popular merchants,Comerciantes populares
+40,backend,pt_br,best selling restaurant,restaurante mais vendido
+41,backend,pt_br,Popular by review,Popular por comentário
+42,backend,pt_br,most reviewed,mais revisado
+45,backend,pt_br,The difference between the DateTimes is NaN.,A diferença entre os DateTimes é NaN.
+46,backend,pt_br,Moments ago,Momentos atrás
+47,backend,pt_br,Seconds from now,Segundos a partir de agora
+48,backend,pt_br,Yesterday,Ontem
+49,backend,pt_br,Tomorrow,Amanhã
+50,backend,pt_br,year,ano
+51,backend,pt_br,minutes,minutos
+52,backend,pt_br,ago,atrás
+53,backend,pt_br,hours,horas
+54,backend,pt_br,days,dias
+55,backend,pt_br,minute,minuto
+56,backend,pt_br,hour,hora
+57,backend,pt_br,day,dia
+58,backend,pt_br,Member since {{date_created}},Membro desde {{date_created}}
+59,backend,pt_br,{{total_sold}} orders,{{total_sold}} pedidos
+60,backend,pt_br,{{total_sold}} sold,{{total_sold}} vendido
+61,backend,pt_br,This month you got {{count}} New Reviews,Este mês você recebeu {{count}} novas avaliações
+62,backend,pt_br,You don't have current orders.,Você não tem pedidos atuais.
+63,backend,pt_br,Order #{{order_id}},Pedido #{{order_id}}
+64,backend,pt_br,{{sold}} sold,{{sold}} vendido
+65,backend,pt_br,ratings,avaliações
+66,backend,pt_br,Title,Título
+67,backend,pt_br,Select File,Selecione o arquivo
+68,backend,pt_br,Upload New,Carregar novo
+69,backend,pt_br,Website logo,Logo do site
+70,backend,pt_br,Add Files,Adicionar arquivos
+71,backend,pt_br,Previous,Anterior
+72,backend,pt_br,Next,Próximo
+73,backend,pt_br,Search,Procurar
+74,backend,pt_br,Business Address,Endereço profissional
+75,backend,pt_br,Address,Endereço
+76,backend,pt_br,Contact Phone Number,Telefone de contato
+77,backend,pt_br,Contact email,Email de contato
+78,backend,pt_br,Save,Salvar
+79,backend,pt_br,Site information,Informação do Site
+80,backend,pt_br,Map API Keys,Chaves de API do mapa
+81,backend,pt_br,Google Recaptcha,Google Recaptcha
+82,backend,pt_br,Search Mode,Modo de pesquisa
+83,backend,pt_br,Login & Signup,Entrar Inscrever-se
+84,backend,pt_br,Phone Settings,Configurações do telefone
+85,backend,pt_br,Social Login,Login social
+86,backend,pt_br,Printing Settings,Configurações de impressão
+87,backend,pt_br,Reviews,Avaliações
+88,backend,pt_br,Timezone,Fuso horário
+89,backend,pt_br,Ordering,Encomenda
+90,backend,pt_br,Merchant Registration,Registro do comerciante
+91,backend,pt_br,Notifications,Notificações
+92,backend,pt_br,Contact Settings,Configurações de contato
+93,backend,pt_br,Analytics,Análise
+94,backend,pt_br,Choose Map Provider,Escolha o provedor de mapas
+95,backend,pt_br,Google Maps,Google Maps
+96,backend,pt_br,Mapbox,Mapbox
+97,backend,pt_br,Google Maps (default),Google Maps (padrão)
+98,backend,pt_br,Geocoding API Key,Chave de API de geocodificação
+99,backend,pt_br,Google Maps JavaScript API,API JavaScript do Google Maps
+100,backend,pt_br,Mapbox Access Token,Token de acesso do Mapbox
+101,backend,pt_br,Site configuration,Configuração do site
+102,backend,pt_br,reCAPTCHA v2,reCAPTCHA v2
+103,backend,pt_br,Captcha Site Key,Chave do Site Captcha
+104,backend,pt_br,Captcha Secret,Captcha Secret
+105,backend,pt_br,Captcha Lang,Captcha Lang
+106,backend,pt_br,default is = en,o padrão é = pt
+107,backend,pt_br,Administration login,Login de administração
+108,backend,pt_br,Enabled,Habilitado
+109,backend,pt_br,Merchant login,Login do comerciante
+111,backend,pt_br,Address using map provider,Endereço usando o provedor de mapas
+112,backend,pt_br,Zone,Zona
+113,backend,pt_br,Location using define address,Localização usando definir endereço
+114,backend,pt_br,Settings for Address,Configurações de endereço
+115,backend,pt_br,Enabled choose address from map,Ativado escolha o endereço do mapa
+116,backend,pt_br,Set Specific Country,Definir país específico
+117,backend,pt_br,leave empty to show all country,deixe em branco para mostrar todo o país
+118,backend,pt_br,Settings for define locations,Configurações para definir locais
+119,backend,pt_br,City / Area,Área da cidade
+120,backend,pt_br,State / City,Cidade-estado
+121,backend,pt_br,PostalCode/ZipCode,Código Postal / CEP
+122,backend,pt_br,All Country,Todo o país
+123,backend,pt_br,No results.,Sem resultados.
+124,backend,pt_br,Key,Chave
+125,backend,pt_br,Value,Valor
+126,backend,pt_br,Search key,Chave de pesquisa
+127,backend,pt_br,Add Key,Adicionar chave
+128,backend,pt_br,First,Primeiro
+129,backend,pt_br,Last,Durar
+130,backend,pt_br,Signup Type,Tipo de inscrição
+131,backend,pt_br,Standard signup,Inscrição padrão
+132,backend,pt_br,Mobile phone signup,Cadastro de celular
+133,backend,pt_br,Signup Verifications,Verificações de inscrição
+134,backend,pt_br,This settings only works in standard signup,Essas configurações só funcionam na inscrição padrão
+135,backend,pt_br,Resend code interval,Reenviar intervalo de código
+136,backend,pt_br,Google reCapcha,Google reCapcha
+137,backend,pt_br,Terms and condition,Termos e Condições
+138,backend,pt_br,Welcome Template,Modelo de boas-vindas
+139,backend,pt_br,New Signup Template,Novo modelo de inscrição
+140,backend,pt_br,this template will send to admin user,este modelo será enviado para o usuário administrador
+141,backend,pt_br,Verification Template,Modelo de verificação
+142,backend,pt_br,Reset Password Template,Redefinir modelo de senha
+143,backend,pt_br,Block user from registering,Impedir que o usuário se cadastre
+144,backend,pt_br,Multiple email separated by comma,Vários e-mails separados por vírgula
+145,backend,pt_br,Multiple mobile separated by comma,Vários móveis separados por vírgula
+146,backend,pt_br,Phone country list,Lista de países do telefone
+147,backend,pt_br,"define the country selection for mobile phone, empty means will show all.","defina a seleção de país para celular, meios vazios mostrarão todos."
+148,backend,pt_br,Default country,País padrão
+149,backend,pt_br,default mobile country,país móvel padrão
+150,backend,pt_br,Facebook,o Facebook
+151,backend,pt_br,Enabled Facebook Login,Login do Facebook ativado
+152,backend,pt_br,App ID,ID do aplicativo
+153,backend,pt_br,App Secret,Segredo do aplicativo
+154,backend,pt_br,Enabled Google Login,Login do Google ativado
+155,backend,pt_br,Client ID,ID do Cliente
+156,backend,pt_br,Client Secret,Segredo do cliente
+157,backend,pt_br,Google,Google
+158,backend,pt_br,Receipt Thank you text,Texto de agradecimento de recibo
+159,backend,pt_br,Receipt Footer text,Texto do rodapé do recibo
+160,backend,pt_br,Receipt Logo,Logotipo do recibo
+161,backend,pt_br,Item translations,Traduções de itens
+162,backend,pt_br,Merchant can edit/delete review,O comerciante pode editar/excluir a avaliação
+163,backend,pt_br,Resize image width,Redimensionar largura da imagem
+164,backend,pt_br,"upload review image will resize to set width, if below set width no resizing will happen.","o upload da imagem de revisão será redimensionado para a largura definida, se estiver abaixo da largura definida, nenhum redimensionamento ocorrerá."
+165,backend,pt_br,Template review,Revisão do modelo
+166,backend,pt_br,Send email reminder to customer to review there order.,Envie um lembrete por e-mail ao cliente para revisar o pedido.
+167,backend,pt_br,Time Zone,Fuso horário
+168,backend,pt_br,Date Format,Formato de data
+169,backend,pt_br,Time Format,Formato de hora
+170,backend,pt_br,Time interval,Intervalo de tempo
+171,backend,pt_br,Enabled Ordering,Pedido ativado
+172,backend,pt_br,Cannot do order again if previous order status is,Não é possível fazer o pedido novamente se o status do pedido anterior for
+173,backend,pt_br,Order Cancellation,Cancelamento do pedido
+174,backend,pt_br,Enabled cancellation of order,Cancelamento de pedido ativado
+175,backend,pt_br,Enabled Registration,Registro ativado
+176,backend,pt_br,Enabled CAPTCHA,CAPTCHA ativado
+177,backend,pt_br,Membership Program,Programa de Sócios
+178,backend,pt_br,Terms and conditions,Termos e Condições
+179,backend,pt_br,Pre-configure food item size,Pré-configurar o tamanho do alimento
+180,backend,pt_br,Templates,Modelos
+181,backend,pt_br,"this will be added as default food item size to merchant during registration. value must be separated by comma eg. small,medium,large","isso será adicionado como tamanho de item de comida padrão ao comerciante durante o registro. valor deve ser separado por vírgula, por exemplo. pequeno médio grande"
+182,backend,pt_br,Confirm Account,Confirmar conta
+183,backend,pt_br,Welcome email,E-mail de boas-vindas
+184,backend,pt_br,Plan Near Expiration,Plano próximo ao vencimento
+185,backend,pt_br,Plan Expired,Plano expirado
+186,backend,pt_br,New Signup,Nova inscrição
+187,backend,pt_br,this template will send to admin,este modelo será enviado para o administrador
+188,backend,pt_br,Enabled Notification,Notificação ativada
+189,backend,pt_br,Email and Mobile number who will receive notifications like new order and cancel order.,E-mail e número de celular que receberá notificações como novo pedido e cancelar pedido.
+190,backend,pt_br,Multiple email/mobile must be separated by comma.,Vários e-mails/celulares devem ser separados por vírgula.
+191,backend,pt_br,Email address,Endereço de e-mail
+192,backend,pt_br,Mobile number,Número de telemóvel
+193,backend,pt_br,Receiver Email Address,Endereço de e-mail do destinatário
+194,backend,pt_br,Content,Contente
+195,backend,pt_br,Contact Fields,Campos de contato
+196,backend,pt_br,Facebook Pixel Setting,Configuração de pixel do Facebook
+197,backend,pt_br,Facebook Pixel ID,ID de pixel do Facebook
+198,backend,pt_br,Google Analytics Setting,Configuração do Google Analytics
+199,backend,pt_br,Tracking ID,Código de rastreamento
+200,backend,pt_br,All Merchant,Todos os Comerciantes
+201,backend,pt_br,Name,Nome
+202,backend,pt_br,Charge Type,Tipo de cobrança
+203,backend,pt_br,Actions,Ações
+204,backend,pt_br,Add new,Adicionar novo
+205,backend,pt_br,Update,Atualizar
+206,backend,pt_br,Delete,Excluir
+207,backend,pt_br,Edit Merchant,Editar comerciante
+208,backend,pt_br,Restaurant name,Nome do restaurante
+209,backend,pt_br,Restaurant Slug,lesma do restaurante
+210,backend,pt_br,Contact Name,Nome de contato
+211,backend,pt_br,Contact Phone,telefone de contato
+212,backend,pt_br,Header,Cabeçalho
+213,backend,pt_br,About,Sobre
+214,backend,pt_br,Short About,Curta sobre
+215,backend,pt_br,Cuisine,Cozinha
+216,backend,pt_br,Services,Serviços
+217,backend,pt_br,Tags,Tag
+218,backend,pt_br,Featured,Destaque
+219,backend,pt_br,Delivery Distance Covered,Distância de entrega coberta
+220,backend,pt_br,Published Merchant,Comerciante publicado
+221,backend,pt_br,Miles,Milhas
+222,backend,pt_br,Kilometers,Quilômetros
+223,backend,pt_br,Status,Status
+224,backend,pt_br,Logo,Logotipo
+225,backend,pt_br,Merchant information,Informações do comerciante
+226,backend,pt_br,Login information,Informações de login
+227,backend,pt_br,Merchant Type,Tipo de comerciante
+229,backend,pt_br,Payment history,Histórico de pagamento
+230,backend,pt_br,Payment settings,Configurações de pagamento
+231,backend,pt_br,Others,Outras
+232,backend,pt_br,First Name,Primeiro nome
+233,backend,pt_br,Last Name,Último nome
+235,backend,pt_br,Contact number,Número de contato
+236,backend,pt_br,Username,Nome do usuário
+237,backend,pt_br,New Password,Nova Senha
+238,backend,pt_br,Confirm Password,Confirme a Senha
+239,backend,pt_br,Address details,Detalhes do Endereço
+241,backend,pt_br,Geolocation,Geolocalização
+242,backend,pt_br,Latitude,Latitude
+243,backend,pt_br,Lontitude,Longitude
+244,backend,pt_br,Radius distance covered,Distância do raio percorrida
+245,backend,pt_br,"Get your address geolocation via service like [link] or [link2], entering invalid coordinates will make your store not available for ordering","Obtenha a geolocalização do seu endereço por meio de serviços como [link] ou [link2], inserir coordenadas inválidas fará com que sua loja não esteja disponível para pedidos"
+246,backend,pt_br,No results,Sem resultados
+247,backend,pt_br,Searching...,Procurando...
+248,backend,pt_br,Type,Tipo
+249,backend,pt_br,commission on orders,comissão sobre pedidos
+250,backend,pt_br,Percent Commision,Comissão Percentual
+251,backend,pt_br,Plan,Plano
+252,backend,pt_br,Created,Criado
+253,backend,pt_br,Payment,Pagamento
+254,backend,pt_br,Invoice #,Fatura #
+255,backend,pt_br,No data available in table,Sem dados disponíveis na tabela
+256,backend,pt_br,Showing [start] to [end] of [total] entries,Mostrando [início] a [fim] de [total] entradas
+257,backend,pt_br,Showing 0 to 0 of 0 entries,Mostrando 0 a 0 de 0 entradas
+258,backend,pt_br,(filtered from [max] total entries),(filtrado do total de [max] entradas)
+259,backend,pt_br,Show [menu] entries,Mostrar entradas de [menu]
+260,backend,pt_br,Loading...,Carregando...
+261,backend,pt_br,Search:,Procurar:
+262,backend,pt_br,No matching records found,Nenhum registro correspondente encontrado
+266,backend,pt_br,: activate to sort column ascending,: ativar para classificar a coluna em ordem crescente
+267,backend,pt_br,: activate to sort column descending,: ativar para ordenar a coluna decrescente
+268,backend,pt_br,Enabled Payment gateway,Gateway de pagamento ativado
+269,backend,pt_br,Check All,Verificar tudo
+270,backend,pt_br,Close this store,Fechar esta loja
+272,backend,pt_br,Add Merchant,Adicionar comerciante
+273,backend,pt_br,Edit Merchant - information,Editar comerciante - informações
+274,backend,pt_br,Edit Merchant - login,Editar comerciante - login
+275,backend,pt_br,Edit Merchant - Merchant type,Editar comerciante - tipo de comerciante
+276,backend,pt_br,Edit Merchant - Featured,Editar comerciante - Em destaque
+277,backend,pt_br,Edit Merchant - Address,Editar comerciante - Endereço
+278,backend,pt_br,Edit Merchant - Zone,Editar comerciante - Zona
+280,backend,pt_br,Merchant - Payment Settings,Comerciante - Configurações de pagamento
+281,backend,pt_br,Merchant - Others,Comerciante - Outros
+282,backend,pt_br,Merchant - Access,Comerciante - Acesso
+283,backend,pt_br,All Sponsored,Todos patrocinados
+284,backend,pt_br,Expiration Date,Data de validade
+285,backend,pt_br,Plan list,Lista de planos
+286,backend,pt_br,Description,Descrição
+287,backend,pt_br,Price,Preço
+288,backend,pt_br,Promo,Promoção
+289,backend,pt_br,All Plans,Todos os planos
+290,backend,pt_br,Add,Adicionar
+291,backend,pt_br,Promo Price,Preço promocional
+292,backend,pt_br,Plan period,Período do plano
+293,backend,pt_br,Item limit,Limite de itens
+294,backend,pt_br,0 is unlimited numbers of items,0 é um número ilimitado de itens
+295,backend,pt_br,Order limit,Limite de pedidos
+296,backend,pt_br,Trial Period,Período de teste
+297,backend,pt_br,0 is unlimited numbers of orders per period,0 é um número ilimitado de pedidos por período
+298,backend,pt_br,trial period number of days,período de teste número de dias
+299,backend,pt_br,Unlimited,Ilimitado
+300,backend,pt_br,Limited,Limitado
+301,backend,pt_br,Daily,Diário
+302,backend,pt_br,Monthly,Por mês
+303,backend,pt_br,Anually,Anualmente
+304,backend,pt_br,Weekly,Semanalmente
+305,backend,pt_br,Details,Detalhes
+306,backend,pt_br,Features,Recursos
+307,backend,pt_br,Plans Payment ID,ID de pagamento dos planos
+308,backend,pt_br,Paypal,Paypal
+309,backend,pt_br,Plan ID,ID do plano
+310,backend,pt_br,Stripe,Stripe
+311,backend,pt_br,Price IDs,Códigos de preço
+312,backend,pt_br,Razorpay,Razorpay
+313,backend,pt_br,No payment yet available,Nenhum pagamento ainda disponível
+314,backend,pt_br,Order Information,Informações do pedido
+315,backend,pt_br,Order ID,Código do pedido
+316,backend,pt_br,Merchant,Comerciante
+317,backend,pt_br,Customer,Cliente
+318,backend,pt_br,Orders,Pedidos
+320,backend,pt_br,Total Orders,Total de pedidos
+321,backend,pt_br,All Orders,Todos os pedidos
+322,backend,pt_br,Filters,Filtros
+323,backend,pt_br,{{total_items}} items,{{total_items}} itens
+324,backend,pt_br,Order Type.,Tipo de pedido.
+325,backend,pt_br,Total. {{total}},Total. {{total}}
+326,backend,pt_br,Place on {{date}},Local em {{date}}
+327,backend,pt_br,Start date -- End date,Data de início data de fim
+328,backend,pt_br,to,para
+329,backend,pt_br,Order type,Tipo de pedido
+330,backend,pt_br,Su,Dom.
+331,backend,pt_br,Mo,Seg.
+332,backend,pt_br,Tu,Ter.
+333,backend,pt_br,We,Qua.
+334,backend,pt_br,Th,Qui.
+335,backend,pt_br,Fr,Sex.
+336,backend,pt_br,Sa,Sab. 
+337,backend,pt_br,January,Janeiro
+338,backend,pt_br,February,fevereiro
+339,backend,pt_br,March,Março
+340,backend,pt_br,April,abril
+341,backend,pt_br,May,Posso
+342,backend,pt_br,June,junho
+343,backend,pt_br,July,julho
+344,backend,pt_br,August,agosto
+345,backend,pt_br,September,setembro
+346,backend,pt_br,October,Outubro
+347,backend,pt_br,November,novembro
+348,backend,pt_br,December,dezembro
+349,backend,pt_br,Today,Hoje
+351,backend,pt_br,Last 7 Days,Últimos 7 dias
+352,backend,pt_br,Last 30 Days,Últimos 30 dias
+353,backend,pt_br,This Month,Este mês
+354,backend,pt_br,Last Month,Mês passado
+355,backend,pt_br,Custom Range,Faixa personalizada
+357,backend,pt_br,By Merchant,Por Comerciante
+358,backend,pt_br,By customer,Por cliente
+359,backend,pt_br,By Status,Por status
+360,backend,pt_br,By Order Type,Por tipo de pedido
+361,backend,pt_br,Clear Filters,Limpar filtros
+362,backend,pt_br,Apply Filters,Aplicar filtros
+363,backend,pt_br,Status for new order,Status para novo pedido
+364,backend,pt_br,Status for delivered order,Status do pedido entregue
+365,backend,pt_br,Status for completed pickup/dinein order,Status para retirada/jantar no pedido concluído
+366,backend,pt_br,Status for cancel order,Status para cancelar pedido
+367,backend,pt_br,Status for order rejection,Status para rejeição de pedido
+368,backend,pt_br,Status for delivery failed,Status para entrega falhou
+369,backend,pt_br,Status for failed pickup/dinein order,Status para retirada/jantar com falha no pedido
+370,backend,pt_br,Order Status,Status do pedido
+371,backend,pt_br,Order Tabs,Guias de pedidos
+372,backend,pt_br,Order Buttons,Botões de pedidos
+373,backend,pt_br,Order Tracking,Acompanhamento de pedidos
+374,backend,pt_br,Template,Modelo
+375,backend,pt_br,Settings,Configurações
+376,backend,pt_br,New Orders,Novas ordens
+377,backend,pt_br,select the status that will show on this tab.,selecione o status que será exibido nesta guia.
+378,backend,pt_br,Orders Processing,Processamento de Pedidos
+380,backend,pt_br,Orders Ready,Pedidos prontos
+381,backend,pt_br,Completed Today,Concluído hoje
+382,backend,pt_br,define the buttons for this tab,defina os botões para esta aba
+383,backend,pt_br,Button Name,Nome do botão
+385,backend,pt_br,Order Processing,processamento de pedido
+386,backend,pt_br,"Button CSS class name eg. btn-green, btn-black",Nome da
+387,backend,pt_br,Status for order processing,Status 
+388,backend,pt_br,Status for food ready,Status 
+389,backend,pt_br,Status for in transit,Status 
+390,backend,pt_br,Status for delivered,Status 
+391,backend,pt_br,Template Invoice,Modelo 
+392,backend,pt_br,Template Refund,Modelo 
+393,backend,pt_br,Template Partial Refund,Modelo 
+394,backend,pt_br,Delay Order,Atrasar
+395,backend,pt_br,All Payment gateway,Todos o
+396,backend,pt_br,Add Gateway,Adicionar Gateway
+397,backend,pt_br,Payment gateway list,Lista de gateways de pagamento
+398,backend,pt_br,Online Payment,Pagamento online
+399,backend,pt_br,Available for payout,Disponível para pagamento
+400,backend,pt_br,Available for plan,Disponível para plano
+401,backend,pt_br,Payment code,Código de pagamento
+402,backend,pt_br,This fields must not have spaces,Estes campos não devem ter espaços
+403,backend,pt_br,Payment name,Nome do pagamento
+404,backend,pt_br,Logo type,Tipo de logotipo
+405,backend,pt_br,Logo class icon,Ícone de classe de logotipo
+406,backend,pt_br,Get icon here,Obtenha o ícone aqui
+407,backend,pt_br,Featured Image,Imagem em destaque
+408,backend,pt_br,Drop files anywhere to upload,Solte arquivos em qualquer lugar para fazer upload
+409,backend,pt_br,or,ou
+410,backend,pt_br,Select Files,Selecionar arquivos
+411,backend,pt_br,Icon,Ícone
+412,backend,pt_br,Image,Imagem
+413,backend,pt_br,Click here,Clique aqui
+414,backend,pt_br,Transaction History,Histórico de transações
+415,backend,pt_br,Earnings,Ganhos
+416,backend,pt_br,Your commission transaction for all orders,Sua transação de comissão para todos os pedidos
+418,backend,pt_br,Create a Transaction,Criar uma transação
+419,backend,pt_br,Adjustment,Ajustamento
+420,backend,pt_br,Date,Encontro: Data
+421,backend,pt_br,Transaction,Transação
+422,backend,pt_br,Debit/Credit,Débito crédito
+423,backend,pt_br,Running Balance,Equilíbrio
+424,backend,pt_br,Credit,Crédito
+425,backend,pt_br,Debit,Débito
+426,backend,pt_br,Payout,Pagamento
+427,backend,pt_br,Cash In,Dinheiro em caixa
+428,backend,pt_br,All transactions,Todas as transacções
+429,backend,pt_br,Statement,Declaração
+430,backend,pt_br,Total Balance,Balanço total
+431,backend,pt_br,Merchant Earnings,Ganhos do comerciante
+432,backend,pt_br,Balance,Equilíbrio
+435,backend,pt_br,Deactivate Merchant,Desativar comerciante
+436,backend,pt_br,"You are about to deactivate this merchant, click confirm to continue?","Você está prestes a desativar este comerciante, clique em confirmar para continuar?"
+437,backend,pt_br,Create adjustment,Criar ajuste
+438,backend,pt_br,Transaction Description,Descrição da transação
+439,backend,pt_br,Amount,Montante
+441,backend,pt_br,Submit,Enviar
+442,backend,pt_br,Membership History,Histórico de associação
+445,backend,pt_br,Refund,Reembolso
+446,backend,pt_br,Total,Total
+447,backend,pt_br,Contact,Contato
+448,backend,pt_br,Email,E-mail
+449,backend,pt_br,Member since,Membro desde
+450,backend,pt_br,Activate Merchant,Ativar comerciante
+451,backend,pt_br,Merchant Info,Informações do comerciante
+452,backend,pt_br,Withdrawals,Saques
+453,backend,pt_br,Unpaid,Não pago
+454,backend,pt_br,Paid,Pago
+455,backend,pt_br,Total Unpaid,Total não pago
+456,backend,pt_br,Total Paid,Total pago
+457,backend,pt_br,Payment status,Status do pagamento
+458,backend,pt_br,Account number,Número de conta
+459,backend,pt_br,Account name,Nome da conta
+460,backend,pt_br,Account type,Tipo de conta
+461,backend,pt_br,Account currency,Moeda da conta
+462,backend,pt_br,Routing number,Número de roteamento
+463,backend,pt_br,Country,País
+464,backend,pt_br,Account Holders Name,Nome do titular da conta
+465,backend,pt_br,Bank Account Number/IBAN,Número da conta bancária/IBAN
+466,backend,pt_br,SWIFT Code,Código Swift
+467,backend,pt_br,Bank Name in Full,Nome do banco completo
+468,backend,pt_br,Bank Branch City,Cidade da agência bancária
+469,backend,pt_br,Date requested,Data requerida
+470,backend,pt_br,Payment Method,Forma de pagamento
+472,backend,pt_br,offline payment,pagamento offline
+473,backend,pt_br,Emabled request payout,Pagamento de solicitação habilitado
+474,backend,pt_br,Payout request auto process,Processo automático de solicitação de pagamento
+475,backend,pt_br,Payout number of days to process,Número de dias de pagamento para processar
+476,backend,pt_br,number of days that payout will automatically process (this works only if payout auto process is enabled). count starts from the day of request of merchant,número de dias que o pagamento será processado automaticamente (isso só funciona se o processo de pagamento automático estiver ativado). contagem começa a partir do dia da solicitação do comerciante
+477,backend,pt_br,Payout minimum amount,Valor mínimo de pagamento
+478,backend,pt_br,Number of payouts,Número de pagamentos
+479,backend,pt_br,Number of payouts can request per month.,Número de pagamentos que podem ser solicitados por mês.
+480,backend,pt_br,Template new payout request - for admin,Modelo de nova solicitação de pagamento - para administrador
+481,backend,pt_br,Template Payout paid,Modelo de pagamento pago
+482,backend,pt_br,Template Payout Cancel,Modelo de cancelamento de pagamento
+483,backend,pt_br,Cuisine list,Lista de cozinha
+484,backend,pt_br,All Cuisine,Toda a cozinha
+485,backend,pt_br,Add Cuisine,Adicionar cozinha
+486,backend,pt_br,Cuisine Name,Nome da cozinha
+487,backend,pt_br,Background Color Hex,Hex de cor de fundo
+488,backend,pt_br,Font Color Hex,Cor da Fonte Hex
+489,backend,pt_br,{{lang}} translation,{{lang}} tradução
+490,backend,pt_br,Enter {{lang}} name here,Digite o nome {{lang}} aqui
+491,backend,pt_br,Update Cuisine,Atualizar cozinha
+492,backend,pt_br,Dishes list,Lista de pratos
+493,backend,pt_br,Add Dishes,Adicionar pratos
+494,backend,pt_br,Dish Name,Nome do prato
+495,backend,pt_br,All Dishes,Todos os pratos
+496,backend,pt_br,Update Dishes,Atualizar pratos
+497,backend,pt_br,Tags list,Lista de tags
+498,backend,pt_br,Tag Name,Nome da etiqueta
+499,backend,pt_br,All Tags,Todas as etiquetas
+500,backend,pt_br,Add Tags,Adicionar tags
+501,backend,pt_br,Update Tags,Atualizar tags
+502,backend,pt_br,Status list,Lista de status
+503,backend,pt_br,Color Hex,Hex de cor
+505,backend,pt_br,Update Status,Atualizar o status
+506,backend,pt_br,Status actions,Ações de status
+507,backend,pt_br,ID,identificação
+508,backend,pt_br,Action Type,Tipo de acão
+509,backend,pt_br,Add actions,Adicionar ações
+510,backend,pt_br,Update actions,Atualizar ações
+511,backend,pt_br,Delete Confirmation,Excluir confirmação
+512,backend,pt_br,Are you sure you want to permanently delete the selected item?,Tem certeza de que deseja excluir permanentemente o item selecionado?
+513,backend,pt_br,Currency list,Lista de moedas
+514,backend,pt_br,Default,Predefinição
+515,backend,pt_br,All Currency,Todas as moedas
+516,backend,pt_br,Add Currency,Adicionar moeda
+517,backend,pt_br,Set as Default,Definir como padrão
+518,backend,pt_br,Currency,Moeda
+519,backend,pt_br,Position,Posição
+520,backend,pt_br,Rate,Avaliar
+521,backend,pt_br,+ Exchange fee,+ Taxa de câmbio
+522,backend,pt_br,Decimals,Decimais
+523,backend,pt_br,Decimal Separator,Separador decimal
+524,backend,pt_br,Thousand Separator,Separador de milhar
+525,backend,pt_br,Please select,Por favor selecione
+526,backend,pt_br,Left $11,Restou $ 11
+527,backend,pt_br,Right 11$,Direito 11$
+528,backend,pt_br,Left with space $ 11,Sobrou com espaço $ 11
+529,backend,pt_br,Right with space 11 $,Direito com espaço 11$
+530,backend,pt_br,Update Currency,Atualizar moeda
+531,backend,pt_br,Country List,Lista de países
+532,backend,pt_br,Add Country,Adicionar país
+533,backend,pt_br,Phone Code,Código do telefone
+534,backend,pt_br,Code,Código
+535,backend,pt_br,Update Country,Atualização País
+536,backend,pt_br,State List,Lista de estados
+537,backend,pt_br,City List,Lista de cidades
+538,backend,pt_br,District/Area List,Lista de distritos/áreas
+539,backend,pt_br,Sequence,Seqüência
+540,backend,pt_br,Add State,Adicionar estado
+542,backend,pt_br,State Name,Nome do Estado
+543,backend,pt_br,All State,Todos os estados
+544,backend,pt_br,City,Cidade
+545,backend,pt_br,State,Estado
+546,backend,pt_br,City Name,Nome da Cidade
+547,backend,pt_br,Postal Code/Zip code,Código Postal / CEP
+548,backend,pt_br,Select State,Selecionar estado
+549,backend,pt_br,Add City,Adicionar cidade
+550,backend,pt_br,All City,Todas as cidades
+551,backend,pt_br,Area List,Lista de Áreas
+552,backend,pt_br,Area Name,Nome da área
+553,backend,pt_br,Select City,Selecione a cidade
+554,backend,pt_br,Add Area,Adicionar área
+555,backend,pt_br,All Area,Toda a área
+556,backend,pt_br,Zones list,Lista de zonas
+557,backend,pt_br,Create Zones,Criar zonas
+558,backend,pt_br,Featured locations,Locais em destaque
+559,backend,pt_br,All featured locations,Todos os locais em destaque
+562,backend,pt_br,Location name,Nome do local
+563,backend,pt_br,Longitude,Longitude
+564,backend,pt_br,Featured name,Nome em destaque
+565,backend,pt_br,Update featured locations,Atualizar locais em destaque
+566,backend,pt_br,New Restaurant,Novo restaurante
+567,backend,pt_br,Popular,Popular
+568,backend,pt_br,Best Seller,Mais vendidos
+569,backend,pt_br,Recommended,Recomendado
+570,backend,pt_br,Pages list,Lista de páginas
+571,backend,pt_br,All Pages,Todas as páginas
+572,backend,pt_br,Add Page,Adicionar Página
+573,backend,pt_br,Short Description,Pequena descrição
+574,backend,pt_br,SEO,SEO
+575,backend,pt_br,Meta Title,Metatítulo
+576,backend,pt_br,Meta description,Meta Descrição
+577,backend,pt_br,Keywords,Palavras-chave
+578,backend,pt_br,Update Page,Atualizar página
+579,backend,pt_br,Languages list,Lista de idiomas
+580,backend,pt_br,All Language,Todos os idiomas
+581,backend,pt_br,Add Language,Adicionar idioma
+582,backend,pt_br,Locale,Localidade
+583,backend,pt_br,Select Flag,Selecionar Sinalizador
+584,backend,pt_br,RTL,RTL
+585,backend,pt_br,Translation,Tradução
+586,backend,pt_br,Translation Key,Chave de tradução
+587,backend,pt_br,Status Management list,Lista de gerenciamento de status
+588,backend,pt_br,Group,Grupo
+589,backend,pt_br,Group Name,Nome do grupo
+590,backend,pt_br,Status Key,Chave de status
+591,backend,pt_br,All Status,Todos os status
+592,backend,pt_br,Add Status,Adicionar status
+593,backend,pt_br,Date Created. {{date_created}},Data Criada. {{Data_created}}
+594,backend,pt_br,Services list,Lista de serviços
+595,backend,pt_br,Service fee,Taxa de serviço
+596,backend,pt_br,All Services,Todos os serviços
+597,backend,pt_br,Add Services,Adicionar serviços
+598,backend,pt_br,Update Services,Serviços de atualização
+599,backend,pt_br,All Type,Todo tipo
+600,backend,pt_br,Update Merchant Type,Atualizar tipo de comerciante
+601,backend,pt_br,Commission Type,Tipo de comissão
+602,backend,pt_br,Commission based on Subtotal / Total,Comissão baseada no Subtotal / Total
+603,backend,pt_br,Commission,Comissão
+604,backend,pt_br,Add Merchant Type,Adicionar tipo de comerciante
+605,backend,pt_br,Rejection Reason List,Lista de Motivos de Rejeição
+606,backend,pt_br,Reason,Razão
+607,backend,pt_br,Add Rejection,Adicionar rejeição
+608,backend,pt_br,Update Rejection,Atualizar rejeição
+609,backend,pt_br,Pause Reason List,Lista de motivos de pausa
+610,backend,pt_br,Add Pause reason,Adicionar motivo de pausa
+611,backend,pt_br,Update Pause reason,Atualizar motivo da pausa
+612,backend,pt_br,Status action List,Lista de ações de status
+614,backend,pt_br,Key must not have spaces,A chave não deve ter espaços
+616,backend,pt_br,Update action status,Atualizar status da ação
+617,backend,pt_br,Add action status,Adicionar status de ação
+618,backend,pt_br,Coupon list,Lista de cupons
+619,backend,pt_br,#Used,#Usado
+620,backend,pt_br,All Coupon,Todos os cupons
+621,backend,pt_br,Add Coupon,Adicionar cupom
+622,backend,pt_br,Coupon Type,Tipo de cupom
+623,backend,pt_br,Days Available,Dias disponíveis
+625,backend,pt_br,Min Order,Ordem minima
+626,backend,pt_br,Applicable to merchant,Aplicável ao comerciante
+627,backend,pt_br,Expiration,Expiração
+628,backend,pt_br,Coupon Options,Opções de cupom
+629,backend,pt_br,Coupon name,Nome do cupom
+630,backend,pt_br,fixed amount,quantia fixa
+631,backend,pt_br,percentage,percentagem
+632,backend,pt_br,Unlimited for all user,Ilimitado para todos os usuários
+633,backend,pt_br,Use only once,Use apenas uma vez
+634,backend,pt_br,Once per user,Uma vez por usuário
+635,backend,pt_br,Once for new user first order,Uma vez para novo usuário primeiro pedido
+636,backend,pt_br,Custom limit per user,Limite personalizado por usuário
+637,backend,pt_br,Only to selected customer,Apenas para cliente selecionado
+638,backend,pt_br,Define max number of use,Defina o número máximo de uso
+639,backend,pt_br,Select Customer,Selecionar cliente
+640,backend,pt_br,Email Provider,Provedor de e-mail
+641,backend,pt_br,All Provider,Todos os Provedores
+642,backend,pt_br,Add Provider,Adicionar provedor
+643,backend,pt_br,Provider ID,ID do provedor
+644,backend,pt_br,Provider name,Nome do provedor
+645,backend,pt_br,Sender email,E-mail do remetente
+646,backend,pt_br,Sender name,Nome do remetente
+648,backend,pt_br,Update Provider,Provedor de atualização
+649,backend,pt_br,API KEY,CHAVE API
+650,backend,pt_br,Create your account [url],Crie sua conta [url]
+651,backend,pt_br,SECRET KEY,CHAVE SECRETA
+652,backend,pt_br,SMTP host,host SMTP
+653,backend,pt_br,SMTP port,Porta SMTP
+654,backend,pt_br,Password,Senha
+655,backend,pt_br,Secure Connection,Conexão segura
+656,backend,pt_br,TLS,TLS
+657,backend,pt_br,SSL,SSL
+658,backend,pt_br,normal,normal
+659,backend,pt_br,flash,instantâneo
+660,backend,pt_br,unicode,código único
+661,backend,pt_br,ndnd,nd
+662,backend,pt_br,dnd,dnd
+663,backend,pt_br,premium,Prêmio
+664,backend,pt_br,lowcost,baixo custo
+665,backend,pt_br,SMS,SMS
+666,backend,pt_br,Push,Empurrar
+667,backend,pt_br,All Templates,Todos os modelos
+668,backend,pt_br,Add Template,Adicionar modelo
+669,backend,pt_br,Template name,Nome do modelo
+670,backend,pt_br,Enabled Email,E-mail ativado
+671,backend,pt_br,Enabled SMS,SMS ativado
+672,backend,pt_br,Enabled Push,Push ativado
+673,backend,pt_br,Email Templates,Modelos de e-mail
+674,backend,pt_br,SMS Templates,Modelos de SMS
+675,backend,pt_br,Push Templates,Modelos de envio
+676,backend,pt_br,{{lang}} Template,{{lang}} Modelo
+677,backend,pt_br,Enter {{lang}} Type here,Digite {{lang}} Digite aqui
+678,backend,pt_br,Enter {{lang}} Subject here,Digite {{lang}} Assunto aqui
+679,backend,pt_br,Enter {{lang}} Title here,Digite {{lang}} Título aqui
+680,backend,pt_br,Enter {{lang}} Content here,Insira o conteúdo {{lang}} aqui
+681,backend,pt_br,Update Template,Atualizar modelo
+682,backend,pt_br,Email Logs,Registros de e-mail
+684,backend,pt_br,View SMS,Ver SMS
+685,backend,pt_br,Push logs,Registros de envio
+686,backend,pt_br,Platform,Plataforma
+687,backend,pt_br,Message,Mensagem
+688,backend,pt_br,Channel/Device,Canal/Dispositivo
+689,backend,pt_br,View Push,Visualizar envio
+690,backend,pt_br,Customer list,Lista de clientes
+691,backend,pt_br,All Customer,Todos os clientes
+692,backend,pt_br,Add Customer,Adicionar cliente
+694,backend,pt_br,Update Customer,Atualizar cliente
+695,backend,pt_br,Basic Details,Detalhes básicos
+696,backend,pt_br,Order history,Histórico de pedidos
+697,backend,pt_br,Address list,Lista de endereços
+700,backend,pt_br,Places ID,Código de lugares
+701,backend,pt_br,"Aparment, suite or floor","Apartamento, suíte ou andar"
+702,backend,pt_br,Add delivery instructions,Adicionar instruções de entrega
+703,backend,pt_br,Address label,Etiqueta de endereço
+704,backend,pt_br,Home,Lar
+705,backend,pt_br,Work,Trabalhar
+706,backend,pt_br,School,Escola
+707,backend,pt_br,Friend house,Casa do amigo
+708,backend,pt_br,Other,De outros
+709,backend,pt_br,Leave it at my door,Deixe na minha porta
+710,backend,pt_br,Hand it to me,Entregue para mim
+711,backend,pt_br,Meet outside,Encontro lá fora
+712,backend,pt_br,Order list,Lista de pedidos
+713,backend,pt_br,Phone,Telefone
+714,backend,pt_br,All Review,Todas as revisões
+715,backend,pt_br,Update Review,Atualizar revisão
+716,backend,pt_br,Customer reviews,Avaliações de Clientes
+718,backend,pt_br,Customer. [customer_name],Cliente. [nome do cliente]
+719,backend,pt_br,Rating. [rating],Avaliação. [Avaliação]
+720,backend,pt_br,Date. [date_created],Encontro: Data. [Data Criada]
+721,backend,pt_br,Real time applications,Aplicações em tempo real
+722,backend,pt_br,Select Realtime Provider,Selecione o provedor em tempo real
+723,backend,pt_br,Pusher App Id,ID do aplicativo pusher
+724,backend,pt_br,Pusher Key,Chave do Empurrador
+725,backend,pt_br,Pusher Secret,Segredo do Empurrador
+726,backend,pt_br,Pusher Cluster,Grupo de Empurradores
+727,backend,pt_br,Private API Key,Chave de API privada
+728,backend,pt_br,Cluster ID,ID do cluster
+730,backend,pt_br,API secret,Segredo da API
+731,backend,pt_br,WebSocket API endpoint,Ponto de extremidade da API WebSocket
+732,backend,pt_br,signup and get your credentials in,cadastre-se e obtenha suas credenciais em
+733,backend,pt_br,Web push notifications,Notificações push da Web
+734,backend,pt_br,Select Web Push Provider,Selecione o provedor de push da Web
+735,backend,pt_br,Instance ID,Código da instância
+736,backend,pt_br,Primary key,Chave primária
+737,backend,pt_br,SMS Provider List,Lista de provedores de SMS
+739,backend,pt_br,Sender ID,ID do remetente
+740,backend,pt_br,API username,Nome de usuário da API
+741,backend,pt_br,API password,senha da API
+743,backend,pt_br,Account SID,SID da conta
+744,backend,pt_br,AUTH Token,Token AUTH
+745,backend,pt_br,Secret,Segredo
+746,backend,pt_br,Provider,Fornecedor
+747,backend,pt_br,SMS Logs,Registros de SMS
+748,backend,pt_br,Total Registered,Total registrado
+749,backend,pt_br,Commission Total,Total da Comissão
+750,backend,pt_br,Membership Total,Total de membros
+751,backend,pt_br,Total Active,Total Ativo
+752,backend,pt_br,Total Inactive,Total inativo
+753,backend,pt_br,Membership Payment,Pagamento de associação
+754,backend,pt_br,Payment type,Tipo de pagamento
+755,backend,pt_br,Merchant Sales Report,Relatório de vendas do comerciante
+756,backend,pt_br,Order earnings report,Relatório de ganhos do pedido
+757,backend,pt_br,Count,Contar
+758,backend,pt_br,Admin earned,Administrador ganho
+759,backend,pt_br,Merchant earned,Comerciante ganho
+760,backend,pt_br,Total sell,Venda total
+762,backend,pt_br,Subtotal,Subtotal
+764,backend,pt_br,Admin commission,Comissão de administrador
+765,backend,pt_br,Refund Report,Relatório de reembolso
+766,backend,pt_br,All Payment status,Todos os status de pagamento
+767,backend,pt_br,Payment reference# {{payment_reference}},Referência de pagamento# {{payment_reference}}
+768,backend,pt_br,Refund on {{date}},Reembolso em {{date}}
+769,backend,pt_br,Full refund,Reembolso total
+770,backend,pt_br,Partial refund,Reembolso parcial
+771,backend,pt_br,All User,Todo usuário
+772,backend,pt_br,Role,Função
+773,backend,pt_br,Confirm New Password,Confirme a nova senha
+774,backend,pt_br,Edit User,Editar usuário
+775,backend,pt_br,All Roles,Todas as funções
+776,backend,pt_br,Access,Acesso
+777,backend,pt_br,Add Role,Adicionar função
+778,backend,pt_br,Themes,Temas
+779,backend,pt_br,Active theme,Tema ativo
+780,backend,pt_br,Customize,Customizar
+781,backend,pt_br,Organize your menu,Organize seu cardápio
+782,backend,pt_br,Menu,Cardápio
+783,backend,pt_br,Setting,Contexto
+784,backend,pt_br,Media Library,Biblioteca de mídia
+785,backend,pt_br,Media List,Lista de mídia
+786,backend,pt_br,Delete File,Excluir arquivo
+787,backend,pt_br,Notification,Notificação
+788,backend,pt_br,Clear all,Limpar tudo
+789,backend,pt_br,View all,Ver tudo
+790,backend,pt_br,Profile,Perfil
+791,backend,pt_br,Logout,Sair
+792,backend,pt_br,Change Password,Mudar senha
+793,backend,pt_br,Web Notifications,Notificações da Web
+794,backend,pt_br,Old Password,Senha Antiga
+795,backend,pt_br,Notifications Settings,Configurações de notificações
+797,backend,pt_br,Select notification type,Selecione o tipo de notificação
+798,backend,pt_br,Order updates,Atualizações de pedidos
+799,backend,pt_br,Customer new signup,Novo cadastro do cliente
+800,backend,pt_br,Merchant new signup,Nova inscrição do comerciante
+801,backend,pt_br,Payout request,Solicitação de pagamento
+802,backend,pt_br,All notifications,Todas as notificações
+803,backend,pt_br,Order #,Ordem #
+804,backend,pt_br,Restaurant,Restaurante
+806,backend,pt_br,Delivery information,Informação de entrega
+807,backend,pt_br,Get direction,Obter direção
+809,backend,pt_br,Delivery Date/Time,Data/Hora de Entrega
+810,backend,pt_br,Include utensils,Incluir utensílios
+815,backend,pt_br,Summary,Resumo
+816,backend,pt_br,Print,Imprimir
+817,backend,pt_br,Contact customer,Entre em contato com o cliente
+819,backend,pt_br,Cancel order,Cancelar pedido
+820,backend,pt_br,Timeline,Linha do tempo
+821,backend,pt_br,Download PDF (A4),Baixar PDF (A4)
+822,backend,pt_br,Yes,sim
+823,backend,pt_br,Okay,OK
+824,backend,pt_br,Customer Info,Informação do Cliente
+825,backend,pt_br,Action,Açao
+826,backend,pt_br,Customer ID,Identificação do Cliente
+827,backend,pt_br,Addresses,Endereços
+828,backend,pt_br,Unblock Custome,Desbloquear cliente
+830,backend,pt_br,Customer information not found,Informações do cliente não encontradas
+831,backend,pt_br,Are you sure you want to continue,Você tem certeza que quer continuar
+832,backend,pt_br,Refund this item,Reembolsar este item
+833,backend,pt_br,This automatically remove this item from your active orders.,Isso remove automaticamente este item de seus pedidos ativos.
+834,backend,pt_br,Go back,Volte
+836,backend,pt_br,Remove this item,Remover este item
+837,backend,pt_br,This will remove this item from your active orders.,Isso removerá este item de seus pedidos ativos.
+840,backend,pt_br,Item is Out of Stock,Item fora de estoque
+841,backend,pt_br,Order decrease,Diminuição do pedido
+842,backend,pt_br,Order Increase,Aumento de pedido
+843,backend,pt_br,"By accepting this order, we will refund the amount of {{amount}} to customer.","Ao aceitar este pedido, reembolsaremos o valor de {{amount}} ao cliente."
+844,backend,pt_br,"Total amount for this order has increase, Send invoice to customer or less from your account with total amount of {{amount}}.",O valor total deste pedido aumentou. Envie uma fatura para o cliente ou menos de sua conta com um valor total de {{amount}}.
+847,backend,pt_br,Send invoice,Enviar fatura
+848,backend,pt_br,Less on my account,Menos na minha conta
+849,backend,pt_br,"This order has unpaid invoice, until its paid you cannot change the order status.","Este pedido tem fatura não paga, até que seja pago você não pode alterar o status do pedido."
+851,backend,pt_br,How much additional time you need?,Quanto tempo adicional você precisa?
+852,backend,pt_br,We'll notify the customer about the delay.,Notificaremos o cliente sobre o atraso.
+854,backend,pt_br,Enter why you cannot make this order.,Digite por que você não pode fazer este pedido.
+855,backend,pt_br,Reject order,Rejeitar pedido
+856,backend,pt_br,Are you sure you want to continue?,Você tem certeza que quer continuar?
+857,backend,pt_br,Delivery fee,Taxa de entrega
+858,backend,pt_br,Sub total ([count] items),Subtotal ([count] itens)
+859,backend,pt_br,Courier tip,Dica de correio
+860,backend,pt_br,Dashboard,Painel
+862,backend,pt_br,List,Lista
+863,backend,pt_br,Sponsored,Patrocinadas
+864,backend,pt_br,Users,Comercial
+866,backend,pt_br,All order,Todos os pedidos
+867,backend,pt_br,Order settings,Configurações do pedido
+869,backend,pt_br,Add User,Adicionar usuário
+870,backend,pt_br,Delete User,Deletar usuário
+871,backend,pt_br,Membership,Filiação
+872,backend,pt_br,Plans,Planos
+873,backend,pt_br,Add Plan,Adicionar plano
+874,backend,pt_br,Delete Plan,Excluir plano
+875,backend,pt_br,Attributes,Atributos
+880,backend,pt_br,Pages,Páginas
+881,backend,pt_br,Languages,línguas
+882,backend,pt_br,Buyers,Compradores
+883,backend,pt_br,Customers,Clientes
+885,backend,pt_br,Create Role,Criar função
+886,backend,pt_br,Update Role,Atualizar função
+887,backend,pt_br,Delete Role,Excluir função
+889,backend,pt_br,Manage Location,Gerenciar local
+891,backend,pt_br,Providers,Provedores
+892,backend,pt_br,Logs,Histórico
+893,backend,pt_br,Reports,Relatórios
+896,backend,pt_br,Merchant Sales,Vendas do comerciante
+897,backend,pt_br,Status Management,Gerenciamento de status
+899,backend,pt_br,Information,Em formação
+903,backend,pt_br,Size,Tamanho
+904,backend,pt_br,Ingredients,Ingredientes
+905,backend,pt_br,Cooking Reference,Referência de culinária
+906,backend,pt_br,Food,Comida
+907,backend,pt_br,Category,Categoria
+908,backend,pt_br,Addon Category,Categoria de complemento
+909,backend,pt_br,Addon Items,Itens Adicionais
+910,backend,pt_br,Items,Itens
+911,backend,pt_br,Delivery,Entrega
+913,backend,pt_br,Coupon,Cupom
+914,backend,pt_br,Offers,Ofertas
+915,backend,pt_br,Images,Imagens
+916,backend,pt_br,Account,Conta
+920,backend,pt_br,BroadCast,Transmissão
+925,backend,pt_br,Sales Report,Relatório de vendas
+926,backend,pt_br,Sales Summary,Resumo de vendas
+927,backend,pt_br,Pickup,Escolher
+928,backend,pt_br,Dinein,Jantar
+929,backend,pt_br,Gallery,Galeria
+933,backend,pt_br,Store Hours,Horário da loja
+934,backend,pt_br,Tracking Time,Tempo de rastreamento
+935,backend,pt_br,Add Store Hours,Adicionar horário de funcionamento
+936,backend,pt_br,Update Store Hours,Atualizar horário da loja
+937,backend,pt_br,Delete Store Hours,Excluir horário da loja
+938,backend,pt_br,View Order,Ver pedido
+939,backend,pt_br,Delete Order,Excluir pedido
+940,backend,pt_br,Create Time Management,Criar gerenciamento de tempo
+941,backend,pt_br,Update Time Management,Atualizar gerenciamento de tempo
+942,backend,pt_br,Delete Time Management,Excluir gerenciamento de tempo
+943,backend,pt_br,Inventory Management,Gestão de inventário
+944,backend,pt_br,Suppliers,Fornecedores
+945,backend,pt_br,Time Slot,Faixa horária
+946,backend,pt_br,Create Time Slot,Criar intervalo de tempo
+947,backend,pt_br,Update Time Slot,Atualizar intervalo de tempo
+948,backend,pt_br,Delete Time Slot,Excluir intervalo de tempo
+949,backend,pt_br,Create Size,Criar tamanho
+950,backend,pt_br,Update Size,Atualizar tamanho
+951,backend,pt_br,Delete Size,Excluir tamanho
+952,backend,pt_br,Ingredients create,Ingredientes criam
+953,backend,pt_br,Payment gateway,Gateway de pagamento
+954,backend,pt_br,All Payment,Todos os Pagamentos
+956,backend,pt_br,All payments,Todos os pagamentos
+957,backend,pt_br,Archive,Arquivo
+959,backend,pt_br,Rejection Reason,Motivo da rejeição
+962,backend,pt_br,Transactions,Transações
+965,backend,pt_br,Merchant withdrawals,Saques de comerciantes
+967,backend,pt_br,Third Party App,Aplicativo de terceiros
+968,backend,pt_br,Real time application,Aplicação em tempo real
+969,backend,pt_br,Web push notification,Notificação por push da Web
+971,backend,pt_br,Scheduled,Agendado
+973,backend,pt_br,Zones,Zonas
+974,backend,pt_br,Pause order reason,Pausar motivo do pedido
+976,backend,pt_br,Order earnings,Ganhos do pedido
+978,backend,pt_br,POS,PDV
+979,backend,pt_br,POS create order,PDV criar pedido
+983,backend,pt_br,Login &amp; Signup,Iniciar sessão &amp; Inscrever-se
+989,backend,pt_br,Upload CSV,Carregar CSV
+990,backend,pt_br,Add sponsored,Adicionar patrocinado
+991,backend,pt_br,Update sponsored,Atualização patrocinada
+993,backend,pt_br,Print PDF,Imprimir PDF
+996,backend,pt_br,Update Gateway,Atualizar Gateway
+997,backend,pt_br,Withdrawals Template,Modelo de Retiradas
+998,backend,pt_br,Cuisine create,Culinária criar
+999,backend,pt_br,Cuisine update,Atualização de cozinha
+1000,backend,pt_br,Dishes create,Pratos criam
+1001,backend,pt_br,Dishes update,Atualização de pratos
+1002,backend,pt_br,Dishes delete,Excluir pratos
+1003,backend,pt_br,Cuisine delete,Eliminar cozinha
+1004,backend,pt_br,Tags create,Criação de tags
+1005,backend,pt_br,Tags update,Atualização de tags
+1006,backend,pt_br,Tags delete,Excluir tags
+1007,backend,pt_br,Status create,Criação de status
+1008,backend,pt_br,Status update,Atualização de status
+1009,backend,pt_br,Status delete,Status deletar
+1011,backend,pt_br,Status actions create,Ações de status criam
+1012,backend,pt_br,Status actions update,Atualização de ações de status
+1013,backend,pt_br,Currency create,Criação de moeda
+1014,backend,pt_br,Currency update,Atualização de moeda
+1015,backend,pt_br,Currency delete,Exclusão de moeda
+1016,backend,pt_br,Country create,Criação de país
+1017,backend,pt_br,Country update,Atualização do país
+1020,backend,pt_br,State create,Estado criar
+1021,backend,pt_br,State update,Atualização de estado
+1022,backend,pt_br,State delete,Estado excluir
+1024,backend,pt_br,City create,Cidade criar
+1025,backend,pt_br,City delete,Cidade excluir
+1027,backend,pt_br,Area create,Criação de área
+1028,backend,pt_br,Area update,Atualização de área
+1029,backend,pt_br,Area delete,Exclusão de área
+1030,backend,pt_br,Zone create,Zona criar
+1031,backend,pt_br,Zone update,Atualização de zona
+1032,backend,pt_br,Zone delete,Exclusão de zona
+1033,backend,pt_br,Featured create,Criação em destaque
+1034,backend,pt_br,Featured update,Atualização em destaque
+1035,backend,pt_br,Featured delete,Exclusão em destaque
+1036,backend,pt_br,Pages create,Páginas criadas
+1037,backend,pt_br,Pages update,Atualização de páginas
+1038,backend,pt_br,Pages delete,Exclusão de páginas
+1039,backend,pt_br,Language create,Criação de idioma
+1040,backend,pt_br,Language update,Atualização de idioma
+1041,backend,pt_br,Language delete,Exclusão de idioma
+1042,backend,pt_br,Status Management create,Gerenciamento de status criar
+1043,backend,pt_br,Status Management update,Atualização do gerenciamento de status
+1044,backend,pt_br,Status Management delete,Gerenciamento de status excluir
+1045,backend,pt_br,Order type create,Tipo de pedido criar
+1046,backend,pt_br,Order type update,Atualização do tipo de pedido
+1047,backend,pt_br,Order type delete,Tipo de pedido excluir
+1048,backend,pt_br,Merchant type create,Tipo de comerciante criar
+1049,backend,pt_br,Merchant type update,Atualização do tipo de comerciante
+1050,backend,pt_br,Merchant type delete,Tipo de comerciante excluir
+1051,backend,pt_br,Rejection reason create,Razão de rejeição criar
+1052,backend,pt_br,Rejection reason update,Atualização do motivo da rejeição
+1054,backend,pt_br,Rejection reason delete,Exclusão do motivo da rejeição
+1055,backend,pt_br,Pause reason create,Pausar motivo criar
+1056,backend,pt_br,Pause reason update,Atualização do motivo da pausa
+1057,backend,pt_br,Pause reason delete,Pausar motivo excluir
+1058,backend,pt_br,Status action create,Ação de status criar
+1059,backend,pt_br,Status reason update,Atualização do motivo do status
+1060,backend,pt_br,Status reason delete,Razão de status excluir
+1061,backend,pt_br,Coupon create,Criar cupom
+1062,backend,pt_br,Coupon update,Atualização do cupom
+1063,backend,pt_br,Coupon delete,Exclusão de cupom
+1064,backend,pt_br,Email Provider create,Criação de provedor de e-mail
+1065,backend,pt_br,Email Provider update,Atualização do provedor de e-mail
+1066,backend,pt_br,Email Provider delete,Excluir provedor de e-mail
+1067,backend,pt_br,Templates create,Criação de modelos
+1068,backend,pt_br,Templates update,Atualização de modelos
+1069,backend,pt_br,Templates delete,Exclusão de modelos
+1070,backend,pt_br,Email Logs delete,Exclusão de registros de e-mail
+1071,backend,pt_br,Push logs delete,Push logs deletar
+1072,backend,pt_br,Customer create,Criação do cliente
+1073,backend,pt_br,Customer update,Atualização do cliente
+1074,backend,pt_br,Customer delete,Exclusão do cliente
+1075,backend,pt_br,Customer address,Endereço do cliente
+1076,backend,pt_br,Customer order history,Histórico de pedidos do cliente
+1077,backend,pt_br,Address create,Endereço criar
+1078,backend,pt_br,Address delete,Excluir endereço
+1079,backend,pt_br,Address update,Atualização de endereço
+1080,backend,pt_br,Review update,Atualizar revisão
+1081,backend,pt_br,Review delete,Revisar excluir
+1082,backend,pt_br,SMS provider create,provedor de SMS criar
+1083,backend,pt_br,SMS provider update,Atualização do provedor de SMS
+1084,backend,pt_br,SMS provider delete,Excluir provedor de SMS
+1085,backend,pt_br,SMS delete logs,Logs de exclusão de SMS
+1086,backend,pt_br,Update User,Atualizar usuário
+1088,backend,pt_br,Taxes,Impostos
+1089,backend,pt_br,Social Settings,Configurações sociais
+1090,backend,pt_br,Notification Settings,Configurações de notificação
+1091,backend,pt_br,Order limit create,Limite de pedido criado
+1092,backend,pt_br,Order view PDF,Pedido de visualização PDF
+1093,backend,pt_br,Ingredients update,Atualização de ingredientes
+1094,backend,pt_br,Cooking create,Cozinhar criar
+1095,backend,pt_br,Ingredients delete,Excluir ingredientes
+1096,backend,pt_br,Cooking update,Atualização de culinária
+1097,backend,pt_br,Cooking delete,Cozinhar excluir
+1098,backend,pt_br,Category create,Categoria criar
+1099,backend,pt_br,Category update,Atualização de categoria
+1100,backend,pt_br,Category delete,Excluir categoria
+1101,backend,pt_br,Category availability,Disponibilidade de categoria
+1102,backend,pt_br,Addon Category create,Criar categoria de complemento
+1103,backend,pt_br,Addon Category update,Atualização da categoria do complemento
+1104,backend,pt_br,Addon Category delete,Exclusão de categoria de complemento
+1105,backend,pt_br,Addon Item create,Criar item de complemento
+1106,backend,pt_br,Addon Item update,Atualização de itens adicionais
+1107,backend,pt_br,Addon Item delete,Exclusão de item de complemento
+1108,backend,pt_br,Item create,Criar item
+1109,backend,pt_br,Item update,Atualização do item
+1110,backend,pt_br,Item delete,Exclusão de item
+1111,backend,pt_br,Item price,Preço do item
+1112,backend,pt_br,Item price delete,Exclusão do preço do item
+1113,backend,pt_br,Item price update,Atualização de preço do item
+1114,backend,pt_br,Item addon,Complemento de item
+1115,backend,pt_br,Item addon create,Criação de complemento de item
+1116,backend,pt_br,Item addon update,Atualização de complemento de item
+1117,backend,pt_br,Item addon delete,Exclusão de complemento de item
+1118,backend,pt_br,Item attributes,Atributos do item
+1119,backend,pt_br,Item availability,Disponibilidade do item
+1120,backend,pt_br,Item inventory,Inventário de itens
+1121,backend,pt_br,Item promo,Promoção de itens
+1122,backend,pt_br,Item promo create,Criar promoção de item
+1123,backend,pt_br,Item promo update,Atualização da promoção do item
+1124,backend,pt_br,Item promo delete,Exclusão da promoção do item
+1125,backend,pt_br,Item gallery,Galeria de itens
+1126,backend,pt_br,Item SEO,SEO de itens
+1127,backend,pt_br,Dynamic Rates,Taxas dinâmicas
+1128,backend,pt_br,Fixed Charge,Taxa fixa
+1129,backend,pt_br,Pickup instructions,Instruções de retirada
+1130,backend,pt_br,Dinein instructions,Instruções de jantar
+1132,backend,pt_br,Offer create,Criar oferta
+1133,backend,pt_br,Offer update,Atualização da oferta
+1134,backend,pt_br,Offer delete,Apagar oferta
+1135,backend,pt_br,Review reply,Revisar resposta
+1136,backend,pt_br,User create,Criação de usuário
+1137,backend,pt_br,User update,Atualização do usuário
+1138,backend,pt_br,User delete,Exclusão de usuário
+1139,backend,pt_br,Role create,Criação de função
+1140,backend,pt_br,Role update,Atualização de função
+1141,backend,pt_br,Role delete,Excluir função
+1142,backend,pt_br,Supplier create,Criação de fornecedor
+1143,backend,pt_br,Supplier update,Atualização do fornecedor
+1144,backend,pt_br,Supplier delete,Excluir fornecedor
+1145,backend,pt_br,Website,Local na rede Internet
+1146,backend,pt_br,Theme,Tema
+1147,backend,pt_br,Company,Companhia
+1148,backend,pt_br,Service,Serviço
+1149,backend,pt_br,Find a store,Encontre uma loja
+1151,backend,pt_br,Contact Us,Contate-Nos
+1152,backend,pt_br,Categories,Categorias
+1153,backend,pt_br,Grocery,Mercado
+1154,backend,pt_br,Parcel Delivery,Entrega de encomendas
+1155,backend,pt_br,Fast Food,Comida rápida
+1157,backend,pt_br,Privacy policy,Política de Privacidade
+1158,backend,pt_br,Dishes,Pratos
+1159,backend,pt_br,No notifications yet,Ainda não há notificações
+1160,backend,pt_br,"When you get notifications, they'll show up here","Quando você receber notificações, elas aparecerão aqui"
+1161,backend,pt_br,active,ativo
+1162,backend,pt_br,Total Cancel,Cancelamento total
+1163,backend,pt_br,Sales this week,Vendas esta semana
+1164,backend,pt_br,Earning this week,Ganhando esta semana
+1165,backend,pt_br,Your balance,Seu balanço
+1166,backend,pt_br,Today sales,Vendas de hoje
+1167,backend,pt_br,Today refund,Reembolso de hoje
+1168,backend,pt_br,days ago,dias atrás
+1169,backend,pt_br,Accepting Orders,Aceitando Pedidos
+1170,backend,pt_br,Update Information,Atualizar informação
+1171,backend,pt_br,Basic Settings,Configurações básicas
+1172,backend,pt_br,Orders Settings,Configurações de pedidos
+1173,backend,pt_br,This will appear in your receipt,Isso aparecerá no seu recibo
+1174,backend,pt_br,Two Flavor Options,Duas opções de sabores
+1175,backend,pt_br,Close Store,Fechar loja
+1176,backend,pt_br,Enabled Voucher,Voucher ativado
+1177,backend,pt_br,Enabled Tips,Dicas ativadas
+1178,backend,pt_br,Default Tip,Gorjeta padrão
+1179,backend,pt_br,Please select...,Por favor selecione...
+1180,backend,pt_br,Website address,Endereço do website
+1181,backend,pt_br,Tax number,Número de identificação fiscal
+1182,backend,pt_br,All Store Hours,Todos os horários da loja
+1184,backend,pt_br,Open,Abrir
+1185,backend,pt_br,From,A partir de
+1187,backend,pt_br,Custom Message,Mensagem personalizada
+1188,backend,pt_br,Tax enabled,Imposto ativado
+1189,backend,pt_br,Tax on service fee,Imposto sobre a taxa de serviço
+1190,backend,pt_br,Tax on delivery fee,Imposto sobre a taxa de entrega
+1191,backend,pt_br,Tax on packaging fee,Imposto sobre a taxa de embalagem
+1192,backend,pt_br,Tax Type,Tipo de imposto
+1193,backend,pt_br,Standard,Padrão
+1194,backend,pt_br,Multiple tax,Imposto múltiplo
+1195,backend,pt_br,Tax not in prices (prices does not include tax),Imposto não incluído nos preços (os preços não incluem impostos)
+1197,backend,pt_br,Add new tax,Adicionar novo imposto
+1198,backend,pt_br,Tax name,Nome do imposto
+1199,backend,pt_br,Rate %,Avaliar %
+1200,backend,pt_br,Default tax,Imposto padrão
+1201,backend,pt_br,Facebook Page,Página do Facebook
+1202,backend,pt_br,Twitter Page,Página do Twitter
+1203,backend,pt_br,Google Page,Página do Google
+1204,backend,pt_br,Merchant Mobile Alert,Alerta móvel do comerciante
+1205,backend,pt_br,Define how many minutes that order set to critical order and needs attentions.,Defina quantos minutos esse pedido foi definido como crítico e precisa de atenções.
+1206,backend,pt_br,Critical minutes,Minutos críticos
+1207,backend,pt_br,Define how many minutes that order will auto rejected.,Defina quantos minutos esse pedido será rejeitado automaticamente.
+1208,backend,pt_br,Reject order minutes,Rejeitar minutos do pedido
+1210,backend,pt_br,Days/Time,Dias/Horário
+1211,backend,pt_br,All Time,Tempo todo
+1212,backend,pt_br,Add Time Management,Adicionar gerenciamento de tempo
+1213,backend,pt_br,Transaction Type,Tipo de transação
+1215,backend,pt_br,Start Time,Hora de início
+1216,backend,pt_br,End Time,Fim do tempo
+1217,backend,pt_br,Number Order Allowed,Ordem numérica permitida
+1219,backend,pt_br,"Status that will count the existing order, if empty will use all status.","Status que contará o pedido existente, se vazio usará todos os status."
+1220,backend,pt_br,Orders as of today {{date}},Pedidos a partir de hoje {{date}}
+1221,backend,pt_br,How to manage orders,Como gerenciar pedidos
+1222,backend,pt_br,Filter by order number or customer name,Filtrar por número de pedido ou nome do cliente
+1226,backend,pt_br,Sort,Ordenar
+1227,backend,pt_br,Order ID - Ascending,ID do pedido - Crescente
+1228,backend,pt_br,Order ID - Descending,ID do pedido - Decrescente
+1229,backend,pt_br,Delivery Time - Ascending,Prazo de entrega - Crescente
+1230,backend,pt_br,Delivery Time - Descending,Tempo de entrega - Decrescente
+1231,backend,pt_br,no results',sem resultados'
+1232,backend,pt_br,Order Details will show here,Os detalhes do pedido serão exibidos aqui
+1233,backend,pt_br,Not accepting orders,Não aceitando pedidos
+1234,backend,pt_br,Store pause for,Armazenar pausa para
+1235,backend,pt_br,Store Pause,Pausa na loja
+1236,backend,pt_br,Would you like to resume accepting orders?,Deseja retomar a aceitação de pedidos?
+1237,backend,pt_br,Pause New Orders,Pausar novos pedidos
+1238,backend,pt_br,How long you would like to pause new orders?,Por quanto tempo você gostaria de pausar novos pedidos?
+1241,backend,pt_br,Reason for pausing,Motivo da pausa
+1242,backend,pt_br,{{mins}} min(s),{{mins}} min(ns)
+1243,backend,pt_br,{{total}} results,{{total}} resultados
+1244,backend,pt_br,Discount,Desconto
+1245,backend,pt_br,Reset,Redefinir
+1246,backend,pt_br,Proceed to pay,Continuar a pagar
+1247,backend,pt_br,Clear all items,Limpar todos os itens
+1248,backend,pt_br,Have a promo code?,Tem um código promocional?
+1249,backend,pt_br,Add promo code,Adicionar código promocional
+1250,backend,pt_br,Apply,Aplicar
+1251,backend,pt_br,Create Payment,Criar pagamento
+1252,backend,pt_br,Total Due,Total devido
+1253,backend,pt_br,are you sure?,tem certeza?
+1254,backend,pt_br,Walk-in Customer,Cliente de entrada
+1255,backend,pt_br,Optional,Opcional
+1256,backend,pt_br,Special Instructions,Instruções Especiais
+1257,backend,pt_br,"Add a note (extra cheese, no onions, etc.)","Adicione uma nota (queijo extra, sem cebola, etc.)"
+1258,backend,pt_br,If sold out,Se esgotado
+1259,backend,pt_br,Add to order,Adicionar ao pedido
+1260,backend,pt_br,Choose up to,Escolha até
+1261,backend,pt_br,Select flavor,Selecione o sabor
+1262,backend,pt_br,Select 1,Selecione 1
+1263,backend,pt_br,POS Orders,Pedidos de PDV
+1264,backend,pt_br,Size List,Lista de tamanhos
+1265,backend,pt_br,Ingredients List,Lista de Ingredientes
+1266,backend,pt_br,All Size,Todo tamanho
+1267,backend,pt_br,Add Size,Adicionar tamanho
+1268,backend,pt_br,Size Name,Nome do tamanho
+1269,backend,pt_br,All Ingredients,Todos os ingredientes
+1270,backend,pt_br,Add Ingredients,Adicionar ingredientes
+1271,backend,pt_br,Ingredients Name,Nome dos ingredientes
+1272,backend,pt_br,Update Ingredients,Atualizar ingredientes
+1273,backend,pt_br,Cooking Reference List,Lista de Referências de Culinária
+1274,backend,pt_br,All Cooking Reference,Todas as Referências de Culinária
+1275,backend,pt_br,Add Cooking Reference,Adicionar referência de culinária
+1276,backend,pt_br,Update Cooking Reference,Atualizar referência de culinária
+1277,backend,pt_br,Category List,Lista de categorias
+1278,backend,pt_br,All Category,Todas as categorias
+1279,backend,pt_br,Add Category,Adicionar categoria
+1280,backend,pt_br,Dish,Prato
+1281,backend,pt_br,Update Category,Atualizar categoria
+1282,backend,pt_br,Availability,Disponibilidade
+1283,backend,pt_br,Available at specified times,Disponível em horários especificados
+1284,backend,pt_br,Addon Category List,Lista de categorias de complementos
+1285,backend,pt_br,All Addon Category,Todas as categorias de complementos
+1286,backend,pt_br,Add Addon Category,Adicionar categoria de complemento
+1287,backend,pt_br,Update Addon Category,Atualizar categoria de complemento
+1288,backend,pt_br,monday,Segunda-feira
+1289,backend,pt_br,tuesday,terça
+1290,backend,pt_br,wednesday,quarta-feira
+1291,backend,pt_br,thursday,quinta-feira
+1292,backend,pt_br,friday,Sexta-feira
+1293,backend,pt_br,saturday,sábado
+1294,backend,pt_br,sunday,Domingo
+1295,backend,pt_br,Addon Item List,Lista de itens adicionais
+1296,backend,pt_br,All Addon Item,Todos os itens adicionais
+1297,backend,pt_br,Add Addon Item,Adicionar item adicional
+1298,backend,pt_br,AddOn Item,Item Adicional
+1300,backend,pt_br,Update Addon Item,Atualizar item de complemento
+1301,backend,pt_br,Item List,Item da lista
+1302,backend,pt_br,All Item,Todos os itens
+1303,backend,pt_br,Add Item,Adicionar Item
+1304,backend,pt_br,Long Description,longa descrição
+1306,backend,pt_br,Select Unit,Selecionar unidade
+1307,backend,pt_br,Item Name,Nome do item
+1308,backend,pt_br,Available,Disponível
+1309,backend,pt_br,Update Item,Atualizar item
+1310,backend,pt_br,Addon,Adicionar
+1311,backend,pt_br,Inventory,Inventário
+1312,backend,pt_br,Sales Promotion,Promoção de vendas
+1314,backend,pt_br,Add Price,Adicionar preço
+1315,backend,pt_br,Cost Price,Preço de custo
+1316,backend,pt_br,Discount Start,Desconto inicial
+1317,backend,pt_br,Discount End,Fim do desconto
+1318,backend,pt_br,Discount Type,Tipo de desconto
+1319,backend,pt_br,SKU,SKU
+1320,backend,pt_br,Fixed,Fixo
+1322,backend,pt_br,Select Type,Selecione o tipo
+1323,backend,pt_br,Select Value,Selecione o valor
+1324,backend,pt_br,Required,Requeridos
+1325,backend,pt_br,No,Não
+1326,backend,pt_br,multiple,múltiplo
+1327,backend,pt_br,All Addon,Todos os complementos
+1330,backend,pt_br,Pre-selected,Pré-selecionado
+1331,backend,pt_br,Select Item Price,Selecione o preço do item
+1332,backend,pt_br,Can Select Only One,Pode selecionar apenas um
+1333,backend,pt_br,Can Select Multiple,Pode selecionar vários
+1334,backend,pt_br,Two Flavors,Dois sabores
+1335,backend,pt_br,Custom,Personalizado
+1336,backend,pt_br,Enabled Points,Pontos ativados
+1337,backend,pt_br,Enabled Packaging Incrementals,Incrementais de Empacotamento Habilitados
+1338,backend,pt_br,Cooking Reference Mandatory,Referência de cozimento obrigatória
+1339,backend,pt_br,Points earned,Pontos ganhos
+1340,backend,pt_br,Packaging fee,Taxa de embalagem
+1341,backend,pt_br,Delivery options,Opções de entrega
+1342,backend,pt_br,Select vehicle type for this item can be used for delivery,Selecione o tipo de veículo para este item pode ser usado para entrega
+1343,backend,pt_br,Not for sale,Não está a venda
+1344,backend,pt_br,Track Stock,Acompanhar Estoque
+1345,backend,pt_br,Supplier,Fornecedor
+1346,backend,pt_br,Select Supplier,Selecionar fornecedor
+1347,backend,pt_br,Add Item Promo,Adicionar promoção de item
+1348,backend,pt_br,Buy (qty),Compre (quantidade)
+1349,backend,pt_br,Get (qty,Obter (quantidade
+1350,backend,pt_br,Select Item,Selecionar item
+1351,backend,pt_br,Buy (qty) to get the (qty) item free,Compre (qty) para obter o item (qty) gratuitamente
+1352,backend,pt_br,Buy (qty) and get 1 at (percen)% off,Compre (qtd) e ganhe 1 com (percen)% de desconto
+1353,backend,pt_br,Promo Type,Tipo de promoção
+1355,backend,pt_br,Gallery Image,Imagem da Galeria
+1356,backend,pt_br,Enabled Opt in for no contact delivery,Ativado Optar por entrega sem contato
+1357,backend,pt_br,Free Delivery On First Order,Entrega grátis no primeiro pedido
+1358,backend,pt_br,Delivery Charge Type,Tipo de taxa de entrega
+1359,backend,pt_br,Standard delivery fee,Taxa de entrega padrão
+1360,backend,pt_br,Delivery Settings,Configurações de entrega
+1361,backend,pt_br,Delivery estimation,Estimativa de entrega
+1362,backend,pt_br,in minutes example 10-20mins,em minutos exemplo 10-20mins
+1363,backend,pt_br,Minimum Order,Ordem mínima
+1364,backend,pt_br,Maximum Order,Pedido Máximo
+1365,backend,pt_br,Pickup estimation,Estimativa de retirada
+1366,backend,pt_br,Instructions,Instruções
+1367,backend,pt_br,Customer Pickup Instructions,Instruções de retirada do cliente
+1368,backend,pt_br,Describe how a customer will pickup their order when they arrive to your store. Instructions will be displayed on a customer's order status page.,Descreva como um cliente retirará seu pedido quando chegar à sua loja. As instruções serão exibidas na página de status do pedido do cliente.
+1369,backend,pt_br,Dinein estimation,Estimativa de jantar
+1370,backend,pt_br,Customer Dinein Instructions,Instruções de jantar do cliente
+1371,backend,pt_br,Describe how customer will dinein in your restaurant. Instructions will be displayed on a customer's order status page,Descreva como o cliente vai jantar no seu restaurante. As instruções serão exibidas na página de status do pedido do cliente
+1372,backend,pt_br,Page not found,página não encontrada
+1373,backend,pt_br,This page is not available in your account.,Esta página não está disponível em sua conta.
+1374,backend,pt_br,Update Coupon,Atualizar cupom
+1375,backend,pt_br,Offers list,Lista de ofertas
+1376,backend,pt_br,Valid,Válido
+1377,backend,pt_br,All Offers,Todas as ofertas
+1378,backend,pt_br,Add Offers,Adicionar ofertas
+1379,backend,pt_br,Offer Percentage,Porcentagem da Oferta
+1380,backend,pt_br,Orders Over,Pedidos encerrados
+1381,backend,pt_br,Valid From,Válido de
+1382,backend,pt_br,Valid To,Valido para
+1383,backend,pt_br,Applicable to,Aplicável a
+1384,backend,pt_br,Gallery list,Lista de galerias
+1385,backend,pt_br,"Your sales, cash in and referral earnings","Suas vendas, dinheiro e ganhos de referência"
+1386,backend,pt_br,Available Balance,Saldo disponível
+1388,backend,pt_br,Request Payout,Solicitar pagamento
+1389,backend,pt_br,Add to your balance,Adicione ao seu saldo
+1390,backend,pt_br,Minimum amount,Quantidade mínima
+1391,backend,pt_br,how much do you want to add to your account?,quanto você deseja adicionar à sua conta?
+1392,backend,pt_br,Enter top up amount,Insira o valor da recarga
+1394,backend,pt_br,Continue,Continuar
+1395,backend,pt_br,Minimum amount {{amonut}},Valor mínimo {{amonut}}
+1396,backend,pt_br,Adjustment commission order #{{order_id}},Pedido de comissão de ajuste #{{order_id}}
+1397,backend,pt_br,Refund commission order #{{order_id}},Pedido de comissão de reembolso #{{order_id}}
+1398,backend,pt_br,Commission on order #{{order_id}},Comissão no pedido #{{order_id}}
+1399,backend,pt_br,Sales on order #{{order_id}},Vendas no pedido #{{order_id}}
+1400,backend,pt_br,Payment to order #{{order_id}},Pagamento para o pedido #{{order_id}}
+1401,backend,pt_br,Payout to {{account}},Pagamento para {{account}}
+1402,backend,pt_br,Payout History,Histórico de pagamentos
+1404,backend,pt_br,Payout account,Conta de pagamento
+1406,backend,pt_br,Set Account,Definir conta
+1407,backend,pt_br,Date Processed,Data de processamento
+1408,backend,pt_br,Set your default payout account,Defina sua conta de pagamento padrão
+1410,backend,pt_br,Individual,Individual
+1411,backend,pt_br,Account information,Informação da conta
+1412,backend,pt_br,Bank Account Holders Name,Nome do titular da conta bancária
+1413,backend,pt_br,Reply,Responder
+1414,backend,pt_br,Customer review,Revisão do cliente
+1415,backend,pt_br,Your Reply,Sua resposta
+1416,backend,pt_br,Comments ([number_comments]),Comentários ([number_comments])
+1417,backend,pt_br,Date Created. [date_created],Data Criada. [Data Criada]
+1418,backend,pt_br,User List,Lista de usuários
+1419,backend,pt_br,Sales Summary Report,Relatório de resumo de vendas
+1420,backend,pt_br,Average price,Preço médio
+1421,backend,pt_br,Total qty sold,Quantidade total vendida
+1423,backend,pt_br,Sales chart,Gráfico de vendas
+1424,backend,pt_br,All Items,Todos os itens
+1425,backend,pt_br,Supplier List,Lista de fornecedores
+1426,backend,pt_br,Contacts,Contatos
+1427,backend,pt_br,Add Supplier,Adicionar fornecedor
+1428,backend,pt_br,Phone Number,Número de telefone
+1429,backend,pt_br,Address 1,Endereço 1
+1430,backend,pt_br,Address 2,Endereço 2
+1431,backend,pt_br,Postal/zip code,Código postal
+1432,backend,pt_br,Region,Região
+1433,backend,pt_br,Notes,Notas
+1434,backend,pt_br,Supplier Name,Nome do Fornecedor
+1435,backend,pt_br,Archive Order List,Lista de pedidos de arquivo
+1436,backend,pt_br,Order has the same status,O pedido tem o mesmo status
+1437,backend,pt_br,Status Updated,Status atualizado
+1438,backend,pt_br,Amount to refund cannot be less than 0,O valor a ser reembolsado não pode ser inferior a 0
+1439,backend,pt_br,You don't have enough balance in your account. please load your account to process this order.,Você não tem saldo suficiente em sua conta. carregue sua conta para processar este pedido.
+1440,backend,pt_br,Amount to less cannot be less than 0,Amount to less não pode ser inferior a 0
+1441,backend,pt_br,Less on account,Menos por conta
+1445,backend,pt_br,Status not found,Status não encontrado
+1447,backend,pt_br,Order is cancelled,O pedido foi cancelado
+1448,backend,pt_br,Order is delayed by [mins]min(s),O pedido está atrasado em [min]min(s)
+1449,backend,pt_br,Customer is notified about the delayed.,O cliente é notificado sobre o atraso.
+1450,backend,pt_br,Item row not found,Linha do item não encontrada
+1451,backend,pt_br,Succesful,Bem-sucedido
+1452,backend,pt_br,Additional charge must be greater than zero,A cobrança adicional deve ser maior que zero
+1453,backend,pt_br,Item added to order,Item adicionado ao pedido
+1454,backend,pt_br,Customer name is requied,O nome do cliente é obrigatório
+1455,backend,pt_br,Customer contact number is requied,O número de contato do cliente é necessário
+1456,backend,pt_br,Delivery address is requied,O endereço de entrega é obrigatório
+1457,backend,pt_br,Delivery coordinates is requied,As coordenadas de entrega são necessárias
+1459,backend,pt_br,Order Information updated,Informações do pedido atualizadas
+1460,backend,pt_br,Client information not found,Informações do cliente não encontradas
+1461,backend,pt_br,Invalid email address,Endereço de email invalido
+1462,backend,pt_br,Account number is required,O número da conta é obrigatório
+1463,backend,pt_br,Account name is required,O nome da conta é obrigatório
+1464,backend,pt_br,Bank name is required,O nome do banco é obrigatório
+1465,backend,pt_br,Swift code is required,O código Swift é obrigatório
+1466,backend,pt_br,Country is required,O país é obrigatório
+1467,backend,pt_br,Payout account saved,Conta de pagamento salva
+1468,backend,pt_br,Payout request successfully logged,Solicitação de pagamento registrada com sucesso
+1470,backend,pt_br,Setting saved,Configuração salva
+1471,backend,pt_br,Tax not found,Imposto não encontrado
+1473,backend,pt_br,No item solds yet,Nenhum item vendido ainda
+1474,backend,pt_br,You don't have customer yet,Você ainda não tem cliente
+1475,backend,pt_br,You don't have sales yet,Você ainda não tem vendas
+1477,backend,pt_br,Voucher code not found,Código do voucher não encontrado
+1478,backend,pt_br,Customer succesfully created,Cliente criado com sucesso
+1479,backend,pt_br,Order created by {{merchant_user}},Pedido criado por {{merchant_user}}
+1482,backend,pt_br,Record not found,Registro não encontrado
+1483,backend,pt_br,Merchant not found,Comerciante não encontrado
+1484,backend,pt_br,Payout status set to paid,Status de pagamento definido como pago
+1485,backend,pt_br,Transaction not found,Transação não encontrada
+1486,backend,pt_br,Payout cancelled,Pagamento cancelado
+1487,backend,pt_br,Payout will process in a minute or two,O pagamento será processado em um minuto ou dois
+1488,backend,pt_br,device updated,dispositivo atualizado
+1489,backend,pt_br,user device not found,dispositivo do usuário não encontrado
+1494,backend,pt_br,No recent payout request,Nenhuma solicitação de pagamento recente
+1495,backend,pt_br,Sort menu saved,Classificar menu salvo
+1496,backend,pt_br,Invalid ID,ID Inválido
+1497,backend,pt_br,View,Visualizar
+1500,backend,pt_br,History,História
+1501,backend,pt_br,Manage Plan,Gerenciar Plano
+1502,backend,pt_br,Avatar,Avatar
+1503,backend,pt_br,Order#{{order_id}} from {{customer_name}},Pedido#{{order_id}} de {{customer_name}}
+1504,backend,pt_br,Your order #{{order_id}} is accepted by {{restaurant_name}},Seu pedido #{{order_id}} foi aceito por {{restaurant_name}}
+1505,backend,pt_br,Go with merchant recommendation,Vá com a recomendação do comerciante
+1506,backend,pt_br,Contact me,Contate-me
+1507,backend,pt_br,Cancel the entire order,Cancelar todo o pedido
+1508,backend,pt_br,Order Details,detalhes do pedido
+1509,backend,pt_br,Merchant - information,Comerciante - informações
+1510,backend,pt_br,Merchant - login,Comerciante - login
+1514,backend,pt_br,Merchant - Payment history,Comerciante - Histórico de pagamentos
+1517,backend,pt_br,View Order #[order_id],Ver pedido #[order_id]
+1519,backend,pt_br,Cancel Orders,Cancelar pedidos
+1524,backend,pt_br,Update Offers,Atualizar ofertas
+1530,backend,pt_br,Printing Options,Opções de impressão
+1534,backend,pt_br,Security,Segurança
+1535,backend,pt_br,Menu Options,Opções do menu
+1538,backend,pt_br,Booking,Reserva
+1541,backend,pt_br,Update Language,Atualizar idioma
+1545,backend,pt_br,Add featured locations,Adicionar locais em destaque
+1546,backend,pt_br,Succesfully updated,Atualizado com sucesso
+1547,backend,pt_br,This field is required,Este campo é obrigatório
+1549,backend,pt_br,Initial Password must be repeated exactly.,A senha inicial deve ser repetida exatamente.
+1550,backend,pt_br,Email address already exist.,O endereço de e-mail já existe.
+1551,backend,pt_br,"{value}"" has already been taken.","{value}"" já foi obtido."
+1552,backend,pt_br,"{value}"" has already been added.","{value}"" já foi adicionado."
+1553,backend,pt_br,{attribute} is not a valid URL.,{attribute} não é um URL válido.
+1554,backend,pt_br,This field must be a number.,Este campo deve ser um número.
+1555,backend,pt_br,{attribute} is too small (minimum is {min}).,{attribute} é muito pequeno (o mínimo é {min}).
+1556,backend,pt_br,{attribute} is too big (maximum is {max}).,{attribute} é muito grande (o máximo é {max}).
+1557,backend,pt_br,this field must be time example hh:mm.,este campo deve ser exemplo de hora hh:mm.
+1560,backend,pt_br,Succesfully created,Criado com sucesso
+1561,backend,pt_br,Settings saved,Configurações salvas
+1562,backend,pt_br,Failed cannot update,Falha não pode atualizar
+1563,backend,pt_br,Failed cannot save,Falha não pode salvar
+1564,backend,pt_br,The file was larger than 10MB. Please upload a smaller file.,O arquivo era maior que 10 MB. Carregue um arquivo menor.
+1565,backend,pt_br,"The file ""{file}"" cannot be uploaded. Only files with these extensions are allowed: {extensions}.","O arquivo ""{file}"" não pode ser carregado. Somente arquivos com essas extensões são permitidos: {extensions}."
+1566,backend,pt_br,This field cannot be blank.,Este campo não pode estar vazio.
+1567,backend,pt_br,New Password must be repeated exactly,A nova senha deve ser repetida exatamente
+1568,backend,pt_br,this field is too short (minimum is {min} characters).,este campo é muito curto (o mínimo é {min} caracteres).
+1569,backend,pt_br,this field is too long (maximum is {max} characters).,este campo é muito longo (o máximo é {max} caracteres).
+1570,backend,pt_br,Record not found.,Registro não encontrado.
+1572,backend,pt_br,Please correct the forms,"Por favor, corrija os formulários"
+1573,backend,pt_br,You are not authorized to perform this action,Você não está autorizado a realizar esta ação
+1574,backend,pt_br,This field is not a valid URL,Este campo não é um URL válido
+1575,backend,pt_br,Front Translation,Tradução frontal
+1576,front,pt_br,Let's find best food for you,Vamos encontrar a melhor comida para você
+1577,front,pt_br,Enter delivery address,Digite o endereço de entrega
+1578,front,pt_br,Cuisine type,Tipo de cozinha
+1579,front,pt_br,No Minimum Order,Sem pedido mínimo
+1580,front,pt_br,"Order in for yourself or for the group, with no restrictions on order value","Encomende para si ou para o grupo, sem restrições no valor da encomenda"
+1581,front,pt_br,Live Order Tracking,Acompanhamento de pedidos ao vivo
+1582,front,pt_br,"Know where your order is at all times, from the restaurant to your doorstep","Saiba sempre onde está o seu pedido, do restaurante à sua porta"
+1583,front,pt_br,Lightning-Fast Delivery,Entrega ultrarrápida
+1584,front,pt_br,Experience karenderia superfast delivery for food delivered fresh & on time,Experimente a entrega super rápida da karenderia para alimentos entregues frescos e a tempo
+1585,front,pt_br,Best promotions in your area,As melhores promoções da sua região
+1586,front,pt_br,Rising stars restaurants,Restaurantes de estrelas em ascensão
+1587,front,pt_br,Fastest delivery for you!,Entrega mais rápida para você!
+1588,front,pt_br,Party night?,Festa a noite?
+1589,front,pt_br,Popular nearby,Popular nas proximidades
+1590,front,pt_br,Up to,Até
+1591,front,pt_br,Try something,Tentar algo
+1592,front,pt_br,Best quick,Melhor rápido
+1593,front,pt_br,Maybe,Pode ser
+1594,front,pt_br,New,Novo
+1595,front,pt_br,Lunch,Almoço
+1596,front,pt_br,Snacks?,Lanches?
+1597,front,pt_br,Check,Verificar
+1598,front,pt_br,New restaurant,Novo restaurante
+1599,front,pt_br,Are you a restaurant owner?,Você é dona de um restaurante?
+1600,front,pt_br,Join us and reach new customers,Junte-se a nós e alcance novos clientes
+1601,front,pt_br,Just a few steps to join our family,Apenas alguns passos para se juntar à nossa família
+1602,front,pt_br,Join,Junte-se
+1603,front,pt_br,Best restaurants,Melhores restaurantes
+1604,front,pt_br,In your pocket,No seu bolso
+1606,front,pt_br,Download,Download
+1607,front,pt_br,K mobile app,Aplicativo móvel K
+1608,front,pt_br,"Order from your favorite restaurants & track on the go, with the all-new K app.","Encomende de seus restaurantes favoritos e acompanhe em qualquer lugar, com o novo aplicativo K."
+1609,front,pt_br,Website,Local na rede Internet
+1610,front,pt_br,Cart,Carrinho
+1611,front,pt_br,Sign in,Entrar
+1612,front,pt_br,You don't have any orders here!,Você não tem nenhum pedido aqui!
+1613,front,pt_br,let's change that!,vamos mudar isso!
+1614,front,pt_br,Login,Conecte-se
+1615,front,pt_br,Remember me,Lembre de mim
+1616,front,pt_br,Forgot password?,Esqueceu a senha?
+1617,front,pt_br,Mobile number or email,Número de celular ou e-mail
+1618,front,pt_br,Password,Senha
+1619,front,pt_br,Don't have an account?,Não tem uma conta?
+1620,front,pt_br,Sign Up,Inscrever-se
+1621,front,pt_br,User cancelled login or did not fully authorize.,O usuário cancelou o login ou não autorizou totalmente.
+1622,front,pt_br,Login with Facebook,Entrar com o Facebook
+1624,front,pt_br,Login with Google,Entrar com o Google
+1625,front,pt_br,Let's get started,Vamos começar
+1626,front,pt_br,Enter your phone number,Digite seu número de telefone
+1627,front,pt_br,Next,Próximo
+1628,front,pt_br,Have an account?,Ter uma conta?
+1629,front,pt_br,Enter the code sent to,Digite o código enviado para
+1630,front,pt_br,Resend Code,Reenviar código
+1631,front,pt_br,Resend Code in,Reenviar código em
+1633,front,pt_br,Fill your information,Preencha suas informações
+1634,front,pt_br,First name,Primeiro nome
+1635,front,pt_br,Last name,Último nome
+1636,front,pt_br,Email address,Endereço de e-mail
+1638,front,pt_br,Confirm Password,Confirme a Senha
+1639,front,pt_br,Submit,Enviar
+1640,front,pt_br,Clear all,Limpar tudo
+1641,front,pt_br,Filter,Filtro
+1642,front,pt_br,Over,Sobre
+1643,front,pt_br,Free delivery,Entrega grátis
+1644,front,pt_br,end of result,fim do resultado
+1645,front,pt_br,Fastest delivery in,Entrega mais rápida em
+1646,front,pt_br,Receive food in less than 20 minutes,Receba comida em menos de 20 minutos
+1647,front,pt_br,Sorry! We're not there yet,Desculpe! Nós não estamos lá ainda
+1648,front,pt_br,"We're working hard to expand our area. However, we're not in this location yet. So sorry about this, we'd still love to have you as a customer.","Estamos trabalhando duro para expandir nossa área. No entanto, ainda não estamos neste local. Desculpe por isso, ainda adoraríamos tê-lo como cliente."
+1649,front,pt_br,Try something new in,Experimente algo novo em
+1650,front,pt_br,Most popular,Mais popular
+1651,front,pt_br,Rating,Avaliação
+1652,front,pt_br,Promo,Promoção
+1653,front,pt_br,Free delivery first order,Entrega grátis no primeiro pedido
+1654,front,pt_br,Price range,Faixa de preço
+1655,front,pt_br,Cuisines,Cozinhas
+1656,front,pt_br,Max Delivery Fee,Taxa máxima de entrega
+1657,front,pt_br,Delivery Fee,Taxa de entrega
+1658,front,pt_br,Ratings,Classificações
+1659,front,pt_br,Search,Procurar
+1660,front,pt_br,Now,Agora
+1661,front,pt_br,"No default map provider, check your settings.","Nenhum provedor de mapa padrão, verifique suas configurações."
+1662,front,pt_br,No results,Sem resultados
+1663,front,pt_br,Invalid file,arquivo inválido
+1664,front,pt_br,Record not found,Registro não encontrado
+1665,front,pt_br,invalid error,erro inválido
+1666,front,pt_br,You already added review for this order,Você já adicionou revisão para este pedido
+1667,front,pt_br,Login successful,Login bem-sucedido
+1668,front,pt_br,Please wait until we redirect you,Aguarde até que o redirecionamos
+1669,front,pt_br,Registration successful,Registro bem-sucedido
+1670,front,pt_br,Discount {{discount}}%,Desconto {{discount}}%
+1671,front,pt_br,Pin location is too far from the address,A localização do pino está muito longe do endereço
+1672,front,pt_br,User not login or session has expired,O usuário não faz login ou a sessão expirou
+1673,front,pt_br,We sent a code to {{email_address}}.,Enviamos um código para {{email_address}}.
+1674,front,pt_br,Your verification code is {{code}},Seu código de verificação é {{code}}
+1676,front,pt_br,Your session has expired please relogin,Sua sessão expirou por favor faça login novamente
+1677,front,pt_br,Invalid 6 digit code,Código de 6 dígitos inválido
+1678,front,pt_br,Succesfull change contact number,Número de contato alterado com sucesso
+1679,front,pt_br,Voucher code not found,Código do voucher não encontrado
+1680,front,pt_br,Payment provider not found,Provedor de pagamento não encontrado
+1681,front,pt_br,"This store is close right now, but you can schedulean order later.","Esta loja está fechada agora, mas você pode agendar um pedido mais tarde."
+1682,front,pt_br,Your Order has been place,Seu pedido foi feito
+1683,front,pt_br,Your order from,Seu pedido de
+1684,front,pt_br,Summary,Resumo
+1685,front,pt_br,Track,Acompanhar
+1686,front,pt_br,Buy again,Comprar novamente
+1687,front,pt_br,Customer cancel this order,Cliente cancelar este pedido
+1688,front,pt_br,Your order is now cancel. your refund is on its way.,Seu pedido agora está cancelado. seu reembolso está a caminho.
+1689,front,pt_br,Your order is now cancel. your partial refund is on its way.,Seu pedido agora está cancelado. seu reembolso parcial está a caminho.
+1690,front,pt_br,This order has already been cancelled,Este pedido já foi cancelado
+1691,front,pt_br,Customer cancell this order,Cliente cancelar este pedido
+1692,front,pt_br,Your order is now cancel.,Seu pedido agora está cancelado.
+1693,front,pt_br,not login,não logar
+1694,front,pt_br,You must login to save this store,Você deve fazer login para salvar esta loja
+1695,front,pt_br,Merchant has not set time opening yet,O comerciante ainda não definiu o horário de abertura
+1696,front,pt_br,Phone number already exist,O número de telefone já existe
+1697,front,pt_br,Accout not verified,Conta não verificada
+1698,front,pt_br,Your account is {{status}},Sua conta é {{status}}
+1699,front,pt_br,Check {{email_address}} for an email to reset your password.,Verifique em {{email_address}} um e-mail para redefinir sua senha.
+1700,front,pt_br,Your account is either inactive or not verified.,Sua conta está inativa ou não foi verificada.
+1701,front,pt_br,No email address found in our records. please verify your email.,Nenhum endereço de e-mail encontrado em nossos registros. verifique seu e-mail.
+1703,front,pt_br,Your password is now updated.,Agora sua senha está atualizada.
+1704,front,pt_br,You have already existing request.,Você já tem um pedido existente.
+1706,front,pt_br,Invalid file extension,Extensão de arquivo inválida
+1707,front,pt_br,"Invalid file size, allowed size are {{size}}","Tamanho de arquivo inválido, tamanho permitido é {{size}}"
+1708,front,pt_br,Failed cannot upload file.,Falha não pode carregar o arquivo.
+1709,front,pt_br,Profile photo saved,Foto do perfil salva
+1710,front,pt_br,Invalid data,Dados inválidos
+1711,front,pt_br,File not found,Arquivo não encontrado
+1712,front,pt_br,ID is empty,ID está vazio
+1714,front,pt_br,Payment not found,Pagamento não encontrado
+1715,front,pt_br,{{count}} store,{{count}} loja
+1716,front,pt_br,{{count}} stores,{{count}} lojas
+1717,front,pt_br,low cost restaurant,restaurante de baixo custo
+1718,front,pt_br,{{review_count}} reviews,{{review_count}} comentários
+1719,front,pt_br,Save store,Salvar loja
+1720,front,pt_br,Saved,Salvou
+1721,front,pt_br,Enter your address,Digite seu endereço
+1722,front,pt_br,Gallery,Galeria
+1723,front,pt_br,Reviews,Avaliações
+1724,front,pt_br,Based on,Baseado em
+1726,front,pt_br,Load more,Carregue mais
+1727,front,pt_br,Few words about {{restaurant_name}},Algumas palavras sobre {{restaurant_name}}
+1728,front,pt_br,Address,Endereço
+1729,front,pt_br,Get direction,Obter direção
+1730,front,pt_br,Opening hours,Horário de funcionamento
+1731,front,pt_br,Add to cart,Adicionar ao Carrinho
+1732,front,pt_br,Menu,Cardápio
+1735,front,pt_br,Clear,Claro
+1736,front,pt_br,Place Order,Faça a encomenda
+1737,front,pt_br,Checkout,Confira
+1738,front,pt_br,Delivery details,Detalhes da Entrega
+1739,front,pt_br,Change address,Alterar endereço
+1740,front,pt_br,Pick a time,Escolha um horário
+1741,front,pt_br,Schedule for later,Agendar para mais tarde
+1742,front,pt_br,Done,Feito
+1743,front,pt_br,Save,Salvar
+1744,front,pt_br,Optional,Opcional
+1745,front,pt_br,Special Instructions,Instruções Especiais
+1746,front,pt_br,"Add a note (extra cheese, no onions, etc.)","Adicione uma nota (queijo extra, sem cebola, etc.)"
+1747,front,pt_br,If sold out,Se esgotado
+1748,front,pt_br,Go with merchant recommendation,Vá com a recomendação do comerciante
+1749,front,pt_br,Refund this item,Reembolsar este item
+1750,front,pt_br,Contact me,Contate-me
+1751,front,pt_br,Cancel the entire order,Cancelar todo o pedido
+1752,front,pt_br,Select 1,Selecione 1
+1753,front,pt_br,Choose up to,Escolha até
+1754,front,pt_br,Select flavor,Selecione o sabor
+1755,front,pt_br,Required,Requeridos
+1756,front,pt_br,monday,Segunda-feira
+1757,front,pt_br,tuesday,terça
+1758,front,pt_br,wednesday,quarta-feira
+1759,front,pt_br,thursday,quinta-feira
+1760,front,pt_br,friday,Sexta-feira
+1761,front,pt_br,saturday,sábado
+1762,front,pt_br,sunday,Domingo
+1763,front,pt_br,You're out of range,Você está fora do alcance
+1764,front,pt_br,This restaurant cannot deliver to,Este restaurante não pode entregar para
+1768,front,pt_br,We'll confirm that you can have this restaurant delivered.,Confirmaremos que você pode entregar este restaurante.
+1769,front,pt_br,add Address,adicionar endereço
+1770,front,pt_br,Delivery Address,Endereço de entrega
+1772,front,pt_br,Store is close,A loja está perto
+1774,front,pt_br,Schedule Order,Agendar pedido
+1775,front,pt_br,min,min
+1776,front,pt_br,Cooking Reference,Referência de culinária
+1777,front,pt_br,Ingredients,Ingredientes
+1778,front,pt_br,Order type and time,Tipo de pedido e hora
+1779,front,pt_br,Include utensils and condoments,Inclua utensílios e preservativos
+1780,front,pt_br,Tip the courier,Dê uma gorjeta ao correio
+1781,front,pt_br,Optional tip for the courier,Gorjeta opcional para o correio
+1782,front,pt_br,People also ordered,As pessoas também encomendaram
+1783,front,pt_br,Choose a delivery address,Escolha um endereço de entrega
+1784,front,pt_br,Add new address,adicionar novo endereço
+1785,front,pt_br,Payment Methods,Métodos de Pagamento
+1786,front,pt_br,Saved Payment Methods,Métodos de pagamento salvos
+1787,front,pt_br,Sub total,Subtotal
+1788,front,pt_br,Service fee,Taxa de serviço
+1789,front,pt_br,Courier tip,Dica de correio
+1790,front,pt_br,Total,Total
+1791,front,pt_br,Add New Payment Method,Adicionar novo método de pagamento
+1792,front,pt_br,Promotion available,Promoção disponível
+1793,front,pt_br,{{tax_name}} {{tax}}%,{{tax_name}} {{tax}}%
+1794,front,pt_br,{{tax_name}} ({{tax}}% included),{{tax_name}} ({{tax}}% incluído)
+1795,front,pt_br,Packaging fee,Taxa de embalagem
+1797,front,pt_br,minimum order is {{minimum_order}},pedido mínimo é {{minimum_order}}
+1798,front,pt_br,maximum order is {{maximum_order}},pedido máximo é {{maximum_order}}
+1800,front,pt_br,This restaurant cannot deliver to your location.,Este restaurante não pode entregar na sua localidade.
+1801,front,pt_br,Back to Menu,Voltar ao menu
+1802,front,pt_br,Confirming your order,Confirmando seu pedido
+1803,front,pt_br,Write A Review,Escreva uma crítica
+1804,front,pt_br,What did you like?,O que você gostou?
+1805,front,pt_br,What did you not like?,O que você não gostou?
+1806,front,pt_br,Add Photos,Adicionar fotos
+1807,front,pt_br,Write your review,escreva sua revisão
+1808,front,pt_br,post review as anonymous,postar revisão como anônimo
+1809,front,pt_br,Your review helps us to make better choices,Sua avaliação nos ajuda a fazer melhores escolhas
+1810,front,pt_br,Drop files here to upload,Solte os arquivos aqui para enviar
+1811,front,pt_br,Add Review,Adicione uma avaliação
+1812,front,pt_br,Maximum files exceeded,Máximo de arquivos excedido
+1813,front,pt_br,Your browser does not support drag'n'drop file uploads.,Seu navegador não suporta uploads de arquivos de arrastar e soltar.
+1814,front,pt_br,Please use the fallback form below to upload your files like in the olden days.,Use o formulário alternativo abaixo para fazer upload de seus arquivos como antigamente.
+1815,front,pt_br,File is too big ({{filesize}}MiB). Max filesize: {{maxFilesize}}MiB.w,O arquivo é muito grande ({{filesize}}MiB). Tamanho máximo do arquivo: {{maxFilesize}}MiB.w
+1816,front,pt_br,You can't upload files of this type.,Você não pode fazer upload de arquivos desse tipo.
+1817,front,pt_br,Server responded with {{statusCode}} code.,O servidor respondeu com o código {{statusCode}}.
+1818,front,pt_br,Cancel upload,Cancelar upload
+1819,front,pt_br,Are you sure you want to cancel this upload?,Tem certeza de que deseja cancelar este upload?
+1820,front,pt_br,Remove file,Remover arquivo
+1821,front,pt_br,You can not upload any more files.,Você não pode enviar mais arquivos.
+1822,front,pt_br,HOWS WAS YOUR ORDER?,COMO FOI SEU PEDIDO?
+1823,front,pt_br,let us know how your delivery wen and how you liked your order!,deixe-nos saber como foi sua entrega e como você gostou do seu pedido!
+1824,front,pt_br,Rate Your Order,Avalie seu pedido
+1825,front,pt_br,UPON ARRIVAL,NA CHEGADA
+1826,front,pt_br,Order #,Ordem #
+1827,front,pt_br,Subtotal,Subtotal
+1828,front,pt_br,Preparing your order,Preparando seu pedido
+1829,front,pt_br,{{restaurant_name}} is preparing your  order.,{{restaurant_name}} está preparando seu pedido.
+1830,front,pt_br,Your order is ready,Seu pedido está pronto
+1831,front,pt_br,Your order is ready to pickup by driver.,Seu pedido está pronto para retirada pelo motorista.
+1832,front,pt_br,Pickup your order,Retire seu pedido
+1833,front,pt_br,Your order is ready. Time to go to {{restaurant_name}} to pickup your order.,Seu pedido está pronto. Hora de ir ao {{restaurant_name}} para retirar seu pedido.
+1835,front,pt_br,Your order is ready. Time to go to {{restaurant_name}} to eat your order.,Seu pedido está pronto. Hora de ir ao {{restaurant_name}} comer seu pedido.
+1836,front,pt_br,Heading to you,Indo para você
+1837,front,pt_br,Your delivery guy is heading to you with your order.,Seu entregador está indo até você com seu pedido.
+1838,front,pt_br,Order Complete,Pedido completo
+1839,front,pt_br,Your order is completed. Enjoy!,Seu pedido está concluído. Aproveitar!
+1840,front,pt_br,Order cancelled,Pedido cancelado
+1841,front,pt_br,"Unfortunately, the restaurant is not able to complete this order due to the following reason: {{rejetion_reason}}","Infelizmente, o restaurante não pode concluir este pedido devido ao seguinte motivo: {{rejetion_reason}}"
+1842,front,pt_br,Order rejected,Pedido rejeitado
+1845,front,pt_br,Your order failed to complete,Seu pedido não foi concluído
+1846,front,pt_br,"Unfortunately, the restaurant is not able to complete your order.","Infelizmente, o restaurante não pode concluir seu pedido."
+1847,front,pt_br,We sent your order to {{restaurant_name}} for final confirmation.,Enviamos seu pedido para {{restaurant_name}} para confirmação final.
+1848,front,pt_br,Notification,Notificação
+1849,front,pt_br,View all,Ver tudo
+1850,front,pt_br,All notifications,Todas as notificações
+1851,front,pt_br,end of results,fim dos resultados
+1852,front,pt_br,Manage my account,Gerenciar minha conta
+1853,front,pt_br,Orders,Pedidos
+1854,front,pt_br,Addresses,Endereços
+1855,front,pt_br,Payments,Pagamentos
+1856,front,pt_br,Saved Stores,Lojas salvas
+1857,front,pt_br,Order#{{order_id}} from {{customer_name}},Pedido#{{order_id}} de {{customer_name}}
+1858,front,pt_br,Your order #{{order_id}} is accepted by {{restaurant_name}},Seu pedido #{{order_id}} foi aceito por {{restaurant_name}}
+1859,front,pt_br,days ago,dias atrás
+1860,front,pt_br,day,dia
+1861,front,pt_br,days,dias
+1862,front,pt_br,ago,atrás
+1863,front,pt_br,Profile,Perfil
+1864,front,pt_br,Basic Details,Detalhes básicos
+1865,front,pt_br,Change Password,Mudar senha
+1866,front,pt_br,Notifications,Notificações
+1867,front,pt_br,Manage Account,Gerenciar conta
+1868,front,pt_br,"For your security, we want to make sure it's really you.","Para sua segurança, queremos ter certeza de que é realmente você."
+1869,front,pt_br,Enter 6-digit code,Digite o código de 6 dígitos
+1872,front,pt_br,Code,Código
+1873,front,pt_br,Confirm account deletion,Confirme a exclusão da conta
+1874,front,pt_br,"(""Are you sure you want to delete your account and customer data from {{site_title}}?{{new_line}} This action is permanent and cannot be undone.","(""Tem certeza de que deseja excluir sua conta e dados de cliente do {{site_title}}?{{new_line}} Esta ação é permanente e não pode ser desfeita."
+1875,front,pt_br,Delete Account,Deletar conta
+1876,front,pt_br,Don't Delete,Não apague
+1877,front,pt_br,Okay,OK
+1878,front,pt_br,2-Step Verification,Verificação em duas etapas
+1879,front,pt_br,Profile updated,perfil atualizado
+1880,front,pt_br,Old password,Senha Antiga
+1881,front,pt_br,New password,Nova Senha
+1882,front,pt_br,Notifications Settings,Configurações de notificações
+1883,front,pt_br,Enabled,Habilitado
+1884,front,pt_br,Communication preferences,Preferências de Comunicação
+1885,front,pt_br,Could not get device interests,Não foi possível obter os interesses do dispositivo
+1886,front,pt_br,notifications enabled,notificações ativadas
+1887,front,pt_br,notifications disabled,notificações desativadas
+1888,front,pt_br,Could not stop Beams SDK,Não foi possível parar o SDK do Beams
+1889,front,pt_br,Could not start Beams SDK,Não foi possível iniciar o SDK do Beams
+1890,front,pt_br,Notification type save,Salvar tipo de notificação
+1891,front,pt_br,Could not set device interests,Não foi possível definir os interesses do dispositivo
+1893,front,pt_br,Select only the marketing messages you would like to receive from {{settings.site_name}}. You will still receive transactional emails including but not limited to information about your account and certain other updates such as those related to safety and privacy.,"Selecione apenas as mensagens de marketing que você gostaria de receber de {{settings.site_name}}. Você ainda receberá e-mails transacionais, incluindo, entre outros, informações sobre sua conta e algumas outras atualizações, como as relacionadas à segurança e privacidade."
+1895,front,pt_br,Account Data,Dados da conta
+1896,front,pt_br,You can request an archive of your personal information. We'll notify you when it's ready to download.,Você pode solicitar um arquivo de suas informações pessoais. Notificaremos você quando estiver pronto para download.
+1897,front,pt_br,Request archive,Solicitar arquivo
+1898,front,pt_br,We received your data request,Recebemos sua solicitação de dados
+1899,front,pt_br,we'll send your data as soon as we can. this process may take a few days. You will receive an email once your data is ready.,enviaremos seus dados assim que possível. este processo pode demorar alguns dias. Você receberá um e-mail assim que seus dados estiverem prontos.
+1901,front,pt_br,"You can request to have your account deleted and personal information removed. If you have both a DoorDash and Caviar account, then the information associated with both will be affected to the extent we can identify that the accounts are owned by the same user.","Você pode solicitar a exclusão de sua conta e a remoção de informações pessoais. Se você tiver uma conta DoorDash e Caviar, as informações associadas a ambas serão afetadas na medida em que pudermos identificar que as contas são de propriedade do mesmo usuário."
+1902,front,pt_br,Your account is being deleted,Sua conta está sendo excluída
+1903,front,pt_br,You will be automatically logged out. Your account will be deleted in the next few minutes.,Você será desconectado automaticamente. Sua conta será excluída nos próximos minutos.
+1904,front,pt_br,Note: We may retain some information when permitted by law.,Nota: Podemos reter algumas informações quando permitido por lei.
+1905,front,pt_br,Search order,Ordem de pesquisa
+1910,front,pt_br,Sorry we cannot find what your looking for,"Desculpe, não podemos encontrar o que você procura"
+1911,front,pt_br,Order now,Peça agora
+1912,front,pt_br,We like each other,Nós gostamos um do outro
+1913,front,pt_br,Let's not change this!,Não vamos mudar isso!
+1914,front,pt_br,Orders Qty,Quantidade de pedidos
+1915,front,pt_br,Total amount,Valor total
+1916,front,pt_br,Place on,Colocar em
+1917,front,pt_br,View,Visualizar
+1920,front,pt_br,Download PDF,baixar PDF
+1921,front,pt_br,Cancel order,Cancelar pedido
+1924,front,pt_br,Refund Issued,Reembolso emitido
+1925,front,pt_br,Date issued,Data de emissão
+1926,front,pt_br,Issued to,Concedida a
+1927,front,pt_br,Amount,Montante
+1928,front,pt_br,Description,Descrição
+1929,front,pt_br,Replacement,Substituição
+1931,front,pt_br,Don't cancel,Não cancele
+1932,front,pt_br,How would you like to proceed?,Como você gostaria de proceder?
+1933,front,pt_br,Are you sure?,Tem certeza?
+1934,front,pt_br,Order #{{order_id}},Pedido #{{order_id}}
+1935,front,pt_br,{{total}} item,{{total}} item
+1936,front,pt_br,{{total}} items,{{Total }}de Itens
+1937,front,pt_br,Sub total ({{count}} items),Subtotal ({{count}} itens)
+1938,front,pt_br,Place on {{date}},Local em {{date}}
+1939,front,pt_br,Payment by {{payment_name}},Pagamento por {{payment_name}}
+1940,front,pt_br,Go to checkout,Ir para o checkout
+1941,front,pt_br,Your cart from,Seu carrinho de
+1942,front,pt_br,Your order has not been accepted so there is no charge to cancel. Your payment will be refunded to your account.,"Seu pedido não foi aceito, portanto, não há cobrança para cancelar. Seu pagamento será reembolsado em sua conta."
+1943,front,pt_br,Your total refund will be {{amount}},Seu reembolso total será de {{amount}}
+1944,front,pt_br,"Your driver is already on their way to pick up your order, so we can only refund the subtotal and tax","Seu motorista já está a caminho para retirar seu pedido, então só podemos reembolsar o subtotal e o imposto"
+1946,front,pt_br,The store has started preparing this order so we can only refund the delivery charges and driver tip,A loja começou a preparar este pedido para que possamos reembolsar apenas as taxas de entrega e a gorjeta do motorista
+1947,front,pt_br,"Store has confirmed order and a driver has been assigned, so we cannot cancel this order","A loja confirmou o pedido e um motorista foi designado, então não podemos cancelar este pedido"
+1948,front,pt_br,Refund is not available for this order,O reembolso não está disponível para este pedido
+1949,front,pt_br,"Your order has not been accepted so there is no charge to cancel, click cancel order to proceed","Seu pedido não foi aceito, então não há cobrança para cancelar, clique em cancelar pedido para continuar"
+1950,front,pt_br,The driver has already on the way to pickup your order so we cannot cannot cancel this order,"O motorista já está a caminho para retirar seu pedido, então não podemos cancelar este pedido"
+1951,front,pt_br,The restaurant has started preparing this order so we cannot cancel this order,"O restaurante começou a preparar este pedido, por isso não podemos cancelá-lo"
+1953,front,pt_br,this order has no items available,este pedido não tem itens disponíveis
+1954,front,pt_br,order not found,pedido não encontrado
+1955,front,pt_br,Discount {{discount}},Desconto {{discount}}
+1957,front,pt_br,Item refund for {{item_name}},Reembolso de item para {{item_name}}
+1958,front,pt_br,Item out of stock for {{item_name}},Item esgotado para {{item_name}}
+1959,front,pt_br,"Cannot cancel this order, this order has existing refund.","Não é possível cancelar este pedido, este pedido tem reembolso existente."
+1960,front,pt_br,transaction not found,transação não encontrada
+1961,front,pt_br,No invoice payment found,Nenhum pagamento de fatura encontrado
+1962,front,pt_br,no payment has found,nenhum pagamento foi encontrado
+1963,front,pt_br,"Wow, man of many places :)","Uau, homem de muitos lugares :)"
+1964,front,pt_br,"No address, lets change that!","Sem endereço, vamos mudar isso!"
+1967,front,pt_br,Adjust pin,Pino de ajuste
+1968,front,pt_br,Delivery options,Opções de entrega
+1969,front,pt_br,Add delivery instructions,Adicionar instruções de entrega
+1970,front,pt_br,"eg. ring the bell after dropoff, leave next to the porch, call upon arrival, etc","por exemplo. tocar a campainha após o desembarque, sair ao lado da varanda, ligar na chegada, etc"
+1971,front,pt_br,Address label,Etiqueta de endereço
+1973,front,pt_br,Cancel,Cancelar
+1974,front,pt_br,"Aparment, suite or floor","Apartamento, suíte ou andar"
+1976,front,pt_br,Confirm,confirme
+1977,front,pt_br,Yes,sim
+1978,front,pt_br,Are you sure you want to continue?,Você tem certeza que quer continuar?
+1979,front,pt_br,Complete Address,Endereço completo
+1980,front,pt_br,Edit,Editar
+1981,front,pt_br,Delete,Excluir
+1982,front,pt_br,Address details,Detalhes do Endereço
+1984,front,pt_br,Home,Lar
+1985,front,pt_br,Work,Trabalhar
+1986,front,pt_br,School,Escola
+1987,front,pt_br,Friend house,Casa do amigo
+1988,front,pt_br,Other,De outros
+1989,front,pt_br,Payment,Pagamento
+1990,front,pt_br,You can add your payment info here,Você pode adicionar suas informações de pagamento aqui
+1991,front,pt_br,Add new payment,Adicionar novo pagamento
+1992,front,pt_br,Close Payment,Fechar pagamento
+1993,front,pt_br,Set Default,Conjunto padrão
+1995,front,pt_br,Your collection of restaurant and foods,Sua coleção de restaurantes e comidas
+1996,front,pt_br,You don't have any save stores here!,Você não tem nenhuma loja salva aqui!
+1997,front,pt_br,My orders,Minhas ordens
+1998,front,pt_br,Payments Options,Opções de pagamento
+1999,front,pt_br,Logout,Sair
+2003,front,pt_br,You'll be contacted soon!,Você será contatado em breve!
+2004,front,pt_br,{{website_title}} needs to be contact you for more information. You can expect a phone call or email in 1-3 business days,{{website_title}} precisa entrar em contato com você para obter mais informações. Você pode esperar um telefonema ou e-mail em 1-3 dias úteis
+2005,front,pt_br,THANKS FOR LOADING,OBRIGADO POR CARREGAR
+2006,front,pt_br,Payment successful.,Pagamento bem sucedido.
+2007,front,pt_br,check your account statements account.,verifique sua conta de extratos de conta.
+2008,front,pt_br,Go to statement,Ir para declaração
+2009,front,pt_br,Cash In,Dinheiro em caixa
+2010,front,pt_br,Cash In Amount,Valor em dinheiro
+2011,front,pt_br,Continue,Continuar
+2012,front,pt_br,Confirm cash in,Confirme a entrada em dinheiro
+2013,front,pt_br,"Cash in amount {{amount}}, click yes to continue.","Dinheiro no valor {{amount}}, clique em sim para continuar."
+2016,front,pt_br,Back to dashboard,Voltar ao painel
+2017,front,pt_br,Subscription Plans,Planos de assinatura
+2018,front,pt_br,Privacy Notice,Notificação de privacidade
+2019,front,pt_br,Become Restaurant partner,Torne-se parceiro do restaurante
+2020,front,pt_br,Get a sales boost of up to 30% from takeaways,Obtenha um aumento de vendas de até 30% com takeaways
+2022,front,pt_br,Why partner with Us?,Por que fazer parceria conosco?
+2023,front,pt_br,Increase sales,Aumentar as vendas
+2024,front,pt_br,Keep the kitchen busy,Mantenha a cozinha ocupada
+2025,front,pt_br,Join a well-oiled marketing machine and watch the orders come in through your door and online.,Junte-se a uma máquina de marketing bem azeitada e veja os pedidos entrarem pela sua porta e online.
+2026,front,pt_br,Meet them and keep them,Conheça-os e mantenha-os
+2027,front,pt_br,Attract new local customers and keep them coming back for more.,Atraia novos clientes locais e faça com que eles voltem para mais.
+2028,front,pt_br,Use our services,Utilize nossos serviços
+2029,front,pt_br,For businesses big and small,Para empresas grandes e pequenas
+2030,front,pt_br,"Whatever your size we have tools, business support and savings to help grow your business.","Seja qual for o seu tamanho, temos ferramentas, suporte comercial e economia para ajudar a expandir seus negócios."
+2031,front,pt_br,Overtake competitors,Ultrapasse os concorrentes
+2032,front,pt_br,Become a Multi Restaurant partner today.,Torne-se um parceiro Multi Restaurante hoje.
+2033,front,pt_br,Store name,Nome da loja
+2034,front,pt_br,Store address,Endereço da loja
+2035,front,pt_br,Choose your membership program,Escolha o seu programa de adesão
+2036,front,pt_br,Register user,Registrar usuário
+2037,front,pt_br,Signup,Inscrever-se
+2039,front,pt_br,Username,Nome do usuário
+2040,front,pt_br,Select Payment,Selecionar pagamento
+2041,front,pt_br,Select,Selecionar
+2042,front,pt_br,weekly,semanalmente
+2043,front,pt_br,monthly,por mês
+2044,front,pt_br,anually,anualmente
+2045,front,pt_br,Enter your card details,Insira os dados do seu cartão
+2046,front,pt_br,Subscribe,Se inscrever
+2048,front,pt_br,Cardholder name,Nome do Titular
+2049,front,pt_br,THANKS FOR JOINING,OBRIGADO POR SE JUNTAR
+2050,front,pt_br,Your registration is complete!,Seu registro está completo!
+2051,front,pt_br,You can login to merchant portal by clicking {{start_link}}here{{end_link}},Você pode fazer login no portal do comerciante clicando {{start_link}}aqui{{end_link}}
+2052,front,pt_br,Something went wrong.,Algo deu errado.
+2053,front,pt_br,"uh-oh! Looks like the page you are trying to access, doesn't exist. Please start afresh.","uh-oh! Parece que a página que você está tentando acessar não existe. Por favor, comece de novo."
+2054,front,pt_br,Processing payment..,Processando o pagamento..
+2055,front,pt_br,don't close this window,não feche esta janela
+2056,front,pt_br,{{estimation}} mins,{{estimation}} minutos
+2057,front,pt_br,{{distance}} {{unit}} delivery distance,{{distance}} {{unit}} distância de entrega
+2058,front,pt_br,Leave it at my door,Deixe na minha porta
+2059,front,pt_br,Hand it to me,Entregue para mim
+2060,front,pt_br,Meet outside,Encontro lá fora
+2061,front,pt_br,Add tip,Adicionar dica
+2062,front,pt_br,Default,Predefinição
+2063,front,pt_br,Add Cash On delivery,Adicionar dinheiro na entrega
+2064,front,pt_br,Cash on Delivery or COD is a payment method that allows pay for the items you have ordered only when it gets delivered.,Dinheiro na entrega ou COD é um método de pagamento que permite pagar os itens que você encomendou somente quando for entregue.
+2065,front,pt_br,Add Cash,Acrescente dinheiro
+2066,front,pt_br,Add New Card,Adicionar novo cartão
+2067,front,pt_br,Card Number,Número do cartão
+2068,front,pt_br,Exp. Date,Data de validade
+2069,front,pt_br,Security Code,Código de segurança
+2070,front,pt_br,Card Name,Nome do cartão
+2071,front,pt_br,Billing Address,Endereço de Cobrança
+2072,front,pt_br,Add Card,Adicionar cartão
+2073,front,pt_br,Add Paypal,Adicionar Paypal
+2074,front,pt_br,Pay using your paypal account,Pague usando sua conta Paypal
+2075,front,pt_br,Add Stripe,Adicionar Stripe
+2076,front,pt_br,Add your stripe account,Adicione sua conta Stripe
+2077,front,pt_br,You will re-direct to Stripe account to login to your account.,Você será redirecionado para a conta Stripe para fazer login na sua conta.
+2079,front,pt_br,I authorise {{website_name}} to send instructions to the financial institution that issued my card to take payments from my card account in accordance with the terms of my agreement with {{website_name}},Autorizo ​​{{website_name}} a enviar instruções à instituição financeira que emitiu meu cartão para receber pagamentos da minha conta de cartão de acordo com os termos do meu contrato com {{website_name}}
+2080,front,pt_br,An error has occured,Ocorreu um erro
+2081,front,pt_br,Add Razorpay,Adicionar Razorpay
+2082,front,pt_br,Pay using your Razorpay account,Pague usando sua conta Razorpay
+2083,front,pt_br,Pay using Razorpay,Pague usando Razorpay
+2084,front,pt_br,You will re-direct to Razorpay account to login to your account.,Você será redirecionado para a conta Razorpay para fazer login na sua conta.
+2085,front,pt_br,Pay with Razorpay,Pague com Razorpay
+2086,front,pt_br,Creating account,Criando conta
+2087,front,pt_br,Getting payment information....,Obtendo informações de pagamento....
+2088,front,pt_br,Add mercadopago,Adicionar mercadopago
+2089,front,pt_br,Pay using your mercadopago account,Pague usando sua conta do Mercadopago
+2090,front,pt_br,Exp. Date MM/YYYY,Data de vencimento MM/AAAA
+2091,front,pt_br,Identification Number,Número de identificação
+2092,front,pt_br,Identification,Identificação
+2093,front,pt_br,Enter CVV for card,Digite CVV para o cartão
+2095,front,pt_br,Verification,Verificação
+2096,front,pt_br,Order Type,Tipo de pedido
+2097,front,pt_br,Desired delivery time,Tempo de entrega desejado
+2098,front,pt_br,Edit phone number,Editar número de telefone
+2099,front,pt_br,Promotions,Promoções
+2100,front,pt_br,Have a promo code?,Tem um código promocional?
+2101,front,pt_br,Add promo code,Adicionar código promocional
+2102,front,pt_br,Apply,Aplicar
+2103,front,pt_br,Add promo,Adicionar promoção
+2104,front,pt_br,Not available,Não disponível
+2105,front,pt_br,You're saving {{discount}},Você está economizando {{discount}}
+2106,front,pt_br,Use until {{date}},Use até {{date}}
+2107,front,pt_br,({{coupon_name}}) {{amount}}% off,({{coupon_name}}) {{amount}}% de desconto
+2108,front,pt_br,({{coupon_name}}) {{amount}} off,({{coupon_name}}) {{amount}} de desconto
+2109,front,pt_br,Min. spend {{amount}},Gasto mínimo {{amount}}
+2110,front,pt_br,{{amount}}% off over {{order_over}} on {{transaction}},{{amount}}% de desconto em {{order_over}} em {{transaction}}
+2111,front,pt_br,valid {{from}} to {{to}},válido {{from}} a {{to}}
+2112,front,pt_br,row not found,linha não encontrada
+2113,front,pt_br,cart uuid not found,uuid do carrinho não encontrado
+2114,front,pt_br,order has no item,pedido não tem item
+2115,front,pt_br,Address not found,Endereço não encontrado
+2116,front,pt_br,no default email provider,nenhum provedor de e-mail padrão
+2117,front,pt_br,Place ID is empty,O ID do local está vazio
+2118,front,pt_br,Map provider not set,Provedor de mapa não definido
+2119,front,pt_br,merchant not found,comerciante não encontrado
+2120,front,pt_br,Place id not found,ID do local não encontrado
+2121,front,pt_br,Invalid filter,Filtro inválido
+2122,front,pt_br,Invalid coordinates,Coordenadas inválidas
+2123,front,pt_br,Invalid distance unit,Unidade de distância inválida
+2124,front,pt_br,Selected delivery time is already past,O prazo de entrega selecionado já passou
+2125,front,pt_br,Currently unavailable,Atualmente indisponivel
+2126,front,pt_br,no memberhisp program,nenhum programa Memberhisp
+2127,front,pt_br,no available payment method,nenhuma forma de pagamento disponível
+2128,front,pt_br,no results payment credentials,sem credenciais de pagamento de resultados
+2129,front,pt_br,no available saved payment,nenhum pagamento salvo disponível
+2130,front,pt_br,cannot delete records please try again.,"não é possível excluir registros, tente novamente."
+2131,front,pt_br,No payment method meta found,Nenhuma meta de forma de pagamento encontrada
+2133,front,pt_br,Please validated captcha,Por favor valide o captcha
+2134,front,pt_br,Invalid recaptcha secret key,Chave secreta recaptcha inválida
+2135,front,pt_br,Invalid google recaptcha error,Erro inválido do google recaptcha
+2136,front,pt_br,Invalid response from google recaptcha,Resposta inválida do google recaptcha
+2138,front,pt_br,invalid response,resposta inválida
+2139,front,pt_br,no sms provider set in admin panel,nenhum provedor de sms definido no painel de administração
+2140,front,pt_br,Undefined facebook response,Resposta indefinida do facebook
+2141,front,pt_br,Invalid ID token,Token de ID inválido
+2142,front,pt_br,Invalid api keys,Chaves de API inválidas
+2143,front,pt_br,undefined map provider,provedor de mapa indefinido
+2144,front,pt_br,invalid place id parameters,parâmetros de código de lugar inválidos
+2145,front,pt_br,over query limit,acima do limite de consultas
+2146,front,pt_br,input parameter is missing,parâmetro de entrada está faltando
+2147,front,pt_br,unknow error,erro desconhecido
+2148,front,pt_br,undefined error,erro indefinido
+2149,front,pt_br,miles,milhas
+2150,front,pt_br,km,km
+2151,front,pt_br,ft,pés
+2152,front,pt_br,invalid latitude parameters,parâmetros de latitude inválidos
+2153,front,pt_br,invalid longitude parameters,parâmetros de longitude inválidos
+2154,front,pt_br,Search tag,Tag de pesquisa
+2155,front,pt_br,Reach more customers,Alcance mais clientes
+2156,backend,pt_br,Replace Item,Substituir item
+2157,backend,pt_br,Refund payment,Reembolsar o pagamento
+2158,backend,pt_br,Refund the full amount,Reembolsar o valor total
+2159,backend,pt_br,Show language selection,Mostrar seleção de idioma
+2160,backend,pt_br,Languages settings,Configurações de idiomas
+2161,backend,pt_br,Default language,Idioma padrão
+2162,backend,pt_br,Backend Translation,Tradução de back-end
+2164,backend,pt_br,Export Backend translation,Exportar tradução de back-end
+2165,backend,pt_br,Export Front translation,Exportar tradução da frente
+2166,backend,pt_br,Backend,Processo interno
+2167,backend,pt_br,Front end,A parte dianteira
+2168,backend,pt_br,Import language file,Importar arquivo de idioma
+2169,backend,pt_br,Succesfully imported,Importado com sucesso
+2170,backend,pt_br,Invalid csv data,Dados csv inválidos
+2171,backend,pt_br,"Important notice, all the previous save words will be replace by the csv you uploaded.","Aviso importante, todas as palavras salvas anteriores serão substituídas pelo csv que você carregou."
+2172,backend,pt_br,Import,Importar
+2173,front,pt_br,Filters,Filtros
+2174,front,pt_br,Restaurant,Restaurante
+2175,front,pt_br,Food,Comida
+2176,front,pt_br,View order,Ver pedido
+2177,front,pt_br,"Tap for hours,address, and more","Toque para horas, endereço e muito mais"
+2178,front,pt_br,Add your restaurant,Adicione seu restaurante
+2179,front,pt_br,Sign up to deliver,Inscreva-se para entregar
+2180,front,pt_br,Best restaurants In your pocket,Melhores restaurantes no seu bolso
+2181,front,pt_br,Get the app,Obtenha o aplicativo
+2182,backend,pt_br,An error has occured.,Ocorreu um erro.
+2183,backend,pt_br,Your password has been reset.,Sua senha foi alterada.
+2184,backend,pt_br,Forgot Backend Password Template,Esqueci o modelo de senha de back-end
+2185,backend,pt_br,Allow return to home,Permitir o regresso a casa
+2186,backend,pt_br,Version {{version}},Versão {{version}}

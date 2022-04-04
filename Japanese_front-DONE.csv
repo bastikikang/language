@@ -1,0 +1,1945 @@
+id,category,language,message,translation
+1,backend,ja,Total Sales,総売上高
+2,backend,ja,Total Merchant,総商人
+3,backend,ja,Total Commission,総コミッション
+4,backend,ja,Total Subscriptions,総サブスクリプション
+5,backend,ja,Commission this week,今週のコミッション
+6,backend,ja,Commission this month,今月のコミッション
+7,backend,ja,Subscriptions this month,今月のサブスクリプション
+8,backend,ja,Order received,ご注文承りました
+9,backend,ja,Today delivered,本日配信
+10,backend,ja,New customer,新規顧客
+11,backend,ja,Total refund,全額返金
+12,backend,ja,Last Orders,ラストオーダー
+13,backend,ja,Quick management of the last {{limit}} orders,最後の{{limit}}注文の迅速な管理
+14,backend,ja,Block Customer,顧客をブロックする
+15,backend,ja,"You are about to block this customer from ordering to your restaurant, click confirm to continue?",この顧客があなたのレストランに注文するのをブロックしようとしています。続行するには[確認]をクリックしますか？
+16,backend,ja,Cancel,キャンセル
+17,backend,ja,Confirm,確認
+18,backend,ja,Sold,販売済み
+19,backend,ja,sales,売上高
+20,backend,ja,Sales overview,販売概要
+21,backend,ja,Top Customers,トップ顧客
+22,backend,ja,Overview of Review,レビューの概要
+23,backend,ja,Star,星
+24,backend,ja,Checkout All Reviews,すべてのレビューをチェックアウト
+25,backend,ja,Recent payout,最近の支払い
+26,backend,ja,Withdrawals Details,引き出しの詳細
+27,backend,ja,Close,選ぶ
+28,backend,ja,Process this payout,この支払いを処理する
+29,backend,ja,Cancel this payout,この支払いをキャンセルする
+30,backend,ja,Set status to paid,ステータスを有料に設定
+31,backend,ja,All,全て
+32,backend,ja,Processing,処理
+33,backend,ja,Ready,準備
+34,backend,ja,Completed,完了
+35,backend,ja,Popular items,人気商品
+36,backend,ja,latest popular items,最新の人気アイテム
+37,backend,ja,Last 30 days sales,過去30日間の売上
+38,backend,ja,sales for last 30 days,過去30日間の売上
+39,backend,ja,Popular merchants,人気の商人
+40,backend,ja,best selling restaurant,ベストセラーレストラン
+41,backend,ja,Popular by review,レビューで人気
+42,backend,ja,most reviewed,最もレビューされた
+45,backend,ja,The difference between the DateTimes is NaN.,DateTimesの違いはNaNです。
+46,backend,ja,Moments ago,少し前
+47,backend,ja,Seconds from now,今から数秒
+48,backend,ja,Yesterday,昨日
+49,backend,ja,Tomorrow,明日
+50,backend,ja,year,年
+51,backend,ja,minutes,分
+52,backend,ja,ago,前に
+53,backend,ja,hours,時間
+54,backend,ja,days,日々
+55,backend,ja,minute,分
+56,backend,ja,hour,時間
+57,backend,ja,day,日
+58,backend,ja,Member since {{date_created}},{{date_created}}以降のメンバー
+59,backend,ja,{{total_sold}} orders,{{total_sold}}注文
+60,backend,ja,{{total_sold}} sold,{{total_sold}}が販売されました
+61,backend,ja,This month you got {{count}} New Reviews,今月は{{count}}の新しいレビューがあります
+62,backend,ja,You don't have current orders.,現在の注文はありません。
+63,backend,ja,Order #{{order_id}},注文番号{{order_id}}
+64,backend,ja,{{sold}} sold,{{sold}}販売済み
+65,backend,ja,ratings,評価
+66,backend,ja,Title,タイトル
+67,backend,ja,Select File,ファイルを選ぶ
+68,backend,ja,Upload New,新規アップロード
+69,backend,ja,Website logo,ウェブサイトのロゴ
+70,backend,ja,Add Files,追加ファイル
+71,backend,ja,Previous,前
+72,backend,ja,Next,次
+73,backend,ja,Search,検索
+74,backend,ja,Business Address,職場の住所
+75,backend,ja,Address,住所
+76,backend,ja,Contact Phone Number,連絡先の電話番号
+77,backend,ja,Contact email,連絡先メールアドレス
+78,backend,ja,Save,保存
+79,backend,ja,Site information,サイト情報
+80,backend,ja,Map API Keys,APIキーをマップします
+81,backend,ja,Google Recaptcha,グーグル要約
+82,backend,ja,Search Mode,検索モード
+83,backend,ja,Login & Signup,ログインサインアップ
+84,backend,ja,Phone Settings,電話設定
+85,backend,ja,Social Login,ソーシャルログイン
+86,backend,ja,Printing Settings,印刷設定
+87,backend,ja,Reviews,レビュー
+88,backend,ja,Timezone,タイムゾーン
+89,backend,ja,Ordering,注文
+90,backend,ja,Merchant Registration,マーチャント登録
+91,backend,ja,Notifications,通知
+92,backend,ja,Contact Settings,連絡先の設定
+93,backend,ja,Analytics,アナリティクス
+94,backend,ja,Choose Map Provider,マッププロバイダーを選択
+95,backend,ja,Google Maps,グーグルマップ
+96,backend,ja,Mapbox,Mapbox
+97,backend,ja,Google Maps (default),Googleマップ（デフォルト）
+98,backend,ja,Geocoding API Key,ジオコーディングAPIキー
+99,backend,ja,Google Maps JavaScript API,Google Maps JavaScript API
+100,backend,ja,Mapbox Access Token,Mapboxアクセストークン
+101,backend,ja,Site configuration,サイト構成
+102,backend,ja,reCAPTCHA v2,reCAPTCHA v2
+103,backend,ja,Captcha Site Key,キャプチャサイトキー
+104,backend,ja,Captcha Secret,キャプチャシークレット
+105,backend,ja,Captcha Lang,キャプチャラング
+106,backend,ja,default is = en,デフォルトは= en
+107,backend,ja,Administration login,管理ログイン
+108,backend,ja,Enabled,有効
+109,backend,ja,Merchant login,マーチャントログイン
+111,backend,ja,Address using map provider,マッププロバイダーを使用した住所
+112,backend,ja,Zone,ゾーン
+113,backend,ja,Location using define address,住所定義を使用した場所
+114,backend,ja,Settings for Address,アドレスの設定
+115,backend,ja,Enabled choose address from map,マップから住所を選択できる
+116,backend,ja,Set Specific Country,特定の国を設定する
+117,backend,ja,leave empty to show all country,すべての国を表示するには空のままにします
+118,backend,ja,Settings for define locations,場所を定義するための設定
+119,backend,ja,City / Area,市/地域
+120,backend,ja,State / City,州/市
+121,backend,ja,PostalCode/ZipCode,郵便番号/郵便番号
+122,backend,ja,All Country,すべての国
+123,backend,ja,No results.,結果がありません。
+124,backend,ja,Key,鍵
+125,backend,ja,Value,価値
+126,backend,ja,Search key,検索キー
+127,backend,ja,Add Key,キーを追加
+128,backend,ja,First,初め
+129,backend,ja,Last,最後
+130,backend,ja,Signup Type,サインアップタイプ
+131,backend,ja,Standard signup,標準サインアップ
+132,backend,ja,Mobile phone signup,携帯電話の申し込み
+133,backend,ja,Signup Verifications,サインアップの検証
+134,backend,ja,This settings only works in standard signup,この設定は、標準のサインアップでのみ機能します
+135,backend,ja,Resend code interval,コード間隔を再送する
+136,backend,ja,Google reCapcha,Google reCapcha
+137,backend,ja,Terms and condition,利用規約
+138,backend,ja,Welcome Template,ウェルカムテンプレート
+139,backend,ja,New Signup Template,新しいサインアップテンプレート
+140,backend,ja,this template will send to admin user,このテンプレートは管理者ユーザーに送信されます
+141,backend,ja,Verification Template,検証テンプレート
+142,backend,ja,Reset Password Template,パスワードテンプレートをリセット
+143,backend,ja,Block user from registering,ユーザーの登録をブロックする
+144,backend,ja,Multiple email separated by comma,カンマで区切られた複数の電子メール
+145,backend,ja,Multiple mobile separated by comma,カンマで区切られた複数のモバイル
+146,backend,ja,Phone country list,電話国リスト
+147,backend,ja,"define the country selection for mobile phone, empty means will show all.",携帯電話の国の選択を定義します。空の場合はすべてが表示されます。
+148,backend,ja,Default country,デフォルトの国
+149,backend,ja,default mobile country,デフォルトのモバイル国
+150,backend,ja,Facebook,フェイスブック
+151,backend,ja,Enabled Facebook Login,Facebookログインを有効にする
+152,backend,ja,App ID,アプリID
+153,backend,ja,App Secret,アプリの秘密
+154,backend,ja,Enabled Google Login,Googleログインを有効にする
+155,backend,ja,Client ID,クライアントID
+156,backend,ja,Client Secret,クライアントシークレット
+157,backend,ja,Google,グーグル
+158,backend,ja,Receipt Thank you text,領収書ありがとうテキスト
+159,backend,ja,Receipt Footer text,領収書フッターのテキスト
+160,backend,ja,Receipt Logo,領収書のロゴ
+161,backend,ja,Item translations,アイテムの翻訳
+162,backend,ja,Merchant can edit/delete review,販売者はレビューを編集/削除できます
+163,backend,ja,Resize image width,画像幅のサイズを変更する
+164,backend,ja,"upload review image will resize to set width, if below set width no resizing will happen.",アップロードレビュー画像は設定された幅にサイズ変更されます。設定された幅を下回ると、サイズ変更は行われません。
+165,backend,ja,Template review,テンプレートレビュー
+166,backend,ja,Send email reminder to customer to review there order.,注文を確認するために顧客に電子メールリマインダーを送信します。
+167,backend,ja,Time Zone,タイムゾーン
+168,backend,ja,Date Format,日付形式
+169,backend,ja,Time Format,時間形式
+170,backend,ja,Time interval,時間間隔
+171,backend,ja,Enabled Ordering,有効な注文
+172,backend,ja,Cannot do order again if previous order status is,以前の注文ステータスが
+173,backend,ja,Order Cancellation,注文のキャンセル
+174,backend,ja,Enabled cancellation of order,注文のキャンセルを有効にする
+175,backend,ja,Enabled Registration,有効な登録
+176,backend,ja,Enabled CAPTCHA,CAPTCHAを有効にする
+177,backend,ja,Membership Program,メンバーシッププログラム
+178,backend,ja,Terms and conditions,規約と条件
+179,backend,ja,Pre-configure food item size,食品のサイズを事前に設定する
+180,backend,ja,Templates,テンプレート
+181,backend,ja,"this will be added as default food item size to merchant during registration. value must be separated by comma eg. small,medium,large",これは、登録時にデフォルトの食品サイズとして販売者に追加されます。値はコンマで区切る必要があります。例：小中大
+182,backend,ja,Confirm Account,アカウントの確認
+183,backend,ja,Welcome email,ウェルカムメール
+184,backend,ja,Plan Near Expiration,有効期限近くの計画
+185,backend,ja,Plan Expired,プランの有効期限が切れました
+186,backend,ja,New Signup,新規申し込み
+187,backend,ja,this template will send to admin,このテンプレートは管理者に送信されます
+188,backend,ja,Enabled Notification,有効な通知
+189,backend,ja,Email and Mobile number who will receive notifications like new order and cancel order.,新規注文や注文キャンセルなどの通知を受け取るメールアドレスと携帯電話番号。
+190,backend,ja,Multiple email/mobile must be separated by comma.,複数の電子メール/モバイルはコンマで区切る必要があります。
+191,backend,ja,Email address,電子メールアドレス
+192,backend,ja,Mobile number,携帯電話番号
+193,backend,ja,Receiver Email Address,受信者の電子メールアドレス
+194,backend,ja,Content,コンテンツ
+195,backend,ja,Contact Fields,連絡先フィールド
+196,backend,ja,Facebook Pixel Setting,Facebookのピクセル設定
+197,backend,ja,Facebook Pixel ID,FacebookのピクセルID
+198,backend,ja,Google Analytics Setting,GoogleAnalyticsの設定
+199,backend,ja,Tracking ID,トラッキングID
+200,backend,ja,All Merchant,すべての商人
+201,backend,ja,Name,名前
+202,backend,ja,Charge Type,充電タイプ
+203,backend,ja,Actions,行動
+204,backend,ja,Add new,新しく追加する
+205,backend,ja,Update,アップデート
+206,backend,ja,Delete,消去
+207,backend,ja,Edit Merchant,マーチャントを編集する
+208,backend,ja,Restaurant name,レストラン名
+209,backend,ja,Restaurant Slug,レストランナメクジ
+210,backend,ja,Contact Name,連絡先
+211,backend,ja,Contact Phone,電話に連絡する
+212,backend,ja,Header,ヘッダ
+213,backend,ja,About,だいたい
+214,backend,ja,Short About,ショートアバウト
+215,backend,ja,Cuisine,料理
+216,backend,ja,Services,サービス
+217,backend,ja,Tags,タグ
+218,backend,ja,Featured,特徴
+219,backend,ja,Delivery Distance Covered,対象となる配達距離
+220,backend,ja,Published Merchant,公開された商人
+221,backend,ja,Miles,マイル
+222,backend,ja,Kilometers,キロメートル
+223,backend,ja,Status,スターテス
+224,backend,ja,Logo,ロゴ
+225,backend,ja,Merchant information,販売者情報
+226,backend,ja,Login information,ログイン情報
+227,backend,ja,Merchant Type,マーチャントタイプ
+229,backend,ja,Payment history,支払歴
+230,backend,ja,Payment settings,お支払い設定
+231,backend,ja,Others,その他
+232,backend,ja,First Name,ファーストネーム
+233,backend,ja,Last Name,苗字
+235,backend,ja,Contact number,連絡先
+236,backend,ja,Username,ユーザー名
+237,backend,ja,New Password,新しいパスワード
+238,backend,ja,Confirm Password,パスワードを認証する
+239,backend,ja,Address details,住所の詳細
+241,backend,ja,Geolocation,ジオロケーション
+242,backend,ja,Latitude,緯度
+243,backend,ja,Lontitude,Lontitude
+244,backend,ja,Radius distance covered,カバーされる半径距離
+245,backend,ja,"Get your address geolocation via service like [link] or [link2], entering invalid coordinates will make your store not available for ordering",[link]や[link2]などのサービスを介して住所のジオロケーションを取得します。無効な座標を入力すると、ストアを注文できなくなります
+246,backend,ja,No results,結果がありません
+247,backend,ja,Searching...,検索中...
+248,backend,ja,Type,タイプ
+249,backend,ja,commission on orders,注文の手数料
+250,backend,ja,Percent Commision,委員会の割合
+251,backend,ja,Plan,プラン
+252,backend,ja,Created,作成した
+253,backend,ja,Payment,支払い
+254,backend,ja,Invoice #,請求書 ＃
+255,backend,ja,No data available in table,テーブルにデータがありません
+256,backend,ja,Showing [start] to [end] of [total] entries,[合計]エントリの[開始]から[終了]を表示しています
+257,backend,ja,Showing 0 to 0 of 0 entries,0エントリのうち0から0を表示
+258,backend,ja,(filtered from [max] total entries),（[最大]合計エントリからフィルタリング）
+259,backend,ja,Show [menu] entries,[メニュー]エントリを表示する
+260,backend,ja,Loading...,読み込んでいます...
+261,backend,ja,Search:,検索：
+262,backend,ja,No matching records found,該当する記録が見つかりません
+266,backend,ja,: activate to sort column ascending,：アクティブ化して列を昇順で並べ替えます
+267,backend,ja,: activate to sort column descending,：アクティブ化して列を降順に並べ替えます
+268,backend,ja,Enabled Payment gateway,有効な支払いゲートウェイ
+269,backend,ja,Check All,すべてチェック
+270,backend,ja,Close this store,この店を閉める
+272,backend,ja,Add Merchant,マーチャントを追加
+273,backend,ja,Edit Merchant - information,マーチャントの編集-情報
+274,backend,ja,Edit Merchant - login,マーチャントの編集-ログイン
+275,backend,ja,Edit Merchant - Merchant type,マーチャントの編集-マーチャントタイプ
+276,backend,ja,Edit Merchant - Featured,マーチャントの編集-注目
+277,backend,ja,Edit Merchant - Address,マーチャントの編集-住所
+278,backend,ja,Edit Merchant - Zone,マーチャントの編集-ゾーン
+280,backend,ja,Merchant - Payment Settings,販売者-支払い設定
+281,backend,ja,Merchant - Others,商人-その他
+282,backend,ja,Merchant - Access,商人-アクセス
+283,backend,ja,All Sponsored,すべてのスポンサー
+284,backend,ja,Expiration Date,有効期限
+285,backend,ja,Plan list,プランリスト
+286,backend,ja,Description,説明
+287,backend,ja,Price,価格
+288,backend,ja,Promo,プロモーション
+289,backend,ja,All Plans,すべてのプラン
+290,backend,ja,Add,追加
+291,backend,ja,Promo Price,プロモーション価格
+292,backend,ja,Plan period,計画期間
+293,backend,ja,Item limit,アイテム制限
+294,backend,ja,0 is unlimited numbers of items,0はアイテムの数に制限はありません
+295,backend,ja,Order limit,注文制限
+296,backend,ja,Trial Period,トライアル期間
+297,backend,ja,0 is unlimited numbers of orders per period,0は期間ごとの注文数に制限はありません
+298,backend,ja,trial period number of days,試用期間の日数
+299,backend,ja,Unlimited,無制限
+300,backend,ja,Limited,限定
+301,backend,ja,Daily,毎日
+302,backend,ja,Monthly,毎月
+303,backend,ja,Anually,毎年
+304,backend,ja,Weekly,毎週
+305,backend,ja,Details,詳細
+306,backend,ja,Features,特徴
+307,backend,ja,Plans Payment ID,プラン支払いID
+308,backend,ja,Paypal,ペイパル
+309,backend,ja,Plan ID,プランID
+310,backend,ja,Stripe,ストライプ
+311,backend,ja,Price IDs,価格ID
+312,backend,ja,Razorpay,Razorpay
+313,backend,ja,No payment yet available,まだ支払いはありません
+314,backend,ja,Order Information,注文情報
+315,backend,ja,Order ID,注文ID
+316,backend,ja,Merchant,商人
+317,backend,ja,Customer,お客様
+318,backend,ja,Orders,注文
+320,backend,ja,Total Orders,総注文数
+321,backend,ja,All Orders,すべての注文
+322,backend,ja,Filters,フィルタ
+323,backend,ja,{{total_items}} items,{{total_items}}アイテム
+324,backend,ja,Order Type.,注文タイプ。
+325,backend,ja,Total. {{total}},合計。 {{total}}
+326,backend,ja,Place on {{date}},{{date}}に配置
+327,backend,ja,Start date -- End date,開始日-終了日
+328,backend,ja,to,に
+329,backend,ja,Order type,注文タイプ
+330,backend,ja,Su,日
+331,backend,ja,Mo,月
+332,backend,ja,Tu,火
+333,backend,ja,We,水
+334,backend,ja,Th,木
+335,backend,ja,Fr,金
+336,backend,ja,Sa,土
+337,backend,ja,January,一月
+338,backend,ja,February,2月
+339,backend,ja,March,3月
+340,backend,ja,April,4月
+341,backend,ja,May,5月
+342,backend,ja,June,六月
+343,backend,ja,July,7月
+344,backend,ja,August,8月
+345,backend,ja,September,9月
+346,backend,ja,October,10月
+347,backend,ja,November,11月
+348,backend,ja,December,12月
+349,backend,ja,Today,今日
+351,backend,ja,Last 7 Days,過去7日間
+352,backend,ja,Last 30 Days,過去30日間
+353,backend,ja,This Month,今月
+354,backend,ja,Last Month,先月
+355,backend,ja,Custom Range,カスタム範囲
+357,backend,ja,By Merchant,商人による
+358,backend,ja,By customer,顧客別
+359,backend,ja,By Status,ステータス別
+360,backend,ja,By Order Type,注文タイプ別
+361,backend,ja,Clear Filters,フィルターをクリア
+362,backend,ja,Apply Filters,フィルタを適用する
+363,backend,ja,Status for new order,新規注文のステータス
+364,backend,ja,Status for delivered order,配達された注文のステータス
+365,backend,ja,Status for completed pickup/dinein order,完了したピックアップ/食事注文のステータス
+366,backend,ja,Status for cancel order,キャンセル注文のステータス
+367,backend,ja,Status for order rejection,注文拒否のステータス
+368,backend,ja,Status for delivery failed,配信のステータスが失敗しました
+369,backend,ja,Status for failed pickup/dinein order,失敗したピックアップ/食事注文のステータス
+370,backend,ja,Order Status,注文の状況
+371,backend,ja,Order Tabs,注文タブ
+372,backend,ja,Order Buttons,注文ボタン
+373,backend,ja,Order Tracking,注文追跡
+374,backend,ja,Template,テンプレート
+375,backend,ja,Settings,設定
+376,backend,ja,New Orders,新規注文
+377,backend,ja,select the status that will show on this tab.,このタブに表示されるステータスを選択します。
+378,backend,ja,Orders Processing,注文処理
+380,backend,ja,Orders Ready,注文準備完了
+381,backend,ja,Completed Today,本日完了
+382,backend,ja,define the buttons for this tab,このタブのボタンを定義する
+383,backend,ja,Button Name,ボタン名
+385,backend,ja,Order Processing,注文処理
+386,backend,ja,"Button CSS class name eg. btn-green, btn-black",ボタンCSSクラス名。 btn-緑、btn-黒
+387,backend,ja,Status for order processing,注文処理のステータス
+388,backend,ja,Status for food ready,食品の準備ができているステータス
+389,backend,ja,Status for in transit,輸送中のステータス
+390,backend,ja,Status for delivered,配信のステータス
+391,backend,ja,Template Invoice,テンプレート請求書
+392,backend,ja,Template Refund,テンプレートの払い戻し
+393,backend,ja,Template Partial Refund,テンプレートの部分的な払い戻し
+394,backend,ja,Delay Order,注文の遅延
+395,backend,ja,All Payment gateway,すべての支払いゲートウェイ
+396,backend,ja,Add Gateway,ゲートウェイを追加
+397,backend,ja,Payment gateway list,支払いゲートウェイリスト
+398,backend,ja,Online Payment,オンライン支払い
+399,backend,ja,Available for payout,支払い可能
+400,backend,ja,Available for plan,プラン利用可能
+401,backend,ja,Payment code,支払いコード
+402,backend,ja,This fields must not have spaces,このフィールドにはスペースを入れないでください
+403,backend,ja,Payment name,お支払い名
+404,backend,ja,Logo type,ロゴタイプ
+405,backend,ja,Logo class icon,ロゴクラスアイコン
+406,backend,ja,Get icon here,ここでアイコンを取得
+407,backend,ja,Featured Image,注目の画像
+408,backend,ja,Drop files anywhere to upload,アップロードするファイルをどこかにドロップします
+409,backend,ja,or,また
+410,backend,ja,Select Files,ファイルを選択
+411,backend,ja,Icon,アイコン
+412,backend,ja,Image,画像
+413,backend,ja,Click here,ここをクリック
+414,backend,ja,Transaction History,取引履歴
+415,backend,ja,Earnings,収益
+416,backend,ja,Your commission transaction for all orders,すべての注文のコミッション取引
+418,backend,ja,Create a Transaction,トランザクションを作成する
+419,backend,ja,Adjustment,調整
+420,backend,ja,Date,日にち
+421,backend,ja,Transaction,取引
+422,backend,ja,Debit/Credit,デビットクレジット
+423,backend,ja,Running Balance,ランニングバランス
+424,backend,ja,Credit,クレジット
+425,backend,ja,Debit,デビット
+426,backend,ja,Payout,支払い
+427,backend,ja,Cash In,現金で
+428,backend,ja,All transactions,全取引
+429,backend,ja,Statement,声明
+430,backend,ja,Total Balance,総合収支
+431,backend,ja,Merchant Earnings,マーチャントの収益
+432,backend,ja,Balance,バランス
+435,backend,ja,Deactivate Merchant,マーチャントを非アクティブ化する
+436,backend,ja,"You are about to deactivate this merchant, click confirm to continue?",このマーチャントを非アクティブ化しようとしています。続行するには[確認]をクリックしますか？
+437,backend,ja,Create adjustment,調整を作成する
+438,backend,ja,Transaction Description,トランザクションの説明
+439,backend,ja,Amount,額
+441,backend,ja,Submit,送信
+442,backend,ja,Membership History,会員歴
+445,backend,ja,Refund,返金
+446,backend,ja,Total,合計
+447,backend,ja,Contact,連絡先
+448,backend,ja,Email,Eメール
+449,backend,ja,Member since,以来のメンバー
+450,backend,ja,Activate Merchant,マーチャントをアクティブ化する
+451,backend,ja,Merchant Info,販売者情報
+452,backend,ja,Withdrawals,引き出し
+453,backend,ja,Unpaid,未払い
+454,backend,ja,Paid,有料
+455,backend,ja,Total Unpaid,未払いの合計
+456,backend,ja,Total Paid,支払総額
+457,backend,ja,Payment status,支払い状況
+458,backend,ja,Account number,口座番号
+459,backend,ja,Account name,アカウント名
+460,backend,ja,Account type,口座の種類
+461,backend,ja,Account currency,口座通貨
+462,backend,ja,Routing number,銀行コード
+463,backend,ja,Country,国
+464,backend,ja,Account Holders Name,アカウント所有者の名前
+465,backend,ja,Bank Account Number/IBAN,銀行口座番号/ IBAN
+466,backend,ja,SWIFT Code,スウィフトコード
+467,backend,ja,Bank Name in Full,完全な銀行名
+468,backend,ja,Bank Branch City,銀行支店市
+469,backend,ja,Date requested,リクエスト日
+470,backend,ja,Payment Method,支払方法
+472,backend,ja,offline payment,オフライン支払い
+473,backend,ja,Emabled request payout,有効なリクエストの支払い
+474,backend,ja,Payout request auto process,支払い要求の自動処理
+475,backend,ja,Payout number of days to process,支払い処理日数
+476,backend,ja,number of days that payout will automatically process (this works only if payout auto process is enabled). count starts from the day of request of merchant,支払いが自動的に処理される日数（これは、支払い自動処理が有効になっている場合にのみ機能します）。カウントは販売者のリクエストの日から始まります
+477,backend,ja,Payout minimum amount,支払い最低額
+478,backend,ja,Number of payouts,支払い回数
+479,backend,ja,Number of payouts can request per month.,1か月あたりにリクエストできる支払いの数。
+480,backend,ja,Template new payout request - for admin,テンプレートの新しい支払いリクエスト-管理者向け
+481,backend,ja,Template Payout paid,テンプレートの支払いが支払われました
+482,backend,ja,Template Payout Cancel,テンプレートペイアウトキャンセル
+483,backend,ja,Cuisine list,料理リスト
+484,backend,ja,All Cuisine,すべての料理
+485,backend,ja,Add Cuisine,料理を追加する
+486,backend,ja,Cuisine Name,料理名
+487,backend,ja,Background Color Hex,背景色の16進数
+488,backend,ja,Font Color Hex,フォントカラー16進数
+489,backend,ja,{{lang}} translation,{{lang}}翻訳
+490,backend,ja,Enter {{lang}} name here,ここに{{lang}}の名前を入力します
+491,backend,ja,Update Cuisine,料理を更新する
+492,backend,ja,Dishes list,料理リスト
+493,backend,ja,Add Dishes,料理を追加する
+494,backend,ja,Dish Name,料理名
+495,backend,ja,All Dishes,すべての料理
+496,backend,ja,Update Dishes,料理を更新する
+497,backend,ja,Tags list,タグリスト
+498,backend,ja,Tag Name,タグ名
+499,backend,ja,All Tags,すべてのタグ
+500,backend,ja,Add Tags,タグを追加する
+501,backend,ja,Update Tags,タグを更新
+502,backend,ja,Status list,ステータスリスト
+503,backend,ja,Color Hex,カラー16進数
+505,backend,ja,Update Status,最新状況
+506,backend,ja,Status actions,ステータスアクション
+507,backend,ja,ID,ID
+508,backend,ja,Action Type,アクションタイプ
+509,backend,ja,Add actions,アクションを追加する
+510,backend,ja,Update actions,アクションを更新する
+511,backend,ja,Delete Confirmation,確認を削除
+512,backend,ja,Are you sure you want to permanently delete the selected item?,選択したアイテムを完全に削除してもよろしいですか？
+513,backend,ja,Currency list,通貨リスト
+514,backend,ja,Default,ディフォルト
+515,backend,ja,All Currency,すべての通貨
+516,backend,ja,Add Currency,通貨を追加する
+517,backend,ja,Set as Default,デフォルトとして設定
+518,backend,ja,Currency,通貨
+519,backend,ja,Position,位置
+520,backend,ja,Rate,割合
+521,backend,ja,+ Exchange fee,+交換手数料
+522,backend,ja,Decimals,小数
+523,backend,ja,Decimal Separator,小数点記号
+524,backend,ja,Thousand Separator,サウザンドセパレーター
+525,backend,ja,Please select,選んでください
+526,backend,ja,Left $11,残り$ 11
+527,backend,ja,Right 11$,右11ドル
+528,backend,ja,Left with space $ 11,スペースを残して$ 11
+529,backend,ja,Right with space 11 $,スペース11ドルで右
+530,backend,ja,Update Currency,通貨を更新する
+531,backend,ja,Country List,国リスト
+532,backend,ja,Add Country,国を追加
+533,backend,ja,Phone Code,電話番号
+534,backend,ja,Code,コード
+535,backend,ja,Update Country,国を更新
+536,backend,ja,State List,状態リスト
+537,backend,ja,City List,都市リスト
+538,backend,ja,District/Area List,地区/地域リスト
+539,backend,ja,Sequence,順序
+540,backend,ja,Add State,状態を追加
+542,backend,ja,State Name,州名
+543,backend,ja,All State,すべての州
+544,backend,ja,City,市
+545,backend,ja,State,州
+546,backend,ja,City Name,市の名前
+547,backend,ja,Postal Code/Zip code,郵便番号/郵便番号
+548,backend,ja,Select State,状態を選択
+549,backend,ja,Add City,都市を追加
+550,backend,ja,All City,オールシティ
+551,backend,ja,Area List,エリアリスト
+552,backend,ja,Area Name,エリア名
+553,backend,ja,Select City,都市を選択
+554,backend,ja,Add Area,エリアを追加
+555,backend,ja,All Area,全エリア
+556,backend,ja,Zones list,ゾーンリスト
+557,backend,ja,Create Zones,ゾーンの作成
+558,backend,ja,Featured locations,注目の場所
+559,backend,ja,All featured locations,すべての注目の場所
+562,backend,ja,Location name,場所の名前
+563,backend,ja,Longitude,経度
+564,backend,ja,Featured name,注目の名前
+565,backend,ja,Update featured locations,注目の場所を更新する
+566,backend,ja,New Restaurant,新しいレストラン
+567,backend,ja,Popular,人気
+568,backend,ja,Best Seller,ベスト・セラー
+569,backend,ja,Recommended,おすすめされた
+570,backend,ja,Pages list,ページリスト
+571,backend,ja,All Pages,すべてのページ
+572,backend,ja,Add Page,ページを追加
+573,backend,ja,Short Description,簡単な説明
+574,backend,ja,SEO,SEO
+575,backend,ja,Meta Title,メタタイトル
+576,backend,ja,Meta description,メタ記述
+577,backend,ja,Keywords,キーワード
+578,backend,ja,Update Page,ページを更新
+579,backend,ja,Languages list,言語リスト
+580,backend,ja,All Language,すべての言語
+581,backend,ja,Add Language,言語を追加
+582,backend,ja,Locale,ロケール
+583,backend,ja,Select Flag,フラグを選択
+584,backend,ja,RTL,RTL
+585,backend,ja,Translation,翻訳
+586,backend,ja,Translation Key,翻訳キー
+587,backend,ja,Status Management list,ステータス管理リスト
+588,backend,ja,Group,グループ
+589,backend,ja,Group Name,グループ名
+590,backend,ja,Status Key,ステータスキー
+591,backend,ja,All Status,すべてのステータス
+592,backend,ja,Add Status,ステータスの追加
+593,backend,ja,Date Created. {{date_created}},作成日。 {{date_created}}
+594,backend,ja,Services list,サービスリスト
+595,backend,ja,Service fee,サービス料
+596,backend,ja,All Services,すべてのサービス
+597,backend,ja,Add Services,サービスの追加
+598,backend,ja,Update Services,更新サービス
+599,backend,ja,All Type,すべてのタイプ
+600,backend,ja,Update Merchant Type,マーチャントタイプの更新
+601,backend,ja,Commission Type,コミッションタイプ
+602,backend,ja,Commission based on Subtotal / Total,小計/合計に基づく手数料
+603,backend,ja,Commission,手数料
+604,backend,ja,Add Merchant Type,マーチャントタイプを追加
+605,backend,ja,Rejection Reason List,拒否理由リスト
+606,backend,ja,Reason,理由
+607,backend,ja,Add Rejection,拒否を追加
+608,backend,ja,Update Rejection,拒否を更新
+609,backend,ja,Pause Reason List,一時停止理由リスト
+610,backend,ja,Add Pause reason,一時停止の理由を追加
+611,backend,ja,Update Pause reason,一時停止の理由を更新
+612,backend,ja,Status action List,ステータスアクションリスト
+614,backend,ja,Key must not have spaces,キーにスペースを含めることはできません
+616,backend,ja,Update action status,アクションステータスの更新
+617,backend,ja,Add action status,アクションステータスを追加
+618,backend,ja,Coupon list,クーポンリスト
+619,backend,ja,#Used,＃中古
+620,backend,ja,All Coupon,すべてのクーポン
+621,backend,ja,Add Coupon,クーポンを追加
+622,backend,ja,Coupon Type,クーポンタイプ
+623,backend,ja,Days Available,利用可能な日数
+625,backend,ja,Min Order,最低注文量
+626,backend,ja,Applicable to merchant,マーチャントに適用可能
+627,backend,ja,Expiration,有効期限
+628,backend,ja,Coupon Options,クーポンオプション
+629,backend,ja,Coupon name,クーポン名
+630,backend,ja,fixed amount,定額
+631,backend,ja,percentage,パーセンテージ
+632,backend,ja,Unlimited for all user,すべてのユーザーに無制限
+633,backend,ja,Use only once,1回だけ使用する
+634,backend,ja,Once per user,ユーザーごとに1回
+635,backend,ja,Once for new user first order,新規ユーザーの初回注文に1回
+636,backend,ja,Custom limit per user,ユーザーごとのカスタム制限
+637,backend,ja,Only to selected customer,選択したお客様のみ
+638,backend,ja,Define max number of use,最大使用回数を定義する
+639,backend,ja,Select Customer,顧客を選択
+640,backend,ja,Email Provider,メールプロバイダー
+641,backend,ja,All Provider,すべてのプロバイダー
+642,backend,ja,Add Provider,プロバイダーを追加
+643,backend,ja,Provider ID,プロバイダーID
+644,backend,ja,Provider name,プロバイダー名
+645,backend,ja,Sender email,送信者の電子メール
+646,backend,ja,Sender name,送信者名
+648,backend,ja,Update Provider,更新プロバイダー
+649,backend,ja,API KEY,APIキー
+650,backend,ja,Create your account [url],アカウントを作成する[url]
+651,backend,ja,SECRET KEY,シークレットキー
+652,backend,ja,SMTP host,SMTPホスト
+653,backend,ja,SMTP port,SMTPポート
+654,backend,ja,Password,パスワード
+655,backend,ja,Secure Connection,安全な接続
+656,backend,ja,TLS,TLS
+657,backend,ja,SSL,SSL
+658,backend,ja,normal,正常
+659,backend,ja,flash,閃光
+660,backend,ja,unicode,Unicode
+661,backend,ja,ndnd,ndnd
+662,backend,ja,dnd,dnd
+663,backend,ja,premium,プレミアム
+664,backend,ja,lowcost,低価格
+665,backend,ja,SMS,SMS
+666,backend,ja,Push,押す
+667,backend,ja,All Templates,すべてのテンプレート
+668,backend,ja,Add Template,テンプレートを追加
+669,backend,ja,Template name,テンプレート名
+670,backend,ja,Enabled Email,有効な電子メール
+671,backend,ja,Enabled SMS,有効なSMS
+672,backend,ja,Enabled Push,プッシュを有効にする
+673,backend,ja,Email Templates,メールテンプレート
+674,backend,ja,SMS Templates,SMSテンプレート
+675,backend,ja,Push Templates,プッシュテンプレート
+676,backend,ja,{{lang}} Template,{{lang}}テンプレート
+677,backend,ja,Enter {{lang}} Type here,{{lang}}と入力しますここに入力します
+678,backend,ja,Enter {{lang}} Subject here,ここに{{lang}}件名を入力してください
+679,backend,ja,Enter {{lang}} Title here,ここに{{lang}}タイトルを入力してください
+680,backend,ja,Enter {{lang}} Content here,ここに{{lang}}コンテンツを入力します
+681,backend,ja,Update Template,テンプレートを更新
+682,backend,ja,Email Logs,メールログ
+684,backend,ja,View SMS,SMSを表示
+685,backend,ja,Push logs,プッシュログ
+686,backend,ja,Platform,プラットホーム
+687,backend,ja,Message,メッセージ
+688,backend,ja,Channel/Device,チャネル/デバイス
+689,backend,ja,View Push,プッシュを表示
+690,backend,ja,Customer list,顧客リスト
+691,backend,ja,All Customer,すべてのお客様
+692,backend,ja,Add Customer,顧客を追加
+694,backend,ja,Update Customer,顧客の更新
+695,backend,ja,Basic Details,基本的な詳細
+696,backend,ja,Order history,注文履歴
+697,backend,ja,Address list,アドレスリスト
+700,backend,ja,Places ID,場所ID
+701,backend,ja,"Aparment, suite or floor",アパート、スイートまたはフロア
+702,backend,ja,Add delivery instructions,配送手順を追加する
+703,backend,ja,Address label,住所ラベル
+704,backend,ja,Home,家
+705,backend,ja,Work,仕事
+706,backend,ja,School,学校
+707,backend,ja,Friend house,フレンドハウス
+708,backend,ja,Other,他の
+709,backend,ja,Leave it at my door,私のドアに置いておきます
+710,backend,ja,Hand it to me,それを私に渡してください
+711,backend,ja,Meet outside,外で会う
+712,backend,ja,Order list,オーダーリスト
+713,backend,ja,Phone,電話
+714,backend,ja,All Review,すべてのレビュー
+715,backend,ja,Update Review,レビューの更新
+716,backend,ja,Customer reviews,カスタマーレビュー
+718,backend,ja,Customer. [customer_name],お客様。 [顧客名]
+719,backend,ja,Rating. [rating],評価。 [評価]
+720,backend,ja,Date. [date_created],日にち。 [date_created]
+721,backend,ja,Real time applications,リアルタイムアプリケーション
+722,backend,ja,Select Realtime Provider,リアルタイムプロバイダーを選択
+723,backend,ja,Pusher App Id,プッシャーアプリID
+724,backend,ja,Pusher Key,プッシャーキー
+725,backend,ja,Pusher Secret,プッシャーシークレット
+726,backend,ja,Pusher Cluster,プッシャークラスター
+727,backend,ja,Private API Key,プライベートAPIキー
+728,backend,ja,Cluster ID,クラスターID
+730,backend,ja,API secret,APIシークレット
+731,backend,ja,WebSocket API endpoint,WebSocketAPIエンドポイント
+732,backend,ja,signup and get your credentials in,サインアップして、クレデンシャルを取得します
+733,backend,ja,Web push notifications,Webプッシュ通知
+734,backend,ja,Select Web Push Provider,Webプッシュプロバイダーを選択します
+735,backend,ja,Instance ID,インスタンスID
+736,backend,ja,Primary key,主キー
+737,backend,ja,SMS Provider List,SMSプロバイダーリスト
+739,backend,ja,Sender ID,送信者ID
+740,backend,ja,API username,APIユーザー名
+741,backend,ja,API password,APIパスワード
+743,backend,ja,Account SID,アカウントSID
+744,backend,ja,AUTH Token,AUTHトークン
+745,backend,ja,Secret,ひみつ
+746,backend,ja,Provider,プロバイダー
+747,backend,ja,SMS Logs,SMSログ
+748,backend,ja,Total Registered,登録総数
+749,backend,ja,Commission Total,手数料合計
+750,backend,ja,Membership Total,会員総数
+751,backend,ja,Total Active,トータルアクティブ
+752,backend,ja,Total Inactive,完全に非アクティブ
+753,backend,ja,Membership Payment,会員の支払い
+754,backend,ja,Payment type,支払いタイプ
+755,backend,ja,Merchant Sales Report,マーチャントセールスレポート
+756,backend,ja,Order earnings report,注文収益レポート
+757,backend,ja,Count,カウント
+758,backend,ja,Admin earned,管理者が獲得しました
+759,backend,ja,Merchant earned,獲得した商人
+760,backend,ja,Total sell,総売り上げ
+762,backend,ja,Subtotal,小計
+764,backend,ja,Admin commission,管理委員会
+765,backend,ja,Refund Report,払い戻しレポート
+766,backend,ja,All Payment status,すべての支払いステータス
+767,backend,ja,Payment reference# {{payment_reference}},支払い参照番号{{payment_reference}}
+768,backend,ja,Refund on {{date}},{{date}}での払い戻し
+769,backend,ja,Full refund,全額払い戻し
+770,backend,ja,Partial refund,一部払い戻し
+771,backend,ja,All User,すべてのユーザー
+772,backend,ja,Role,役割
+773,backend,ja,Confirm New Password,新しいパスワードを確認
+774,backend,ja,Edit User,ユーザーの編集
+775,backend,ja,All Roles,すべての役割
+776,backend,ja,Access,アクセス
+777,backend,ja,Add Role,役割を追加
+778,backend,ja,Themes,テーマ
+779,backend,ja,Active theme,アクティブなテーマ
+780,backend,ja,Customize,カスタマイズ
+781,backend,ja,Organize your menu,メニューを整理する
+782,backend,ja,Menu,メニュー
+783,backend,ja,Setting,設定
+784,backend,ja,Media Library,メディアライブラリ
+785,backend,ja,Media List,メディアリスト
+786,backend,ja,Delete File,ファイルを削除する
+787,backend,ja,Notification,通知
+788,backend,ja,Clear all,すべてクリア
+789,backend,ja,View all,すべて表示
+790,backend,ja,Profile,プロフィール
+791,backend,ja,Logout,ログアウト
+792,backend,ja,Change Password,パスワードを変更する
+793,backend,ja,Web Notifications,Web通知
+794,backend,ja,Old Password,以前のパスワード
+795,backend,ja,Notifications Settings,通知設定
+797,backend,ja,Select notification type,通知タイプを選択
+798,backend,ja,Order updates,注文の更新
+799,backend,ja,Customer new signup,顧客の新規サインアップ
+800,backend,ja,Merchant new signup,マーチャントの新規登録
+801,backend,ja,Payout request,支払いリクエスト
+802,backend,ja,All notifications,すべての通知
+803,backend,ja,Order #,注文 ＃
+804,backend,ja,Restaurant,レストラン
+806,backend,ja,Delivery information,配送に関する情報
+807,backend,ja,Get direction,方向性を得る
+809,backend,ja,Delivery Date/Time,配達日時
+810,backend,ja,Include utensils,調理器具を含める
+815,backend,ja,Summary,概要
+816,backend,ja,Print,印刷
+817,backend,ja,Contact customer,お客様に連絡する
+819,backend,ja,Cancel order,注文をキャンセルする
+820,backend,ja,Timeline,タイムライン
+821,backend,ja,Download PDF (A4),PDFをダウンロード（A4）
+822,backend,ja,Yes,はい
+823,backend,ja,Okay,わかった
+824,backend,ja,Customer Info,顧客情報
+825,backend,ja,Action,アクション
+826,backend,ja,Customer ID,顧客ID
+827,backend,ja,Addresses,住所
+828,backend,ja,Unblock Custome,顧客のブロックを解除する
+830,backend,ja,Customer information not found,顧客情報が見つかりません
+831,backend,ja,Are you sure you want to continue,続行してもよろしいですか
+832,backend,ja,Refund this item,このアイテムを払い戻す
+833,backend,ja,This automatically remove this item from your active orders.,これにより、アクティブな注文からこのアイテムが自動的に削除されます。
+834,backend,ja,Go back,戻る
+836,backend,ja,Remove this item,このアイテムを削除します
+837,backend,ja,This will remove this item from your active orders.,これにより、このアイテムがアクティブな注文から削除されます。
+840,backend,ja,Item is Out of Stock,アイテムは在庫切れです
+841,backend,ja,Order decrease,注文の減少
+842,backend,ja,Order Increase,注文の増加
+843,backend,ja,"By accepting this order, we will refund the amount of {{amount}} to customer.",この注文を受け入れることにより、{{amount}}の金額をお客様に返金します。
+844,backend,ja,"Total amount for this order has increase, Send invoice to customer or less from your account with total amount of {{amount}}.",この注文の合計金額が増加しました。合計金額が{{amount}}の場合、アカウントから顧客またはそれ以下に請求書を送信してください。
+847,backend,ja,Send invoice,請求書を送ります
+848,backend,ja,Less on my account,私のアカウントでは少ない
+849,backend,ja,"This order has unpaid invoice, until its paid you cannot change the order status.",この注文には未払いの請求書があり、支払い済みになるまで注文ステータスを変更できません。
+851,backend,ja,How much additional time you need?,どのくらいの追加時間が必要ですか？
+852,backend,ja,We'll notify the customer about the delay.,遅延についてお客様に通知します。
+854,backend,ja,Enter why you cannot make this order.,この注文ができない理由を入力してください。
+855,backend,ja,Reject order,注文を拒否する
+856,backend,ja,Are you sure you want to continue?,続行してもよろしいですか？
+857,backend,ja,Delivery fee,配送料
+858,backend,ja,Sub total ([count] items),小計（[カウント]アイテム）
+859,backend,ja,Courier tip,宅配便のヒント
+860,backend,ja,Dashboard,ダッシュボード
+862,backend,ja,List,リスト
+863,backend,ja,Sponsored,後援
+864,backend,ja,Users,ユーザー
+866,backend,ja,All order,すべての注文
+867,backend,ja,Order settings,注文設定
+869,backend,ja,Add User,ユーザーを追加する
+870,backend,ja,Delete User,ユーザーの削除
+871,backend,ja,Membership,メンバーシップ
+872,backend,ja,Plans,予定
+873,backend,ja,Add Plan,プランを追加
+874,backend,ja,Delete Plan,プランの削除
+875,backend,ja,Attributes,属性
+880,backend,ja,Pages,ページ
+881,backend,ja,Languages,言語
+882,backend,ja,Buyers,バイヤー
+883,backend,ja,Customers,お客様
+885,backend,ja,Create Role,役割の作成
+886,backend,ja,Update Role,役割の更新
+887,backend,ja,Delete Role,役割を削除
+889,backend,ja,Manage Location,場所の管理
+891,backend,ja,Providers,プロバイダー
+892,backend,ja,Logs,ログ
+893,backend,ja,Reports,レポート
+896,backend,ja,Merchant Sales,マーチャントセールス
+897,backend,ja,Status Management,ステータス管理
+899,backend,ja,Information,情報
+903,backend,ja,Size,サイズ
+904,backend,ja,Ingredients,材料
+905,backend,ja,Cooking Reference,クッキングリファレンス
+906,backend,ja,Food,食べ物
+907,backend,ja,Category,カテゴリー
+908,backend,ja,Addon Category,アドオンカテゴリ
+909,backend,ja,Addon Items,アドオンアイテム
+910,backend,ja,Items,アイテム
+911,backend,ja,Delivery,配達
+913,backend,ja,Coupon,クーポン
+914,backend,ja,Offers,オファー
+915,backend,ja,Images,画像
+916,backend,ja,Account,アカウント
+920,backend,ja,BroadCast,ブロードキャスト
+925,backend,ja,Sales Report,セールスレポート
+926,backend,ja,Sales Summary,販売概要
+927,backend,ja,Pickup,選び出す
+928,backend,ja,Dinein,で食事をします
+929,backend,ja,Gallery,ギャラリー
+933,backend,ja,Store Hours,営業時間
+934,backend,ja,Tracking Time,追跡時間
+935,backend,ja,Add Store Hours,営業時間を追加
+936,backend,ja,Update Store Hours,営業時間の更新
+937,backend,ja,Delete Store Hours,営業時間の削除
+938,backend,ja,View Order,表示の順序
+939,backend,ja,Delete Order,注文を削除
+940,backend,ja,Create Time Management,時間管理を作成する
+941,backend,ja,Update Time Management,時間管理の更新
+942,backend,ja,Delete Time Management,時間管理を削除する
+943,backend,ja,Inventory Management,在庫管理
+944,backend,ja,Suppliers,サプライヤー
+945,backend,ja,Time Slot,タイムスロット
+946,backend,ja,Create Time Slot,タイムスロットを作成する
+947,backend,ja,Update Time Slot,タイムスロットの更新
+948,backend,ja,Delete Time Slot,タイムスロットを削除する
+949,backend,ja,Create Size,サイズを作成
+950,backend,ja,Update Size,サイズを更新
+951,backend,ja,Delete Size,サイズを削除
+952,backend,ja,Ingredients create,成分が作成します
+953,backend,ja,Payment gateway,支払いゲートウェイ
+954,backend,ja,All Payment,すべての支払い
+956,backend,ja,All payments,すべての支払い
+957,backend,ja,Archive,記録
+959,backend,ja,Rejection Reason,拒否の理由
+962,backend,ja,Transactions,トランザクション
+965,backend,ja,Merchant withdrawals,商人の撤退
+967,backend,ja,Third Party App,サードパーティのアプリ
+968,backend,ja,Real time application,リアルタイムアプリケーション
+969,backend,ja,Web push notification,Webプッシュ通知
+971,backend,ja,Scheduled,予定
+973,backend,ja,Zones,ゾーン
+974,backend,ja,Pause order reason,注文の理由を一時停止
+976,backend,ja,Order earnings,注文収益
+978,backend,ja,POS,POS
+979,backend,ja,POS create order,POS作成注文
+983,backend,ja,Login &amp; Signup,ログイン＆amp;サインアップ
+989,backend,ja,Upload CSV,CSVをアップロード
+990,backend,ja,Add sponsored,スポンサーを追加
+991,backend,ja,Update sponsored,スポンサー付きアップデート
+993,backend,ja,Print PDF,PDFを印刷
+996,backend,ja,Update Gateway,ゾーン
+997,backend,ja,Withdrawals Template,注文の理由を一時停止
+998,backend,ja,Cuisine create,注文収益
+999,backend,ja,Cuisine update,POS
+1000,backend,ja,Dishes create,POS作成注文
+1001,backend,ja,Dishes update,ログイン＆amp;サインアップ
+1002,backend,ja,Dishes delete,CSVをアップロード
+1003,backend,ja,Cuisine delete,スポンサーを追加
+1004,backend,ja,Tags create,スポンサー付きアップデート
+1005,backend,ja,Tags update,PDFを印刷
+1006,backend,ja,Tags delete,タグ削除
+1007,backend,ja,Status create,ステータス作成
+1008,backend,ja,Status update,ステータスアップデート
+1009,backend,ja,Status delete,ステータス削除
+1011,backend,ja,Status actions create,ステータスアクションの作成
+1012,backend,ja,Status actions update,ステータスアクションの更新
+1013,backend,ja,Currency create,通貨作成
+1014,backend,ja,Currency update,通貨の更新
+1015,backend,ja,Currency delete,通貨削除
+1016,backend,ja,Country create,国を作成します
+1017,backend,ja,Country update,国の更新
+1020,backend,ja,State create,状態作成
+1021,backend,ja,State update,状態の更新
+1022,backend,ja,State delete,状態削除
+1024,backend,ja,City create,シティクリエイト
+1025,backend,ja,City delete,市削除
+1027,backend,ja,Area create,エリア作成
+1028,backend,ja,Area update,エリアの更新
+1029,backend,ja,Area delete,エリア削除
+1030,backend,ja,Zone create,ゾーン作成
+1031,backend,ja,Zone update,ゾーンの更新
+1032,backend,ja,Zone delete,ゾーン削除
+1033,backend,ja,Featured create,注目の作成
+1034,backend,ja,Featured update,注目のアップデート
+1035,backend,ja,Featured delete,注目の削除
+1036,backend,ja,Pages create,ページ作成
+1037,backend,ja,Pages update,ページの更新
+1038,backend,ja,Pages delete,ページ削除
+1039,backend,ja,Language create,言語作成
+1040,backend,ja,Language update,言語の更新
+1041,backend,ja,Language delete,言語削除
+1042,backend,ja,Status Management create,ステータス管理作成
+1043,backend,ja,Status Management update,ステータス管理の更新
+1044,backend,ja,Status Management delete,ステータス管理削除
+1045,backend,ja,Order type create,注文タイプの作成
+1046,backend,ja,Order type update,注文タイプの更新
+1047,backend,ja,Order type delete,注文タイプの削除
+1048,backend,ja,Merchant type create,マーチャントタイプの作成
+1049,backend,ja,Merchant type update,マーチャントタイプの更新
+1050,backend,ja,Merchant type delete,マーチャントタイプ削除
+1051,backend,ja,Rejection reason create,拒否理由の作成
+1052,backend,ja,Rejection reason update,拒否理由の更新
+1054,backend,ja,Rejection reason delete,拒否理由削除
+1055,backend,ja,Pause reason create,一時停止理由の作成
+1056,backend,ja,Pause reason update,理由の更新を一時停止
+1057,backend,ja,Pause reason delete,一時停止理由削除
+1058,backend,ja,Status action create,ステータスアクション作成
+1059,backend,ja,Status reason update,ステータス理由の更新
+1060,backend,ja,Status reason delete,ステータス理由削除
+1061,backend,ja,Coupon create,クーポン作成
+1062,backend,ja,Coupon update,クーポンの更新
+1063,backend,ja,Coupon delete,クーポン削除
+1064,backend,ja,Email Provider create,メールプロバイダーの作成
+1065,backend,ja,Email Provider update,メールプロバイダーの更新
+1066,backend,ja,Email Provider delete,メールプロバイダーの削除
+1067,backend,ja,Templates create,テンプレートは作成します
+1068,backend,ja,Templates update,テンプレートの更新
+1069,backend,ja,Templates delete,テンプレートは削除します
+1070,backend,ja,Email Logs delete,メールログを削除
+1071,backend,ja,Push logs delete,プッシュログ削除
+1072,backend,ja,Customer create,顧客が作成する
+1073,backend,ja,Customer update,顧客の更新
+1074,backend,ja,Customer delete,顧客の削除
+1075,backend,ja,Customer address,お客様の住所
+1076,backend,ja,Customer order history,顧客の注文履歴
+1077,backend,ja,Address create,アドレス作成
+1078,backend,ja,Address delete,アドレス削除
+1079,backend,ja,Address update,住所の更新
+1080,backend,ja,Review update,更新のレビュー
+1081,backend,ja,Review delete,レビュー削除
+1082,backend,ja,SMS provider create,SMSプロバイダーの作成
+1083,backend,ja,SMS provider update,SMSプロバイダーの更新
+1084,backend,ja,SMS provider delete,SMSプロバイダーの削除
+1085,backend,ja,SMS delete logs,SMS削除ログ
+1086,backend,ja,Update User,ユーザーの更新
+1088,backend,ja,Taxes,税金
+1089,backend,ja,Social Settings,社会的設定
+1090,backend,ja,Notification Settings,通知設定
+1091,backend,ja,Order limit create,注文制限の作成
+1092,backend,ja,Order view PDF,注文ビューPDF
+1093,backend,ja,Ingredients update,成分の更新
+1094,backend,ja,Cooking create,クッキングクリエイト
+1095,backend,ja,Ingredients delete,成分削除
+1096,backend,ja,Cooking update,料理の最新情報
+1097,backend,ja,Cooking delete,料理削除
+1098,backend,ja,Category create,カテゴリ作成
+1099,backend,ja,Category update,カテゴリの更新
+1100,backend,ja,Category delete,カテゴリ削除
+1101,backend,ja,Category availability,カテゴリの可用性
+1102,backend,ja,Addon Category create,アドオンカテゴリ作成
+1103,backend,ja,Addon Category update,アドオンカテゴリの更新
+1104,backend,ja,Addon Category delete,アドオンカテゴリ削除
+1105,backend,ja,Addon Item create,アドオンアイテムの作成
+1106,backend,ja,Addon Item update,アドオンアイテムの更新
+1107,backend,ja,Addon Item delete,アドオンアイテムの削除
+1108,backend,ja,Item create,アイテム作成
+1109,backend,ja,Item update,アイテムの更新
+1110,backend,ja,Item delete,アイテム削除
+1111,backend,ja,Item price,アイテム価格
+1112,backend,ja,Item price delete,アイテム価格削除
+1113,backend,ja,Item price update,アイテム価格の更新
+1114,backend,ja,Item addon,アイテムアドオン
+1115,backend,ja,Item addon create,アイテムアドオン作成
+1116,backend,ja,Item addon update,アイテムアドオンの更新
+1117,backend,ja,Item addon delete,アイテムアドオン削除
+1118,backend,ja,Item attributes,アイテムの属性
+1119,backend,ja,Item availability,アイテムの入手可能性
+1120,backend,ja,Item inventory,アイテム在庫
+1121,backend,ja,Item promo,アイテムプロモーション
+1122,backend,ja,Item promo create,アイテムプロモーション作成
+1123,backend,ja,Item promo update,アイテムプロモーションの更新
+1124,backend,ja,Item promo delete,アイテムプロモーション削除
+1125,backend,ja,Item gallery,アイテムギャラリー
+1126,backend,ja,Item SEO,アイテムSEO
+1127,backend,ja,Dynamic Rates,動的レート
+1128,backend,ja,Fixed Charge,固定料金
+1129,backend,ja,Pickup instructions,ピックアップ手順
+1130,backend,ja,Dinein instructions,Dineinの指示
+1132,backend,ja,Offer create,オファー作成
+1133,backend,ja,Offer update,オファーの更新
+1134,backend,ja,Offer delete,オファー削除
+1135,backend,ja,Review reply,返信を確認する
+1136,backend,ja,User create,ユーザー作成
+1137,backend,ja,User update,ユーザーアップデート
+1138,backend,ja,User delete,ユーザー削除
+1139,backend,ja,Role create,役割の作成
+1140,backend,ja,Role update,役割の更新
+1141,backend,ja,Role delete,役割の削除
+1142,backend,ja,Supplier create,サプライヤー作成
+1143,backend,ja,Supplier update,サプライヤーの最新情報
+1144,backend,ja,Supplier delete,サプライヤー削除
+1145,backend,ja,Website,Webサイト
+1146,backend,ja,Theme,テーマ
+1147,backend,ja,Company,会社
+1148,backend,ja,Service,サービス
+1149,backend,ja,Find a store,お店を探す
+1151,backend,ja,Contact Us,お問い合わせ
+1152,backend,ja,Categories,カテゴリ
+1153,backend,ja,Grocery,買い物
+1154,backend,ja,Parcel Delivery,小包配達
+1155,backend,ja,Fast Food,ファストフード
+1157,backend,ja,Privacy policy,プライバシーポリシー
+1158,backend,ja,Dishes,料理
+1159,backend,ja,No notifications yet,まだ通知はありません
+1160,backend,ja,"When you get notifications, they'll show up here",通知を受け取ると、ここに表示されます
+1161,backend,ja,active,アクティブ
+1162,backend,ja,Total Cancel,トータルキャンセル
+1163,backend,ja,Sales this week,今週の売り上げ
+1164,backend,ja,Earning this week,今週の収益
+1165,backend,ja,Your balance,あなたのバランス
+1166,backend,ja,Today sales,今日の売り上げ
+1167,backend,ja,Today refund,今日の払い戻し
+1168,backend,ja,days ago,数日前
+1169,backend,ja,Accepting Orders,受注
+1170,backend,ja,Update Information,更新情報
+1171,backend,ja,Basic Settings,基本設定
+1172,backend,ja,Orders Settings,注文設定
+1173,backend,ja,This will appear in your receipt,これは領収書に表示されます
+1174,backend,ja,Two Flavor Options,2つのフレーバーオプション
+1175,backend,ja,Close Store,ストアを閉じる
+1176,backend,ja,Enabled Voucher,有効なバウチャー
+1177,backend,ja,Enabled Tips,有効なヒント
+1178,backend,ja,Default Tip,デフォルトのヒント
+1179,backend,ja,Please select...,選んでください...
+1180,backend,ja,Website address,ウェブサイトアドレス
+1181,backend,ja,Tax number,税番号
+1182,backend,ja,All Store Hours,すべての営業時間
+1184,backend,ja,Open,開ける
+1185,backend,ja,From,から
+1187,backend,ja,Custom Message,カスタムメッセージ
+1188,backend,ja,Tax enabled,税金が有効
+1189,backend,ja,Tax on service fee,サービス料に対する税金
+1190,backend,ja,Tax on delivery fee,配送料に対する税金
+1191,backend,ja,Tax on packaging fee,梱包料に対する税金
+1192,backend,ja,Tax Type,税タイプ
+1193,backend,ja,Standard,標準
+1194,backend,ja,Multiple tax,複数の税金
+1195,backend,ja,Tax not in prices (prices does not include tax),価格に含まれない税金（価格には税金は含まれていません）
+1197,backend,ja,Add new tax,新しい税金を追加する
+1198,backend,ja,Tax name,税名
+1199,backend,ja,Rate %,割合 ％
+1200,backend,ja,Default tax,デフォルトの税金
+1201,backend,ja,Facebook Page,Facebookのページ
+1202,backend,ja,Twitter Page,Twitterページ
+1203,backend,ja,Google Page,Googleページ
+1204,backend,ja,Merchant Mobile Alert,マーチャントモバイルアラート
+1205,backend,ja,Define how many minutes that order set to critical order and needs attentions.,その注文がクリティカルな注文に設定され、注意が必要な分数を定義します。
+1206,backend,ja,Critical minutes,重要な議事録
+1207,backend,ja,Define how many minutes that order will auto rejected.,その注文が自動的に拒否される分数を定義します。
+1208,backend,ja,Reject order minutes,注文議事録を拒否する
+1210,backend,ja,Days/Time,日/時間
+1211,backend,ja,All Time,いつも
+1212,backend,ja,Add Time Management,時間管理を追加する
+1213,backend,ja,Transaction Type,トランザクションタイプ
+1215,backend,ja,Start Time,始まる時間
+1216,backend,ja,End Time,終了時間
+1217,backend,ja,Number Order Allowed,許可される番号順
+1219,backend,ja,"Status that will count the existing order, if empty will use all status.",空の場合、既存の注文をカウントするステータスはすべてのステータスを使用します。
+1220,backend,ja,Orders as of today {{date}},本日現在の注文{{date}}
+1221,backend,ja,How to manage orders,注文の管理方法
+1222,backend,ja,Filter by order number or customer name,注文番号または顧客名でフィルタリング
+1226,backend,ja,Sort,選別
+1227,backend,ja,Order ID - Ascending,注文ID-昇順
+1228,backend,ja,Order ID - Descending,注文ID-降順
+1229,backend,ja,Delivery Time - Ascending,配達時間-昇順
+1230,backend,ja,Delivery Time - Descending,配達時間-降順
+1231,backend,ja,no results',結果がありません'
+1232,backend,ja,Order Details will show here,注文の詳細はここに表示されます
+1233,backend,ja,Not accepting orders,注文を受け付けていません
+1234,backend,ja,Store pause for,一時停止を保存する
+1235,backend,ja,Store Pause,ストアの一時停止
+1236,backend,ja,Would you like to resume accepting orders?,注文の受付を再開しますか？
+1237,backend,ja,Pause New Orders,新規注文を一時停止
+1238,backend,ja,How long you would like to pause new orders?,新しい注文をどのくらい一時停止しますか？
+1241,backend,ja,Reason for pausing,一時停止の理由
+1242,backend,ja,{{mins}} min(s),{{mins}} min（s）
+1243,backend,ja,{{total}} results,{{total}}の結果
+1244,backend,ja,Discount,割引
+1245,backend,ja,Reset,リセット
+1246,backend,ja,Proceed to pay,支払いを続行します
+1247,backend,ja,Clear all items,すべてのアイテムをクリアする
+1248,backend,ja,Have a promo code?,プロモーションコードをお持ちですか？
+1249,backend,ja,Add promo code,プロモーションコードを追加する
+1250,backend,ja,Apply,申し込み
+1251,backend,ja,Create Payment,支払いを作成する
+1252,backend,ja,Total Due,合計支払期日
+1253,backend,ja,are you sure?,本気ですか？
+1254,backend,ja,Walk-in Customer,持ち込みのお客様
+1255,backend,ja,Optional,オプション
+1256,backend,ja,Special Instructions,特別な指示
+1257,backend,ja,"Add a note (extra cheese, no onions, etc.)",メモを追加します（余分なチーズ、玉ねぎなしなど）
+1258,backend,ja,If sold out,売り切れの場合
+1259,backend,ja,Add to order,注文に追加
+1260,backend,ja,Choose up to,まで選択
+1261,backend,ja,Select flavor,フレーバーを選択
+1262,backend,ja,Select 1,1を選択
+1263,backend,ja,POS Orders,POS注文
+1264,backend,ja,Size List,サイズリスト
+1265,backend,ja,Ingredients List,成分リスト
+1266,backend,ja,All Size,全サイズ
+1267,backend,ja,Add Size,サイズを追加
+1268,backend,ja,Size Name,サイズ名
+1269,backend,ja,All Ingredients,すべての成分
+1270,backend,ja,Add Ingredients,材料を追加する
+1271,backend,ja,Ingredients Name,成分名
+1272,backend,ja,Update Ingredients,材料を更新する
+1273,backend,ja,Cooking Reference List,クッキングリファレンスリスト
+1274,backend,ja,All Cooking Reference,すべての料理リファレンス
+1275,backend,ja,Add Cooking Reference,クッキングリファレンスを追加
+1276,backend,ja,Update Cooking Reference,クッキングリファレンスを更新
+1277,backend,ja,Category List,カテゴリリスト
+1278,backend,ja,All Category,すべてのカテゴリ
+1279,backend,ja,Add Category,カテゴリを追加
+1280,backend,ja,Dish,皿
+1281,backend,ja,Update Category,カテゴリを更新
+1282,backend,ja,Availability,可用性
+1283,backend,ja,Available at specified times,指定された時間に利用可能
+1284,backend,ja,Addon Category List,アドオンカテゴリリスト
+1285,backend,ja,All Addon Category,すべてのアドオンカテゴリ
+1286,backend,ja,Add Addon Category,アドオンカテゴリを追加
+1287,backend,ja,Update Addon Category,アドオンカテゴリを更新
+1288,backend,ja,monday,月曜
+1289,backend,ja,tuesday,火曜日
+1290,backend,ja,wednesday,水曜日
+1291,backend,ja,thursday,木曜日
+1292,backend,ja,friday,金曜日
+1293,backend,ja,saturday,土曜日
+1294,backend,ja,sunday,日曜日
+1295,backend,ja,Addon Item List,アドオンアイテムリスト
+1296,backend,ja,All Addon Item,すべてのアドオンアイテム
+1297,backend,ja,Add Addon Item,アドオンアイテムを追加
+1298,backend,ja,AddOn Item,アドオンアイテム
+1300,backend,ja,Update Addon Item,アドオンアイテムの更新
+1301,backend,ja,Item List,アイテムリスト
+1302,backend,ja,All Item,すべてのアイテム
+1303,backend,ja,Add Item,アイテムを追加
+1304,backend,ja,Long Description,長い説明
+1306,backend,ja,Select Unit,単位を選択
+1307,backend,ja,Item Name,項目名
+1308,backend,ja,Available,利用可能
+1309,backend,ja,Update Item,アイテムを更新
+1310,backend,ja,Addon,アドオン
+1311,backend,ja,Inventory,在庫
+1312,backend,ja,Sales Promotion,セールスプロモーション
+1314,backend,ja,Add Price,価格を追加
+1315,backend,ja,Cost Price,原価
+1316,backend,ja,Discount Start,割引開始
+1317,backend,ja,Discount End,割引終了
+1318,backend,ja,Discount Type,割引タイプ
+1319,backend,ja,SKU,SKU
+1320,backend,ja,Fixed,修理済み
+1322,backend,ja,Select Type,タイプを選択
+1323,backend,ja,Select Value,値を選択
+1324,backend,ja,Required,必須
+1325,backend,ja,No,番号
+1326,backend,ja,multiple,多数
+1327,backend,ja,All Addon,すべてのアドオン
+1330,backend,ja,Pre-selected,事前選択
+1331,backend,ja,Select Item Price,アイテム価格を選択
+1332,backend,ja,Can Select Only One,1つしか選択できません
+1333,backend,ja,Can Select Multiple,複数選択可能
+1334,backend,ja,Two Flavors,2つのフレーバー
+1335,backend,ja,Custom,カスタム
+1336,backend,ja,Enabled Points,有効なポイント
+1337,backend,ja,Enabled Packaging Incrementals,有効なパッケージングインクリメンタル
+1338,backend,ja,Cooking Reference Mandatory,クッキングリファレンス必須
+1339,backend,ja,Points earned,獲得ポイント
+1340,backend,ja,Packaging fee,梱包料
+1341,backend,ja,Delivery options,配送オプション
+1342,backend,ja,Select vehicle type for this item can be used for delivery,このアイテムの選択した車種は配達に使用できます
+1343,backend,ja,Not for sale,非売品
+1344,backend,ja,Track Stock,トラックストック
+1345,backend,ja,Supplier,サプライヤー
+1346,backend,ja,Select Supplier,サプライヤーを選択
+1347,backend,ja,Add Item Promo,アイテムプロモーションを追加
+1348,backend,ja,Buy (qty),購入（数量）
+1349,backend,ja,Get (qty,取得（数量
+1350,backend,ja,Select Item,アイテムを選択
+1351,backend,ja,Buy (qty) to get the (qty) item free,（数量）を購入して（数量）アイテムを無料で入手
+1352,backend,ja,Buy (qty) and get 1 at (percen)% off,（数量）を購入して（パーセント）％オフで1をゲット
+1353,backend,ja,Promo Type,プロモーションタイプ
+1355,backend,ja,Gallery Image,ギャラリー画像
+1356,backend,ja,Enabled Opt in for no contact delivery,連絡先配信なしのオプトインを有効にする
+1357,backend,ja,Free Delivery On First Order,初回注文で送料無料
+1358,backend,ja,Delivery Charge Type,配送料タイプ
+1359,backend,ja,Standard delivery fee,標準配送料
+1360,backend,ja,Delivery Settings,配信設定
+1361,backend,ja,Delivery estimation,納期の見積もり
+1362,backend,ja,in minutes example 10-20mins,分単位の例10〜20分
+1363,backend,ja,Minimum Order,最小注文
+1364,backend,ja,Maximum Order,最大注文数
+1365,backend,ja,Pickup estimation,ピックアップの見積もり
+1366,backend,ja,Instructions,手順
+1367,backend,ja,Customer Pickup Instructions,顧客ピックアップの手順
+1368,backend,ja,Describe how a customer will pickup their order when they arrive to your store. Instructions will be displayed on a customer's order status page.,顧客が店舗に到着したときに注文を受け取る方法を説明します。指示は、顧客の注文ステータスページに表示されます。
+1369,backend,ja,Dinein estimation,ディネイン推定
+1370,backend,ja,Customer Dinein Instructions,顧客の食事の説明
+1371,backend,ja,Describe how customer will dinein in your restaurant. Instructions will be displayed on a customer's order status page,顧客があなたのレストランでどのように食事をするかを説明してください。指示は、顧客の注文ステータスページに表示されます
+1372,backend,ja,Page not found,ページが見つかりません
+1373,backend,ja,This page is not available in your account.,このページはアカウントで利用できません。
+1374,backend,ja,Update Coupon,クーポンの更新
+1375,backend,ja,Offers list,オファーリスト
+1376,backend,ja,Valid,有効
+1377,backend,ja,All Offers,すべてのオファー
+1378,backend,ja,Add Offers,オファーを追加
+1379,backend,ja,Offer Percentage,オファーの割合
+1380,backend,ja,Orders Over,注文オーバー
+1381,backend,ja,Valid From,から有効
+1382,backend,ja,Valid To,有効期限
+1383,backend,ja,Applicable to,に適用可能
+1384,backend,ja,Gallery list,ギャラリーリスト
+1385,backend,ja,"Your sales, cash in and referral earnings",あなたの売り上げ、キャッシュイン、紹介収入
+1386,backend,ja,Available Balance,利用可能残高
+1388,backend,ja,Request Payout,支払いをリクエストする
+1389,backend,ja,Add to your balance,残高に追加する
+1390,backend,ja,Minimum amount,最小額
+1391,backend,ja,how much do you want to add to your account?,アカウントにいくら追加しますか？
+1392,backend,ja,Enter top up amount,補充額を入力してください
+1394,backend,ja,Continue,継続する
+1395,backend,ja,Minimum amount {{amonut}},最小金額{{amount}}
+1396,backend,ja,Adjustment commission order #{{order_id}},調整手数料注文＃{{order_id}}
+1397,backend,ja,Refund commission order #{{order_id}},コミッション注文の払い戻し＃{{order_id}}
+1398,backend,ja,Commission on order #{{order_id}},注文に関する手数料＃{{order_id}}
+1399,backend,ja,Sales on order #{{order_id}},注文の売上＃{{order_id}}
+1400,backend,ja,Payment to order #{{order_id}},注文への支払い＃{{order_id}}
+1401,backend,ja,Payout to {{account}},{{account}}への支払い
+1402,backend,ja,Payout History,支払い履歴
+1404,backend,ja,Payout account,支払いアカウント
+1406,backend,ja,Set Account,アカウントを設定する
+1407,backend,ja,Date Processed,処理日
+1408,backend,ja,Set your default payout account,デフォルトの支払いアカウントを設定する
+1410,backend,ja,Individual,個人
+1411,backend,ja,Account information,口座情報
+1412,backend,ja,Bank Account Holders Name,銀行口座名義人の名前
+1413,backend,ja,Reply,返事
+1414,backend,ja,Customer review,カスタマーレビュー
+1415,backend,ja,Your Reply,あなたの返信
+1416,backend,ja,Comments ([number_comments]),コメント（[number_comments]）
+1417,backend,ja,Date Created. [date_created],作成日。 [date_created]
+1418,backend,ja,User List,ユーザーリスト
+1419,backend,ja,Sales Summary Report,売上概要レポート
+1420,backend,ja,Average price,平均価格
+1421,backend,ja,Total qty sold,販売数量の合計
+1423,backend,ja,Sales chart,販売チャート
+1424,backend,ja,All Items,全てのアイテム
+1425,backend,ja,Supplier List,サプライヤーリスト
+1426,backend,ja,Contacts,連絡先
+1427,backend,ja,Add Supplier,サプライヤーを追加
+1428,backend,ja,Phone Number,電話番号
+1429,backend,ja,Address 1,住所（1
+1430,backend,ja,Address 2,アドレス2
+1431,backend,ja,Postal/zip code,郵便番号
+1432,backend,ja,Region,領域
+1433,backend,ja,Notes,ノート
+1434,backend,ja,Supplier Name,サプライヤ名
+1435,backend,ja,Archive Order List,アーカイブ注文リスト
+1436,backend,ja,Order has the same status,注文のステータスは同じです
+1437,backend,ja,Status Updated,ステータスが更新されました
+1438,backend,ja,Amount to refund cannot be less than 0,払い戻し金額は0未満にすることはできません
+1439,backend,ja,You don't have enough balance in your account. please load your account to process this order.,アカウントに十分な残高がありません。この注文を処理するには、アカウントを読み込んでください。
+1440,backend,ja,Amount to less cannot be less than 0,未満の金額は0未満にすることはできません
+1441,backend,ja,Less on account,アカウントが少ない
+1445,backend,ja,Status not found,ステータスが見つかりません
+1447,backend,ja,Order is cancelled,注文はキャンセルされました
+1448,backend,ja,Order is delayed by [mins]min(s),注文は[分]分遅れます
+1449,backend,ja,Customer is notified about the delayed.,遅延についてお客様に通知されます。
+1450,backend,ja,Item row not found,アイテム行が見つかりません
+1451,backend,ja,Succesful,成功
+1452,backend,ja,Additional charge must be greater than zero,追加料金はゼロより大きくなければなりません
+1453,backend,ja,Item added to order,注文に追加されたアイテム
+1454,backend,ja,Customer name is requied,顧客名が必要です
+1455,backend,ja,Customer contact number is requied,お客様の連絡先番号が必要です
+1456,backend,ja,Delivery address is requied,配送先住所が必要です
+1457,backend,ja,Delivery coordinates is requied,配送座標が必要です
+1459,backend,ja,Order Information updated,注文情報が更新されました
+1460,backend,ja,Client information not found,クライアント情報が見つかりません
+1461,backend,ja,Invalid email address,無効な電子メールアドレス
+1462,backend,ja,Account number is required,アカウント番号が必要です
+1463,backend,ja,Account name is required,アカウント名が必要です
+1464,backend,ja,Bank name is required,銀行名が必要です
+1465,backend,ja,Swift code is required,Swiftコードが必要です
+1466,backend,ja,Country is required,国が必要です
+1467,backend,ja,Payout account saved,ペイアウトアカウントが保存されました
+1468,backend,ja,Payout request successfully logged,支払い要求が正常にログに記録されました
+1470,backend,ja,Setting saved,保存された設定
+1471,backend,ja,Tax not found,税金が見つかりません
+1473,backend,ja,No item solds yet,まだ商品は販売されていません
+1474,backend,ja,You don't have customer yet,まだ顧客がいません
+1475,backend,ja,You don't have sales yet,まだ売り上げはありません
+1477,backend,ja,Voucher code not found,バウチャーコードが見つかりません
+1478,backend,ja,Customer succesfully created,顧客は正常に作成されました
+1479,backend,ja,Order created by {{merchant_user}},{{merchant_user}}によって作成された注文
+1482,backend,ja,Record not found,記録が見当たりませんでした
+1483,backend,ja,Merchant not found,販売者が見つかりません
+1484,backend,ja,Payout status set to paid,支払いステータスが支払い済みに設定
+1485,backend,ja,Transaction not found,トランザクションが見つかりません
+1486,backend,ja,Payout cancelled,支払いがキャンセルされました
+1487,backend,ja,Payout will process in a minute or two,支払いは1、2分で処理されます
+1488,backend,ja,device updated,デバイスが更新されました
+1489,backend,ja,user device not found,ユーザーデバイスが見つかりません
+1494,backend,ja,No recent payout request,最近の支払い要求はありません
+1495,backend,ja,Sort menu saved,保存されたソートメニュー
+1496,backend,ja,Invalid ID,IDが無効です
+1497,backend,ja,View,意見
+1500,backend,ja,History,歴史
+1501,backend,ja,Manage Plan,計画の管理
+1502,backend,ja,Avatar,アバター
+1503,backend,ja,Order#{{order_id}} from {{customer_name}},{{customer_name}}からのOrder＃{{order_id}}
+1504,backend,ja,Your order #{{order_id}} is accepted by {{restaurant_name}},ご注文の＃{{order_id}}は{{restaurant_name}}によって受け付けられます
+1505,backend,ja,Go with merchant recommendation,商人の推薦で行く
+1506,backend,ja,Contact me,私に連絡して
+1507,backend,ja,Cancel the entire order,注文全体をキャンセルする
+1508,backend,ja,Order Details,注文詳細
+1509,backend,ja,Merchant - information,商人-情報
+1510,backend,ja,Merchant - login,マーチャント-ログイン
+1514,backend,ja,Merchant - Payment history,販売者-支払い履歴
+1517,backend,ja,View Order #[order_id],注文番号[order_id]を表示
+1519,backend,ja,Cancel Orders,注文をキャンセルする
+1524,backend,ja,Update Offers,オファーの更新
+1530,backend,ja,Printing Options,印刷オプション
+1534,backend,ja,Security,安全
+1535,backend,ja,Menu Options,メニューオプション
+1538,backend,ja,Booking,予約
+1541,backend,ja,Update Language,言語の更新
+1545,backend,ja,Add featured locations,注目の場所を追加する
+1546,backend,ja,Succesfully updated,正常に更新されました
+1547,backend,ja,This field is required,この項目は必須です
+1549,backend,ja,Initial Password must be repeated exactly.,初期パスワードは正確に繰り返す必要があります。
+1550,backend,ja,Email address already exist.,メールアドレスはすでに存在します。
+1551,backend,ja,"{value}"" has already been taken.","{value} ""はすでに取得されています。"
+1552,backend,ja,"{value}"" has already been added.","{value} ""はすでに追加されています。"
+1553,backend,ja,{attribute} is not a valid URL.,{attribute}は有効なURLではありません。
+1554,backend,ja,This field must be a number.,このフィールドは数値である必要があります。
+1555,backend,ja,{attribute} is too small (minimum is {min}).,{attribute}が小さすぎます（最小値は{min}です）。
+1556,backend,ja,{attribute} is too big (maximum is {max}).,{attribute}が大きすぎます（最大は{max}です）。
+1557,backend,ja,this field must be time example hh:mm.,このフィールドは、時間の例hh：mmである必要があります。
+1560,backend,ja,Succesfully created,正常に作成されました
+1561,backend,ja,Settings saved,保存された設定
+1562,backend,ja,Failed cannot update,失敗しました更新できません
+1563,backend,ja,Failed cannot save,失敗して保存できません
+1564,backend,ja,The file was larger than 10MB. Please upload a smaller file.,ファイルが10MBを超えていました。小さいファイルをアップロードしてください。
+1565,backend,ja,"The file ""{file}"" cannot be uploaded. Only files with these extensions are allowed: {extensions}.",ファイル「{file}」はアップロードできません。次の拡張子を持つファイルのみが許可されます：{extensions}。
+1566,backend,ja,This field cannot be blank.,このフィールドを空白にすることはできません。
+1567,backend,ja,New Password must be repeated exactly,新しいパスワードは正確に繰り返す必要があります
+1568,backend,ja,this field is too short (minimum is {min} characters).,このフィールドは短すぎます（最小は{min}文字です）。
+1569,backend,ja,this field is too long (maximum is {max} characters).,このフィールドは長すぎます（最大は{max}文字です）。
+1570,backend,ja,Record not found.,記録が見当たりませんでした。
+1572,backend,ja,Please correct the forms,フォームを修正してください
+1573,backend,ja,You are not authorized to perform this action,このアクションを実行する権限がありません
+1574,backend,ja,This field is not a valid URL,このフィールドは有効なURLではありません
+1575,backend,ja,Front Translation,フロント翻訳
+1576,front,ja,Let's find best food for you,あなたにぴったりの食べ物を見つけましょう
+1577,front,ja,Enter delivery address,配送先住所を入力してください
+1578,front,ja,Cuisine type,料理の種類
+1579,front,ja,No Minimum Order,最小注文なし
+1580,front,ja,"Order in for yourself or for the group, with no restrictions on order value",注文額に制限なく、ご自身またはグループでご注文ください
+1581,front,ja,Live Order Tracking,ライブ注文追跡
+1582,front,ja,"Know where your order is at all times, from the restaurant to your doorstep",レストランから玄関先まで、注文がどこにあるかを常に把握してください
+1583,front,ja,Lightning-Fast Delivery,電光石火-速い配達
+1584,front,ja,Experience karenderia superfast delivery for food delivered fresh & on time,新鮮で時間通りに配達される食品のカレンデリア超高速配達を体験してください
+1585,front,ja,Best promotions in your area,お住まいの地域で最高のプロモーション
+1586,front,ja,Rising stars restaurants,注目株レストラン
+1587,front,ja,Fastest delivery for you!,あなたのための最速の配達！
+1588,front,ja,Party night?,パーティナイト？
+1589,front,ja,Popular nearby,近くで人気
+1590,front,ja,Up to,まで
+1591,front,ja,Try something,何か試してみてください
+1592,front,ja,Best quick,最高のクイック
+1593,front,ja,Maybe,多分
+1594,front,ja,New,新しい
+1595,front,ja,Lunch,ランチ
+1596,front,ja,Snacks?,おやつ？
+1597,front,ja,Check,小切手
+1598,front,ja,New restaurant,新しいレストラン
+1599,front,ja,Are you a restaurant owner?,あなたはレストランのオーナーですか？
+1600,front,ja,Join us and reach new customers,私たちに参加して、新しい顧客にリーチしてください
+1601,front,ja,Just a few steps to join our family,私たちの家族に参加するためのほんの数ステップ
+1602,front,ja,Join,加入
+1603,front,ja,Best restaurants,最高のレストラン
+1604,front,ja,In your pocket,あなたのポケットに
+1606,front,ja,Download,ダウンロード
+1607,front,ja,K mobile app,Kモバイルアプリ
+1608,front,ja,"Order from your favorite restaurants & track on the go, with the all-new K app.",まったく新しいKアプリを使って、お気に入りのレストランから注文し、外出先でトラックを楽しみましょう。
+1609,front,ja,Website,Webサイト
+1610,front,ja,Cart,カート
+1611,front,ja,Sign in,サインイン
+1612,front,ja,You don't have any orders here!,ここに注文はありません！
+1613,front,ja,let's change that!,それを変えましょう！
+1614,front,ja,Login,ログイン
+1615,front,ja,Remember me,私を覚えてますか
+1616,front,ja,Forgot password?,パスワードをお忘れですか？
+1617,front,ja,Mobile number or email,携帯電話番号またはメール
+1618,front,ja,Password,パスワード
+1619,front,ja,Don't have an account?,アカウントをお持ちではありませんか？
+1620,front,ja,Sign Up,サインアップ
+1621,front,ja,User cancelled login or did not fully authorize.,ユーザーがログインをキャンセルしたか、完全に承認しませんでした。
+1622,front,ja,Login with Facebook,Facebookでログイン
+1624,front,ja,Login with Google,Googleでログイン
+1625,front,ja,Let's get started,始めましょう
+1626,front,ja,Enter your phone number,電話番号を入力してください
+1627,front,ja,Next,次
+1628,front,ja,Have an account?,アカウントを持っています？
+1629,front,ja,Enter the code sent to,に送信されたコードを入力してください
+1630,front,ja,Resend Code,コードを再送する
+1631,front,ja,Resend Code in,でコードを再送する
+1633,front,ja,Fill your information,あなたの情報を記入してください
+1634,front,ja,First name,ファーストネーム
+1635,front,ja,Last name,苗字
+1636,front,ja,Email address,電子メールアドレス
+1638,front,ja,Confirm Password,パスワードを認証する
+1639,front,ja,Submit,送信
+1640,front,ja,Clear all,すべてクリア
+1641,front,ja,Filter,フィルター
+1642,front,ja,Over,以上
+1643,front,ja,Free delivery,無料配達
+1644,front,ja,end of result,結果の終わり
+1645,front,ja,Fastest delivery in,で最速の配達
+1646,front,ja,Receive food in less than 20 minutes,20分以内に食べ物を受け取る
+1647,front,ja,Sorry! We're not there yet,ごめん！私たちはまだそこにいません
+1648,front,ja,"We're working hard to expand our area. However, we're not in this location yet. So sorry about this, we'd still love to have you as a customer.",私たちは地域を拡大するために一生懸命取り組んでいます。しかし、私たちはまだこの場所にいません。申し訳ありませんが、お客様としてご利用いただければ幸いです。
+1649,front,ja,Try something new in,で何か新しいことを試してみてください
+1650,front,ja,Most popular,最も人気のある
+1651,front,ja,Rating,評価
+1652,front,ja,Promo,プロモーション
+1653,front,ja,Free delivery first order,送料無料初回注文
+1654,front,ja,Price range,価格帯
+1655,front,ja,Cuisines,料理
+1656,front,ja,Max Delivery Fee,最大配送料
+1657,front,ja,Delivery Fee,配送料
+1658,front,ja,Ratings,評価
+1659,front,ja,Search,検索
+1660,front,ja,Now,今
+1661,front,ja,"No default map provider, check your settings.",デフォルトのマッププロバイダーはありません。設定を確認してください。
+1662,front,ja,No results,結果がありません
+1663,front,ja,Invalid file,無効なファイル
+1664,front,ja,Record not found,記録が見当たりませんでした
+1665,front,ja,invalid error,無効なエラー
+1666,front,ja,You already added review for this order,この注文のレビューはすでに追加されています
+1667,front,ja,Login successful,ログイン成功
+1668,front,ja,Please wait until we redirect you,リダイレクトされるまでお待ちください
+1669,front,ja,Registration successful,登録に成功
+1670,front,ja,Discount {{discount}}%,割引{{discount}}％
+1671,front,ja,Pin location is too far from the address,PINの場所が住所から遠すぎます
+1672,front,ja,User not login or session has expired,ログインしていないユーザーまたはセッションの有効期限が切れています
+1673,front,ja,We sent a code to {{email_address}}.,{{email_address}}にコードを送信しました。
+1674,front,ja,Your verification code is {{code}},確認コードは{{code}}です
+1676,front,ja,Your session has expired please relogin,セッションの有効期限が切れています。再ログインしてください
+1677,front,ja,Invalid 6 digit code,無効な6桁のコード
+1678,front,ja,Succesfull change contact number,連絡先番号の変更に成功
+1679,front,ja,Voucher code not found,バウチャーコードが見つかりません
+1680,front,ja,Payment provider not found,支払いプロバイダーが見つかりません
+1681,front,ja,"This store is close right now, but you can schedulean order later.",この店は現在閉店していますが、後で注文することができます。
+1682,front,ja,Your Order has been place,ご注文は完了しました
+1683,front,ja,Your order from,からのご注文
+1684,front,ja,Summary,概要
+1685,front,ja,Track,追跡
+1686,front,ja,Buy again,もう一度購入する
+1687,front,ja,Customer cancel this order,お客様はこの注文をキャンセルします
+1688,front,ja,Your order is now cancel. your refund is on its way.,ご注文はキャンセルされました。払い戻しは途中です。
+1689,front,ja,Your order is now cancel. your partial refund is on its way.,ご注文はキャンセルされました。部分的な払い戻しが進行中です。
+1690,front,ja,This order has already been cancelled,この注文はすでにキャンセルされています
+1691,front,ja,Customer cancell this order,お客様はこの注文をキャンセルします
+1692,front,ja,Your order is now cancel.,ご注文はキャンセルされました。
+1693,front,ja,not login,ログインしない
+1694,front,ja,You must login to save this store,このストアを保存するにはログインする必要があります
+1695,front,ja,Merchant has not set time opening yet,マーチャントはまだ開店時間を設定していません
+1696,front,ja,Phone number already exist,電話番号はすでに存在します
+1697,front,ja,Accout not verified,アカウントは確認されていません
+1698,front,ja,Your account is {{status}},あなたのアカウントは{{status}}です
+1699,front,ja,Check {{email_address}} for an email to reset your password.,パスワードをリセットするためのメールについては、{{email_address}}を確認してください。
+1700,front,ja,Your account is either inactive or not verified.,アカウントが非アクティブであるか、確認されていません。
+1701,front,ja,No email address found in our records. please verify your email.,記録にメールアドレスが見つかりません。メールアドレスを確認してください。
+1703,front,ja,Your password is now updated.,これでパスワードが更新されました。
+1704,front,ja,You have already existing request.,すでにリクエストがあります。
+1706,front,ja,Invalid file extension,無効なファイル拡張子
+1707,front,ja,"Invalid file size, allowed size are {{size}}",無効なファイルサイズ、許可されるサイズは{{size}}です
+1708,front,ja,Failed cannot upload file.,失敗したファイルをアップロードできません。
+1709,front,ja,Profile photo saved,プロフィール写真を保存しました
+1710,front,ja,Invalid data,無効なデータ
+1711,front,ja,File not found,ファイルが見つかりません
+1712,front,ja,ID is empty,IDが空です
+1714,front,ja,Payment not found,支払いが見つかりません
+1715,front,ja,{{count}} store,{{count}}ストア
+1716,front,ja,{{count}} stores,{{count}}ストア
+1717,front,ja,low cost restaurant,低価格のレストラン
+1718,front,ja,{{review_count}} reviews,{{review_count}}レビュー
+1719,front,ja,Save store,ストアを保存
+1720,front,ja,Saved,保存しました
+1721,front,ja,Enter your address,住所を入力してください
+1722,front,ja,Gallery,ギャラリー
+1723,front,ja,Reviews,レビュー
+1724,front,ja,Based on,に基づく
+1726,front,ja,Load more,もっと読み込む
+1727,front,ja,Few words about {{restaurant_name}},{{restaurant_name}}についてのいくつかの言葉
+1728,front,ja,Address,住所
+1729,front,ja,Get direction,方向性を得る
+1730,front,ja,Opening hours,営業時間
+1731,front,ja,Add to cart,カートに追加
+1732,front,ja,Menu,メニュー
+1735,front,ja,Clear,クリア
+1736,front,ja,Place Order,注文する
+1737,front,ja,Checkout,チェックアウト
+1738,front,ja,Delivery details,配達の詳細
+1739,front,ja,Change address,住所を変更する
+1740,front,ja,Pick a time,時間を選ぶ
+1741,front,ja,Schedule for later,後でスケジュールする
+1742,front,ja,Done,終わり
+1743,front,ja,Save,保存
+1744,front,ja,Optional,オプション
+1745,front,ja,Special Instructions,特別な指示
+1746,front,ja,"Add a note (extra cheese, no onions, etc.)",メモを追加します（余分なチーズ、玉ねぎなしなど）
+1747,front,ja,If sold out,売り切れの場合
+1748,front,ja,Go with merchant recommendation,商人の推薦で行く
+1749,front,ja,Refund this item,このアイテムを払い戻す
+1750,front,ja,Contact me,私に連絡して
+1751,front,ja,Cancel the entire order,注文全体をキャンセルする
+1752,front,ja,Select 1,1を選択
+1753,front,ja,Choose up to,まで選択
+1754,front,ja,Select flavor,フレーバーを選択
+1755,front,ja,Required,必須
+1756,front,ja,monday,月曜
+1757,front,ja,tuesday,火曜日
+1758,front,ja,wednesday,水曜日
+1759,front,ja,thursday,木曜日
+1760,front,ja,friday,金曜日
+1761,front,ja,saturday,土曜日
+1762,front,ja,sunday,日曜日
+1763,front,ja,You're out of range,範囲外です
+1764,front,ja,This restaurant cannot deliver to,このレストランはに配達できません
+1768,front,ja,We'll confirm that you can have this restaurant delivered.,このレストランを配達してもらうことができることを確認します。
+1769,front,ja,add Address,住所を追加
+1770,front,ja,Delivery Address,配送先住所
+1772,front,ja,Store is close,店は近いです
+1774,front,ja,Schedule Order,注文のスケジュール
+1775,front,ja,min,分
+1776,front,ja,Cooking Reference,クッキングリファレンス
+1777,front,ja,Ingredients,材料
+1778,front,ja,Order type and time,注文の種類と時間
+1779,front,ja,Include utensils and condoments,調理器具やコンドミニアムを含める
+1780,front,ja,Tip the courier,宅配便のチップ
+1781,front,ja,Optional tip for the courier,宅配便のオプションのヒント
+1782,front,ja,People also ordered,人々も注文しました
+1783,front,ja,Choose a delivery address,配送先住所を選択してください
+1784,front,ja,Add new address,新しい住所を追加する
+1785,front,ja,Payment Methods,お支払い方法
+1786,front,ja,Saved Payment Methods,保存された支払い方法
+1787,front,ja,Sub total,小計
+1788,front,ja,Service fee,サービス料
+1789,front,ja,Courier tip,宅配便のヒント
+1790,front,ja,Total,合計
+1791,front,ja,Add New Payment Method,新しい支払い方法を追加する
+1792,front,ja,Promotion available,利用可能なプロモーション
+1793,front,ja,{{tax_name}} {{tax}}%,{{tax_name}} {{tax}}％
+1794,front,ja,{{tax_name}} ({{tax}}% included),{{tax_name}}（{{tax}}％を含む）
+1795,front,ja,Packaging fee,梱包料
+1797,front,ja,minimum order is {{minimum_order}},最小注文は{{minimum_order}}です
+1798,front,ja,maximum order is {{maximum_order}},最大順序は{{maximum_order}}です
+1800,front,ja,This restaurant cannot deliver to your location.,このレストランはあなたの場所に配達できません。
+1801,front,ja,Back to Menu,メニューに戻る
+1802,front,ja,Confirming your order,ご注文の確認
+1803,front,ja,Write A Review,レビューを書く
+1804,front,ja,What did you like?,何が好きでしたか？
+1805,front,ja,What did you not like?,何が気に入らなかったのですか？
+1806,front,ja,Add Photos,写真を追加
+1807,front,ja,Write your review,レビューを書く
+1808,front,ja,post review as anonymous,匿名でレビューを投稿
+1809,front,ja,Your review helps us to make better choices,あなたのレビューは私たちがより良い選択をするのに役立ちます
+1810,front,ja,Drop files here to upload,ここにファイルをドロップしてアップロードします
+1811,front,ja,Add Review,レビューを追加
+1812,front,ja,Maximum files exceeded,最大ファイル数を超えました
+1813,front,ja,Your browser does not support drag'n'drop file uploads.,お使いのブラウザは、ドラッグアンドドロップファイルのアップロードをサポートしていません。
+1814,front,ja,Please use the fallback form below to upload your files like in the olden days.,昔のようにファイルをアップロードするには、以下のフォールバックフォームを使用してください。
+1815,front,ja,File is too big ({{filesize}}MiB). Max filesize: {{maxFilesize}}MiB.w,ファイルが大きすぎます（{{filesize}} MiB）。最大ファイルサイズ：{{maxFilesize}} MiB.w
+1816,front,ja,You can't upload files of this type.,このタイプのファイルをアップロードすることはできません。
+1817,front,ja,Server responded with {{statusCode}} code.,サーバーは{{statusCode}}コードで応答しました。
+1818,front,ja,Cancel upload,アップロードをキャンセル
+1819,front,ja,Are you sure you want to cancel this upload?,このアップロードをキャンセルしてもよろしいですか？
+1820,front,ja,Remove file,ファイルを削除する
+1821,front,ja,You can not upload any more files.,これ以上ファイルをアップロードすることはできません。
+1822,front,ja,HOWS WAS YOUR ORDER?,ご注文はどうでしたか？
+1823,front,ja,let us know how your delivery wen and how you liked your order!,あなたの配達がどのように、そしてあなたがあなたの注文をどのように気に入ったかを私たちに知らせてください！
+1824,front,ja,Rate Your Order,ご注文を評価する
+1825,front,ja,UPON ARRIVAL,到着時に
+1826,front,ja,Order #,注文 ＃
+1827,front,ja,Subtotal,小計
+1828,front,ja,Preparing your order,ご注文の準備
+1829,front,ja,{{restaurant_name}} is preparing your  order.,{{restaurant_name}}が注文の準備をしています。
+1830,front,ja,Your order is ready,ご注文の準備ができました
+1831,front,ja,Your order is ready to pickup by driver.,ご注文はドライバーが受け取る準備ができています。
+1832,front,ja,Pickup your order,ご注文を受け取る
+1833,front,ja,Your order is ready. Time to go to {{restaurant_name}} to pickup your order.,ご注文の準備が整いました。 {{restaurant_name}}にアクセスして注文を受け取ります。
+1835,front,ja,Your order is ready. Time to go to {{restaurant_name}} to eat your order.,ご注文の準備が整いました。 {{restaurant_name}}に行って注文を食べましょう。
+1836,front,ja,Heading to you,あなたに向かって
+1837,front,ja,Your delivery guy is heading to you with your order.,あなたの配達人はあなたの注文であなたに向かっています。
+1838,front,ja,Order Complete,注文完了
+1839,front,ja,Your order is completed. Enjoy!,ご注文が完了しました。楽しみ！
+1840,front,ja,Order cancelled,注文がキャンセルされました
+1841,front,ja,"Unfortunately, the restaurant is not able to complete this order due to the following reason: {{rejetion_reason}}",残念ながら、レストランは次の理由によりこの注文を完了できません：{{rejetion_reason}}
+1842,front,ja,Order rejected,注文が拒否されました
+1845,front,ja,Your order failed to complete,ご注文は完了しませんでした
+1846,front,ja,"Unfortunately, the restaurant is not able to complete your order.",残念ながら、レストランはご注文を完了できません。
+1847,front,ja,We sent your order to {{restaurant_name}} for final confirmation.,最終確認のため、ご注文を{{restaurant_name}}に送信しました。
+1848,front,ja,Notification,通知
+1849,front,ja,View all,すべて表示
+1850,front,ja,All notifications,すべての通知
+1851,front,ja,end of results,結果の終わり
+1852,front,ja,Manage my account,私のアカウントを管理する
+1853,front,ja,Orders,注文
+1854,front,ja,Addresses,住所
+1855,front,ja,Payments,支払い
+1856,front,ja,Saved Stores,保存されたストア
+1857,front,ja,Order#{{order_id}} from {{customer_name}},{{customer_name}}からのOrder＃{{order_id}}
+1858,front,ja,Your order #{{order_id}} is accepted by {{restaurant_name}},ご注文の＃{{order_id}}は{{restaurant_name}}によって受け付けられます
+1859,front,ja,days ago,数日前
+1860,front,ja,day,日
+1861,front,ja,days,日々
+1862,front,ja,ago,前に
+1863,front,ja,Profile,プロフィール
+1864,front,ja,Basic Details,基本的な詳細
+1865,front,ja,Change Password,パスワードを変更する
+1866,front,ja,Notifications,通知
+1867,front,ja,Manage Account,アカウントの管理
+1868,front,ja,"For your security, we want to make sure it's really you.",あなたのセキュリティのために、私たちはそれが本当にあなたであることを確認したいと思います。
+1869,front,ja,Enter 6-digit code,6桁のコードを入力してください
+1872,front,ja,Code,コード
+1873,front,ja,Confirm account deletion,アカウントの削除を確認する
+1874,front,ja,"(""Are you sure you want to delete your account and customer data from {{site_title}}?{{new_line}} This action is permanent and cannot be undone.",（「アカウントと顧客データを{{site_title}}から削除してもよろしいですか？{{new_line}}このアクションは永続的であり、元に戻すことはできません。
+1875,front,ja,Delete Account,アカウントを削除する
+1876,front,ja,Don't Delete,削除しないでください
+1877,front,ja,Okay,わかった
+1878,front,ja,2-Step Verification,2段階認証
+1879,front,ja,Profile updated,プロフィール更新済み
+1880,front,ja,Old password,以前のパスワード
+1881,front,ja,New password,新しいパスワード
+1882,front,ja,Notifications Settings,通知設定
+1883,front,ja,Enabled,有効
+1884,front,ja,Communication preferences,コミュニケーションの好み
+1885,front,ja,Could not get device interests,デバイスの関心を取得できませんでした
+1886,front,ja,notifications enabled,通知が有効
+1887,front,ja,notifications disabled,通知が無効になっています
+1888,front,ja,Could not stop Beams SDK,BeamsSDKを停止できませんでした
+1889,front,ja,Could not start Beams SDK,BeamsSDKを起動できませんでした
+1890,front,ja,Notification type save,通知タイプの保存
+1891,front,ja,Could not set device interests,デバイスの関心を設定できませんでした
+1893,front,ja,Select only the marketing messages you would like to receive from {{settings.site_name}}. You will still receive transactional emails including but not limited to information about your account and certain other updates such as those related to safety and privacy.,{{settings.site_name}}から受信するマーケティングメッセージのみを選択します。アカウントに関する情報や、安全性やプライバシーに関連する更新など、その他の特定の更新を含むがこれらに限定されないトランザクションメールを引き続き受信します。
+1895,front,ja,Account Data,アカウントデータ
+1896,front,ja,You can request an archive of your personal information. We'll notify you when it's ready to download.,個人情報のアーカイブをリクエストすることができます。ダウンロードの準備ができ次第お知らせします。
+1897,front,ja,Request archive,アーカイブをリクエストする
+1898,front,ja,We received your data request,データリクエストを受け取りました
+1899,front,ja,we'll send your data as soon as we can. this process may take a few days. You will receive an email once your data is ready.,できるだけ早くデータを送信します。このプロセスには数日かかる場合があります。データの準備が整うと、メールが届きます。
+1901,front,ja,"You can request to have your account deleted and personal information removed. If you have both a DoorDash and Caviar account, then the information associated with both will be affected to the extent we can identify that the accounts are owned by the same user.",アカウントの削除と個人情報の削除をリクエストできます。 DoorDashアカウントとCaviarアカウントの両方をお持ちの場合、アカウントが同じユーザーによって所有されていると識別できる範囲で、両方に関連付けられた情報が影響を受けます。
+1902,front,ja,Your account is being deleted,アカウントが削除されます
+1903,front,ja,You will be automatically logged out. Your account will be deleted in the next few minutes.,自動的にログアウトされます。アカウントは数分以内に削除されます。
+1904,front,ja,Note: We may retain some information when permitted by law.,注：法律で許可されている場合、一部の情報を保持する場合があります。
+1905,front,ja,Search order,検索順序
+1910,front,ja,Sorry we cannot find what your looking for,申し訳ありませんが、お探しのものが見つかりません
+1911,front,ja,Order now,今すぐ注文
+1912,front,ja,We like each other,私たちはお互いが好きです
+1913,front,ja,Let's not change this!,これを変えないようにしましょう！
+1914,front,ja,Orders Qty,注文数量
+1915,front,ja,Total amount,合計金額
+1916,front,ja,Place on,上に置きます
+1917,front,ja,View,意見
+1920,front,ja,Download PDF,PDFをダウンロード
+1921,front,ja,Cancel order,注文をキャンセルする
+1924,front,ja,Refund Issued,払い戻しが発行されました
+1925,front,ja,Date issued,日付発行
+1926,front,ja,Issued to,に発行した
+1927,front,ja,Amount,額
+1928,front,ja,Description,説明
+1929,front,ja,Replacement,置換
+1931,front,ja,Don't cancel,キャンセルしないでください
+1932,front,ja,How would you like to proceed?,どのように進めたいですか？
+1933,front,ja,Are you sure?,本気ですか？
+1934,front,ja,Order #{{order_id}},注文番号{{order_id}}
+1935,front,ja,{{total}} item,{{total}}アイテム
+1936,front,ja,{{total}} items,{{total}}アイテム
+1937,front,ja,Sub total ({{count}} items),小計（{{count}}アイテム）
+1938,front,ja,Place on {{date}},{{date}}に配置
+1939,front,ja,Payment by {{payment_name}},{{payment_name}}による支払い
+1940,front,ja,Go to checkout,チェックアウトに行きます
+1941,front,ja,Your cart from,からのカート
+1942,front,ja,Your order has not been accepted so there is no charge to cancel. Your payment will be refunded to your account.,ご注文は受け付けておりませんので、キャンセルは無料です。お支払いはアカウントに返金されます。
+1943,front,ja,Your total refund will be {{amount}},払い戻し総額は{{amount}}になります
+1944,front,ja,"Your driver is already on their way to pick up your order, so we can only refund the subtotal and tax",あなたの運転手はすでにあなたの注文を受け取る途中なので、私たちは小計と税金のみを返金することができます
+1946,front,ja,The store has started preparing this order so we can only refund the delivery charges and driver tip,ストアはこの注文の準備を開始したため、配送料とドライバーのチップのみを返金できます
+1947,front,ja,"Store has confirmed order and a driver has been assigned, so we cannot cancel this order",ストアは注文を確認し、ドライバーが割り当てられているため、この注文をキャンセルすることはできません
+1948,front,ja,Refund is not available for this order,この注文の払い戻しはできません
+1949,front,ja,"Your order has not been accepted so there is no charge to cancel, click cancel order to proceed",ご注文は受け付けられていないため、キャンセルは無料です。[注文をキャンセル]をクリックして続行してください
+1950,front,ja,The driver has already on the way to pickup your order so we cannot cannot cancel this order,ドライバーはすでに注文を受け取る途中なので、この注文をキャンセルすることはできません
+1951,front,ja,The restaurant has started preparing this order so we cannot cancel this order,レストランはこの注文の準備を開始したため、この注文をキャンセルすることはできません
+1953,front,ja,this order has no items available,この注文には利用可能なアイテムがありません
+1954,front,ja,order not found,注文が見つかりません
+1955,front,ja,Discount {{discount}},割引{{discount}}
+1957,front,ja,Item refund for {{item_name}},{{item_name}}のアイテムの払い戻し
+1958,front,ja,Item out of stock for {{item_name}},{{item_name}}の商品が在庫切れです
+1959,front,ja,"Cannot cancel this order, this order has existing refund.",この注文をキャンセルすることはできません。この注文には既存の払い戻しがあります。
+1960,front,ja,transaction not found,トランザクションが見つかりません
+1961,front,ja,No invoice payment found,請求書の支払いが見つかりません
+1962,front,ja,no payment has found,支払いが見つかりません
+1963,front,ja,"Wow, man of many places :)",うわー、多くの場所の男:)
+1964,front,ja,"No address, lets change that!",住所がありません。変更しましょう。
+1967,front,ja,Adjust pin,ピンを調整します
+1968,front,ja,Delivery options,配送オプション
+1969,front,ja,Add delivery instructions,配送手順を追加する
+1970,front,ja,"eg. ring the bell after dropoff, leave next to the porch, call upon arrival, etc",例えば。ドロップオフ後にベルを鳴らし、ポーチの隣を離れ、到着時に電話をかけるなど。
+1971,front,ja,Address label,住所ラベル
+1973,front,ja,Cancel,キャンセル
+1974,front,ja,"Aparment, suite or floor",アパート、スイートまたはフロア
+1976,front,ja,Confirm,確認
+1977,front,ja,Yes,はい
+1978,front,ja,Are you sure you want to continue?,続行してもよろしいですか？
+1979,front,ja,Complete Address,完全な住所
+1980,front,ja,Edit,編集
+1981,front,ja,Delete,消去
+1982,front,ja,Address details,住所の詳細
+1984,front,ja,Home,家
+1985,front,ja,Work,仕事
+1986,front,ja,School,学校
+1987,front,ja,Friend house,フレンドハウス
+1988,front,ja,Other,他の
+1989,front,ja,Payment,支払い
+1990,front,ja,You can add your payment info here,ここに支払い情報を追加できます
+1991,front,ja,Add new payment,新しい支払いを追加する
+1992,front,ja,Close Payment,支払いを閉じる
+1993,front,ja,Set Default,デフォルトに設定
+1995,front,ja,Your collection of restaurant and foods,あなたのレストランと食べ物のコレクション
+1996,front,ja,You don't have any save stores here!,ここにはセーブストアはありません！
+1997,front,ja,My orders,私の注文
+1998,front,ja,Payments Options,支払いオプション
+1999,front,ja,Logout,ログアウト
+2003,front,ja,You'll be contacted soon!,すぐに連絡があります！
+2004,front,ja,{{website_title}} needs to be contact you for more information. You can expect a phone call or email in 1-3 business days,詳細については、{{website_title}}から連絡する必要があります。 1〜3営業日で電話またはメールが届きます
+2005,front,ja,THANKS FOR LOADING,読み込んでいただきありがとうございます
+2006,front,ja,Payment successful.,支払い完了。
+2007,front,ja,check your account statements account.,アカウントステートメントアカウントを確認してください。
+2008,front,ja,Go to statement,ステートメントに移動
+2009,front,ja,Cash In,現金で
+2010,front,ja,Cash In Amount,キャッシュイン金額
+2011,front,ja,Continue,継続する
+2012,front,ja,Confirm cash in,現金を確認する
+2013,front,ja,"Cash in amount {{amount}}, click yes to continue.",金額{{amount}}で現金化し、[はい]をクリックして続行します。
+2016,front,ja,Back to dashboard,ダッシュボードに戻る
+2017,front,ja,Subscription Plans,サブスクリプションプラン
+2018,front,ja,Privacy Notice,プライバシー通知
+2019,front,ja,Become Restaurant partner,レストランパートナーになる
+2020,front,ja,Get a sales boost of up to 30% from takeaways,持ち帰りで最大30％の売り上げを伸ばす
+2022,front,ja,Why partner with Us?,なぜ私たちと提携するのですか？
+2023,front,ja,Increase sales,売り上げを伸ばす
+2024,front,ja,Keep the kitchen busy,キッチンを忙しくしてください
+2025,front,ja,Join a well-oiled marketing machine and watch the orders come in through your door and online.,よく油を塗ったマーケティングマシンに参加して、注文がドアからオンラインで届くのを見てください。
+2026,front,ja,Meet them and keep them,それらに会い、それらを維持します
+2027,front,ja,Attract new local customers and keep them coming back for more.,新しい地元の顧客を引き付け、彼らがより多くのために戻ってくるようにします。
+2028,front,ja,Use our services,私たちのサービスを使用する
+2029,front,ja,For businesses big and small,大小の企業向け
+2030,front,ja,"Whatever your size we have tools, business support and savings to help grow your business.",サイズに関係なく、ビジネスの成長に役立つツール、ビジネスサポート、および節約があります。
+2031,front,ja,Overtake competitors,競合他社を追い抜く
+2032,front,ja,Become a Multi Restaurant partner today.,今すぐマルチレストランパートナーになりましょう。
+2033,front,ja,Store name,店舗名
+2034,front,ja,Store address,店舗の住所
+2035,front,ja,Choose your membership program,メンバーシッププログラムを選択してください
+2036,front,ja,Register user,ユーザーを登録する
+2037,front,ja,Signup,サインアップ
+2039,front,ja,Username,ユーザー名
+2040,front,ja,Select Payment,支払いを選択
+2041,front,ja,Select,選択する
+2042,front,ja,weekly,毎週
+2043,front,ja,monthly,毎月
+2044,front,ja,anually,毎年
+2045,front,ja,Enter your card details,カードの詳細を入力してください
+2046,front,ja,Subscribe,購読
+2048,front,ja,Cardholder name,クレジットカード名義人氏名
+2049,front,ja,THANKS FOR JOINING,参加していただきありがとうございます
+2050,front,ja,Your registration is complete!,登録が完了しました。
+2051,front,ja,You can login to merchant portal by clicking {{start_link}}here{{end_link}},{{start_link}}こちら{{end_link}}をクリックすると、マーチャントポータルにログインできます。
+2052,front,ja,Something went wrong.,何かがうまくいかなかった。
+2053,front,ja,"uh-oh! Looks like the page you are trying to access, doesn't exist. Please start afresh.",ええとああ！アクセスしようとしているページが存在しないようです。やり直してください。
+2054,front,ja,Processing payment..,支払いの処理..
+2055,front,ja,don't close this window,このウィンドウを閉じないでください
+2056,front,ja,{{estimation}} mins,{{estimation}}分
+2057,front,ja,{{distance}} {{unit}} delivery distance,{{distance}} {{unit}}配達距離
+2058,front,ja,Leave it at my door,私のドアに置いておきます
+2059,front,ja,Hand it to me,それを私に渡してください
+2060,front,ja,Meet outside,外で会う
+2061,front,ja,Add tip,ヒントを追加
+2062,front,ja,Default,ディフォルト
+2063,front,ja,Add Cash On delivery,代金引換を追加
+2064,front,ja,Cash on Delivery or COD is a payment method that allows pay for the items you have ordered only when it gets delivered.,代金引換または代金引換は、注文した商品が配達されたときにのみ支払うことができる支払い方法です。
+2065,front,ja,Add Cash,現金を追加する
+2066,front,ja,Add New Card,新しいカードを追加する
+2067,front,ja,Card Number,カード番号
+2068,front,ja,Exp. Date,Exp。日にち
+2069,front,ja,Security Code,セキュリティコード
+2070,front,ja,Card Name,カード名
+2071,front,ja,Billing Address,請求先住所
+2072,front,ja,Add Card,カードを追加
+2073,front,ja,Add Paypal,Paypalを追加する
+2074,front,ja,Pay using your paypal account,PayPalアカウントを使用して支払う
+2075,front,ja,Add Stripe,ストライプを追加
+2076,front,ja,Add your stripe account,ストライプアカウントを追加します
+2077,front,ja,You will re-direct to Stripe account to login to your account.,アカウントにログインするには、Stripeアカウントにリダイレクトします。
+2079,front,ja,I authorise {{website_name}} to send instructions to the financial institution that issued my card to take payments from my card account in accordance with the terms of my agreement with {{website_name}},私は、{{website_name}}との契約条件に従って、カードを発行した金融機関にカードアカウントから支払いを受け取るように指示を送信することを{{website_name}}に許可します。
+2080,front,ja,An error has occured,エラーが発生しました
+2081,front,ja,Add Razorpay,Razorpayを追加する
+2082,front,ja,Pay using your Razorpay account,Razorpayアカウントを使用して支払う
+2083,front,ja,Pay using Razorpay,Razorpayを使用して支払う
+2084,front,ja,You will re-direct to Razorpay account to login to your account.,アカウントにログインするには、Razorpayアカウントにリダイレクトします。
+2085,front,ja,Pay with Razorpay,Razorpayで支払う
+2086,front,ja,Creating account,アカウントの作成
+2087,front,ja,Getting payment information....,支払い情報を取得しています...
+2088,front,ja,Add mercadopago,メルカドパゴを追加
+2089,front,ja,Pay using your mercadopago account,Mercadopagoアカウントを使用して支払う
+2090,front,ja,Exp. Date MM/YYYY,賞味期限MM / YYYY
+2091,front,ja,Identification Number,識別番号
+2092,front,ja,Identification,身元
+2093,front,ja,Enter CVV for card,カードのCVVを入力してください
+2095,front,ja,Verification,検証
+2096,front,ja,Order Type,注文タイプ
+2097,front,ja,Desired delivery time,希望納期
+2098,front,ja,Edit phone number,電話番号を編集する
+2099,front,ja,Promotions,プロモーション
+2100,front,ja,Have a promo code?,プロモーションコードをお持ちですか？
+2101,front,ja,Add promo code,プロモーションコードを追加する
+2102,front,ja,Apply,申し込み
+2103,front,ja,Add promo,プロモーションを追加
+2104,front,ja,Not available,利用不可
+2105,front,ja,You're saving {{discount}},{{割引}}を節約しています
+2106,front,ja,Use until {{date}},{{date}}まで使用
+2107,front,ja,({{coupon_name}}) {{amount}}% off,（{{coupon_name}}）{{amount}}％オフ
+2108,front,ja,({{coupon_name}}) {{amount}} off,（{{coupon_name}}）{{amount}}オフ
+2109,front,ja,Min. spend {{amount}},最小{{amount}}を使う
+2110,front,ja,{{amount}}% off over {{order_over}} on {{transaction}},{{transaction}}の{{order_over}}よりも{{amount}}％オフ
+2111,front,ja,valid {{from}} to {{to}},有効な{{from}}から{{to}}
+2112,front,ja,row not found,行が見つかりません
+2113,front,ja,cart uuid not found,カートuuidが見つかりません
+2114,front,ja,order has no item,注文にアイテムがありません
+2115,front,ja,Address not found,住所が見つかりません
+2116,front,ja,no default email provider,デフォルトの電子メールプロバイダーはありません
+2117,front,ja,Place ID is empty,場所IDが空です
+2118,front,ja,Map provider not set,マッププロバイダーが設定されていません
+2119,front,ja,merchant not found,商人が見​​つかりません
+2120,front,ja,Place id not found,場所IDが見つかりません
+2121,front,ja,Invalid filter,無効なフィルター
+2122,front,ja,Invalid coordinates,無効な座標
+2123,front,ja,Invalid distance unit,距離の単位が無効です
+2124,front,ja,Selected delivery time is already past,選択した納期はすでに過ぎています
+2125,front,ja,Currently unavailable,現在お取り扱いできません
+2126,front,ja,no memberhisp program,メンバーシッププログラムはありません
+2127,front,ja,no available payment method,利用可能な支払い方法がありません
+2128,front,ja,no results payment credentials,結果の支払いクレデンシャルはありません
+2129,front,ja,no available saved payment,利用可能な保存済みの支払いがありません
+2130,front,ja,cannot delete records please try again.,レコードを削除できません。もう一度やり直してください。
+2131,front,ja,No payment method meta found,お支払い方法のメタが見つかりません
+2133,front,ja,Please validated captcha,キャプチャを検証してください
+2134,front,ja,Invalid recaptcha secret key,無効なrecaptcha秘密鍵
+2135,front,ja,Invalid google recaptcha error,無効なグーグルキャプチャエラー
+2136,front,ja,Invalid response from google recaptcha,googlerecaptchaからの無効な応答
+2138,front,ja,invalid response,無効な応答
+2139,front,ja,no sms provider set in admin panel,管理パネルにSMSプロバイダーが設定されていません
+2140,front,ja,Undefined facebook response,未定義のFacebookの応答
+2141,front,ja,Invalid ID token,無効なIDトークン
+2142,front,ja,Invalid api keys,無効なAPIキー
+2143,front,ja,undefined map provider,未定義のマッププロバイダー
+2144,front,ja,invalid place id parameters,無効なプレイスIDパラメータ
+2145,front,ja,over query limit,クエリ制限を超えています
+2146,front,ja,input parameter is missing,入力パラメータがありません
+2147,front,ja,unknow error,不明なエラー
+2148,front,ja,undefined error,未定義のエラー
+2149,front,ja,miles,マイル
+2150,front,ja,km,km
+2151,front,ja,ft,フィート
+2152,front,ja,invalid latitude parameters,無効な緯度パラメータ
+2153,front,ja,invalid longitude parameters,無効な経度パラメータ
+2154,front,ja,Search tag,検索タグ
+2155,front,ja,Reach more customers,より多くの顧客にリーチする
+2156,backend,ja,Replace Item,アイテムを交換してください
+2157,backend,ja,Refund payment,返金支払い
+2158,backend,ja,Refund the full amount,全額返金
+2159,backend,ja,Show language selection,言語選択を表示する
+2160,backend,ja,Languages settings,言語設定
+2161,backend,ja,Default language,既定の言語
+2162,backend,ja,Backend Translation,バックエンド翻訳
+2164,backend,ja,Export Backend translation,バックエンド翻訳のエクスポート
+2165,backend,ja,Export Front translation,フロント翻訳のエクスポート
+2166,backend,ja,Backend,バックエンド
+2167,backend,ja,Front end,フロントエンド
+2168,backend,ja,Import language file,言語ファイルをインポートする
+2169,backend,ja,Succesfully imported,正常にインポートされました
+2170,backend,ja,Invalid csv data,無効なcsvデータ
+2171,backend,ja,"Important notice, all the previous save words will be replace by the csv you uploaded.",重要なお知らせです。以前のすべての保存ワードは、アップロードしたcsvに置き換えられます。
+2172,backend,ja,Import,輸入
+2173,front,ja,Filters,フィルタ
+2174,front,ja,Restaurant,レストラン
+2175,front,ja,Food,食べ物
+2176,front,ja,View order,表示の順序
+2177,front,ja,"Tap for hours,address, and more",時間、住所などをタップします
+2178,front,ja,Add your restaurant,あなたのレストランを追加する
+2179,front,ja,Sign up to deliver,配信するためにサインアップ
+2180,front,ja,Best restaurants In your pocket,あなたのポケットの中で最高のレストラン
+2181,front,ja,Get the app,アプリを取得する
+2182,backend,ja,An error has occured.,エラーが発生しました。
+2183,backend,ja,Your password has been reset.,あなたのパスワードはリセットされました。
+2184,backend,ja,Forgot Backend Password Template,バックエンドのパスワードテンプレートを忘れた
+2185,backend,ja,Allow return to home,家に帰ることを許可する
+2186,backend,ja,Version {{version}},バージョン{{version}}
